@@ -33,7 +33,7 @@ if __name__ == '__main__':
                'australia', 'southamerica-east1', 'asia-south1', 'asia-southeast2', 'asia-south2', 'southamerica-west1']
 
     specs_params = ['cores', 'memory', 'local_ssd', 'gpu', 'sole_tenant', 'nested_virtualization', 'cpu', 'benchmark']
-    generations = ['f1', 'g1', 'n1', 'n2', 'n2d', 'e2', 'c2', 'c2d', 'm1', 'm2', 'm3', 'a2', 't2d', 't2a']
+    generations = ['f1', 'g1', 'n1', 'n2', 'n2d', 'e2', 'c2', 'c2d', 'm1', 'm2', 'm3', 'a2', 't2d', 't2a', 'c3']
     # the following variables scraped from https://cloud.google.com/compute/docs/machine-types
     instance_types = ['e2-highcpu-32', 'e2-highcpu-16', 'e2-highcpu-2', 'e2-highcpu-4', 'e2-highcpu-8', 'e2-highmem-16',
                       'e2-highmem-2', 'e2-highmem-4', 'e2-highmem-8', 'e2-medium', 'e2-micro', 'e2-small',
@@ -71,9 +71,20 @@ if __name__ == '__main__':
                       't2d-standard-2', 't2d-standard-4', 't2d-standard-8', 't2d-standard-16', 't2d-standard-32',
                       't2d-standard-48', 't2d-standard-60', 't2a-standard-1', 't2a-standard-2', 't2a-standard-4',
                       't2a-standard-8',
-                      't2a-standard-16', 't2a-standard-32', 't2a-standard-48'
+                      't2a-standard-16', 't2a-standard-32', 't2a-standard-48',
+                      'c3-highcpu-4', 'c3-highcpu-8', 'c3-highcpu-22', 'c3-highcpu-44', 'c3-highcpu-88'. 'c3-highcpu-176' 
                       ]
 
+    c3_instance_types = {
+        "c3-highcpu-4": {"cpu": 4, "memory": 8, "local_ssd": 0, "network_egress": 23, "benchmark": 0},
+        "cc3-highcpu-8": {"cpu": 8, "memory": 16, "local_ssd": 0, "network_egress": 23, "benchmark": 0},
+        "c3-highcpu-22": {"cpu": 22, "memory": 44, "local_ssd": 0, "network_egress": 23, "benchmark": 0},
+        "c3-highcpu-44": {"cpu": 44, "memory": 88, "local_ssd": 0, "network_egress": 32, "benchmark": 0},
+        "c3-highcpu-88": {"cpu": 88, "memory": 176, "local_ssd": 0, "network_egress": 62, "benchmark": 0},
+        "c3-highcpu-176": {"cpu": 176, "memory": 352, "local_ssd": 0, "network_egress": 100, "benchmark": 0},
+
+
+    }
     c2_instance_types = {
         "c2-standard-4": {"cpu": 4, "memory": 16, "local_ssd": 1, "network_egress": 10, "benchmark": 77310},
         "c2-standard-8": {"cpu": 8, "memory": 32, "local_ssd": 1, "network_egress": 16, "benchmark": 148689},
@@ -1064,6 +1075,52 @@ if __name__ == '__main__':
                 if reg == reg2:
                     output['c2'][k]['regions'][reg]['cud-3y'] = nice(v['cpu'] * c2_cpu_region_cost + v[
                         'memory'] * c2_ram_region_cost)
+
+    # C3
+    # On Demand, SUD and specs
+    c3_ram = data['CP-COMPUTEENGINE-C3-PREDEFINED-VM-RAM']
+    c3_cpu = data['CP-COMPUTEENGINE-C3-PREDEFINED-VM-CORE']
+    for k, v in c3_instance_types.items():
+        output['c3'][k]['specs'].update({'cores': v['cpu'], 'memory': v['memory'], 'local_ssd': v['local_ssd'],
+                                         'network_egress': v['network_egress'], 'benchmark': v['benchmark'],
+                                         'cpu': ['Cascade Lake'],
+                                         'regional_disk': 0, 'gpu': 0, 'sole_tenant': -1,
+                                         'nested_virtualization': -1})
+        for reg, c3_cpu_region_cost in c3_cpu.items():
+            for reg2, c3_ram_region_cost in c3_ram.items():
+                if reg == reg2:
+                    output['c3'][k]['regions'][reg]['ondemand'] = nice(v['cpu'] * c3_cpu_region_cost + v[
+                        'memory'] * c3_ram_region_cost)
+                    output['c3'][k]['regions'][reg]['sud'] = nice(
+                        c3_sud_discount * (v['cpu'] * c3_cpu_region_cost + v[
+                            'memory'] * c3_ram_region_cost))
+    # Preemptible
+    c3_ram = data['CP-COMPUTEENGINE-C3-PREDEFINED-VM-RAM-PREEMPTIBLE']
+    c3_cpu = data['CP-COMPUTEENGINE-C3-PREDEFINED-VM-CORE-PREEMPTIBLE']
+    for k, v in c3_instance_types.items():
+        for reg, c3_cpu_region_cost in c3_cpu.items():
+            for reg2, c3_ram_region_cost in c3_ram.items():
+                if reg == reg2:
+                    output['c3'][k]['regions'][reg]['preemptible'] = nice(v['cpu'] * c3_cpu_region_cost + v[
+                        'memory'] * c3_ram_region_cost)
+    # CUD - 1 year
+    c3_ram = data['CP-COMPUTEENGINE-C3-CUD-1-YEAR-RAM']
+    c3_cpu = data['CP-COMPUTEENGINE-C3-CUD-1-YEAR-CPU']
+    for k, v in c3_instance_types.items():
+        for reg, c3_cpu_region_cost in c3_cpu.items():
+            for reg2, c3_ram_region_cost in c3_ram.items():
+                if reg == reg2:
+                    output['c3'][k]['regions'][reg]['cud-1y'] = nice(v['cpu'] * c3_cpu_region_cost + v[
+                        'memory'] * c3_ram_region_cost)
+    # CUD - 3 year
+    c3_ram = data['CP-COMPUTEENGINE-C3-CUD-3-YEAR-RAM']
+    c3_cpu = data['CP-COMPUTEENGINE-C3-CUD-3-YEAR-CPU']
+    for k, v in c3_instance_types.items():
+        for reg, c3_cpu_region_cost in c3_cpu.items():
+            for reg2, c3_ram_region_cost in c3_ram.items():
+                if reg == reg2:
+                    output['c3'][k]['regions'][reg]['cud-3y'] = nice(v['cpu'] * c3_cpu_region_cost + v[
+                        'memory'] * c3_ram_region_cost)
 
     # A2
     # On Demand, SUD and specs
