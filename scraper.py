@@ -72,7 +72,7 @@ if __name__ == '__main__':
                       't2d-standard-48', 't2d-standard-60', 't2a-standard-1', 't2a-standard-2', 't2a-standard-4',
                       't2a-standard-8',
                       't2a-standard-16', 't2a-standard-32', 't2a-standard-48',
-                      'c3-highcpu-4', 'c3-highcpu-8', 'c3-highcpu-22', 'c3-highcpu-44', 'c3-highcpu-88'. 'c3-highcpu-176' 
+                      'c3-highcpu-4', 'c3-highcpu-8', 'c3-highcpu-22', 'c3-highcpu-44', 'c3-highcpu-88', 'c3-highcpu-176',
                       ]
 
     c3_instance_types = {
