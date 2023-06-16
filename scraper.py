@@ -78,7 +78,7 @@ if __name__ == '__main__':
 
     c3_instance_types = {
         "c3-highcpu-4": {"cpu": 4, "memory": 8, "local_ssd": 0, "network_egress": 23, "benchmark": 0},
-        "cc3-highcpu-8": {"cpu": 8, "memory": 16, "local_ssd": 0, "network_egress": 23, "benchmark": 0},
+        "c3-highcpu-8": {"cpu": 8, "memory": 16, "local_ssd": 0, "network_egress": 23, "benchmark": 0},
         "c3-highcpu-22": {"cpu": 22, "memory": 44, "local_ssd": 0, "network_egress": 23, "benchmark": 0},
         "c3-highcpu-44": {"cpu": 44, "memory": 88, "local_ssd": 0, "network_egress": 32, "benchmark": 0},
         "c3-highcpu-88": {"cpu": 88, "memory": 176, "local_ssd": 0, "network_egress": 62, "benchmark": 0},
