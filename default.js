@@ -7,16 +7,16 @@ var g_data_table = null;
 var g_settings = {};
 
 var g_settings_defaults = {
-  cost_duration: 'hourly',
-  region: 'us-central1',
+  cost_duration: 'monthly',
+  region: 'europe-west1',
   reserved_term: 'cud-1y',
   min_memory: 0,
   min_vcpus: 0,
   min_storage: 0,
   selected: '',
   compare_on: false,
-  currency: 'USD',
-  symbol: '$',
+  currency: 'EUR',
+  symbol: '€',
   price: '1',
 };
 
