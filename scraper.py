@@ -22,6 +22,7 @@ if __name__ == '__main__':
     a2_sud_discount = 1
     t2d_sud_discount = 1
     t2a_sud_discount = 0.7
+    c3_sud_discount = 1
 
     regions = ['us', 'us-central1', 'us-east1', 'us-east4', 'us-east5', 'us-west4', 'us-west1', 'us-west2',
                'us-west3', 'us-south1', 'europe', 'europe-central2', 'europe-west1', 'europe-west2',
