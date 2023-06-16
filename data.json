@@ -8809,6 +8809,1712 @@
       }
     }
   },
+  "c3": {
+    "c3-highcpu-176": {
+      "regions": {
+        "asia": {},
+        "asia-east": {},
+        "asia-east1": {
+          "cud-1y": 5.5323,
+          "cud-3y": 3.95129,
+          "ondemand": 8.78152,
+          "preemptible": 2.01854,
+          "sud": 8.78152
+        },
+        "asia-east2": {
+          "cud-1y": 6.68377,
+          "cud-3y": 4.7737,
+          "ondemand": 10.61174,
+          "preemptible": 2.56978,
+          "sud": 10.61174
+        },
+        "asia-northeast": {},
+        "asia-northeast1": {
+          "cud-1y": 6.13574,
+          "cud-3y": 4.38229,
+          "ondemand": 9.73526,
+          "preemptible": 1.01376,
+          "sud": 9.73526
+        },
+        "asia-northeast2": {
+          "cud-1y": 6.13574,
+          "cud-3y": 4.38229,
+          "ondemand": 9.73526,
+          "preemptible": 2.43267,
+          "sud": 9.73526
+        },
+        "asia-northeast3": {
+          "cud-1y": 6.13574,
+          "cud-3y": 4.38229,
+          "ondemand": 9.73526,
+          "preemptible": 2.43267,
+          "sud": 9.73526
+        },
+        "asia-south1": {
+          "cud-1y": 5.7387,
+          "cud-3y": 4.09871,
+          "ondemand": 9.10941,
+          "preemptible": 1.83515,
+          "sud": 9.10941
+        },
+        "asia-south2": {
+          "cud-1y": 5.7387,
+          "cud-3y": 4.09871,
+          "ondemand": 9.10941,
+          "preemptible": 2.20218,
+          "sud": 9.10941
+        },
+        "asia-southeast": {},
+        "asia-southeast1": {
+          "cud-1y": 5.89446,
+          "cud-3y": 4.20996,
+          "ondemand": 9.35616,
+          "preemptible": 2.15283,
+          "sud": 9.35616
+        },
+        "asia-southeast2": {
+          "cud-1y": 6.4248,
+          "cud-3y": 4.58874,
+          "ondemand": 10.19821,
+          "preemptible": 2.46787,
+          "sud": 10.19821
+        },
+        "australia": {},
+        "australia-southeast1": {
+          "cud-1y": 6.78219,
+          "cud-3y": 4.84399,
+          "ondemand": 10.76134,
+          "preemptible": 2.47491,
+          "sud": 10.76134
+        },
+        "australia-southeast2": {
+          "cud-1y": 6.78219,
+          "cud-3y": 4.84399,
+          "ondemand": 10.76134,
+          "preemptible": 2.60592,
+          "sud": 10.76134
+        },
+        "europe": {},
+        "europe-central2": {
+          "cud-1y": 6.15581,
+          "cud-3y": 4.39662,
+          "ondemand": 9.77134,
+          "preemptible": 2.24646,
+          "sud": 9.77134
+        },
+        "europe-north1": {
+          "cud-1y": 5.26091,
+          "cud-3y": 3.75746,
+          "ondemand": 8.35014,
+          "preemptible": 2.01854,
+          "sud": 8.35014
+        },
+        "europe-southwest1": {
+          "cud-1y": 5.63789,
+          "cud-3y": 4.02671,
+          "ondemand": 8.94935,
+          "preemptible": 0.90216,
+          "sud": 8.94935
+        },
+        "europe-west1": {
+          "cud-1y": 5.26091,
+          "cud-3y": 3.75746,
+          "ondemand": 8.34293,
+          "preemptible": 2.01872,
+          "sud": 8.34293
+        },
+        "europe-west12": {
+          "cud-1y": 6.16345,
+          "cud-3y": 4.40208,
+          "ondemand": 9.78361,
+          "preemptible": 0.88818,
+          "sud": 9.78361
+        },
+        "europe-west2": {
+          "cud-1y": 6.15581,
+          "cud-3y": 4.39662,
+          "ondemand": 9.77134,
+          "preemptible": 2.24646,
+          "sud": 9.77134
+        },
+        "europe-west3": {
+          "cud-1y": 6.15581,
+          "cud-3y": 4.39662,
+          "ondemand": 9.77134,
+          "preemptible": 2.24646,
+          "sud": 9.77134
+        },
+        "europe-west4": {
+          "cud-1y": 5.26091,
+          "cud-3y": 3.75746,
+          "ondemand": 8.34944,
+          "preemptible": 0.96941,
+          "sud": 8.34944
+        },
+        "europe-west6": {
+          "cud-1y": 6.68377,
+          "cud-3y": 4.7737,
+          "ondemand": 10.60946,
+          "preemptible": 2.56784,
+          "sud": 10.60946
+        },
+        "europe-west8": {
+          "cud-1y": 5.54233,
+          "cud-3y": 3.95846,
+          "ondemand": 8.79766,
+          "preemptible": 0.88687,
+          "sud": 8.79766
+        },
+        "europe-west9": {
+          "cud-1y": 5.54233,
+          "cud-3y": 3.95846,
+          "ondemand": 8.79766,
+          "preemptible": 0.88687,
+          "sud": 8.79766
+        },
+        "me-central1": {
+          "cud-1y": 5.80512,
+          "cud-3y": 4.14614,
+          "ondemand": 9.21479,
+          "preemptible": 0.83654,
+          "sud": 9.21479
+        },
+        "me-west1": {
+          "cud-1y": 5.25566,
+          "cud-3y": 3.75371,
+          "ondemand": 8.34261,
+          "preemptible": 0.841,
+          "sud": 8.34261
+        },
+        "northamerica-northeast1": {
+          "cud-1y": 5.26091,
+          "cud-3y": 3.75746,
+          "ondemand": 8.34944,
+          "preemptible": 2.02242,
+          "sud": 8.34944
+        },
+        "northamerica-northeast2": {
+          "cud-1y": 5.26091,
+          "cud-3y": 3.75746,
+          "ondemand": 8.34944,
+          "preemptible": 2.01967,
+          "sud": 8.34944
+        },
+        "southamerica-east1": {
+          "cud-1y": 7.58678,
+          "cud-3y": 5.41865,
+          "ondemand": 12.03875,
+          "preemptible": 1.1535,
+          "sud": 12.03875
+        },
+        "southamerica-west1": {
+          "cud-1y": 6.83236,
+          "cud-3y": 4.87982,
+          "ondemand": 10.84539,
+          "preemptible": 2.62427,
+          "sud": 10.84539
+        },
+        "us": {},
+        "us-central1": {
+          "cud-1y": 4.77787,
+          "cud-3y": 3.41246,
+          "ondemand": 7.58419,
+          "preemptible": 0.68851,
+          "sud": 7.58419
+        },
+        "us-east1": {
+          "cud-1y": 4.77787,
+          "cud-3y": 3.41246,
+          "ondemand": 7.58419,
+          "preemptible": 0.68851,
+          "sud": 7.58419
+        },
+        "us-east4": {
+          "cud-1y": 5.38132,
+          "cud-3y": 3.84346,
+          "ondemand": 8.54093,
+          "preemptible": 2.25843,
+          "sud": 8.54093
+        },
+        "us-east5": {
+          "cud-1y": 5.38132,
+          "cud-3y": 3.84346,
+          "ondemand": 7.58419,
+          "preemptible": 0.76454,
+          "sud": 7.58419
+        },
+        "us-south1": {
+          "cud-1y": 5.63789,
+          "cud-3y": 4.02671,
+          "ondemand": 8.94935,
+          "preemptible": 0.90216,
+          "sud": 8.94935
+        },
+        "us-west1": {
+          "cud-1y": 4.77787,
+          "cud-3y": 3.41246,
+          "ondemand": 7.58419,
+          "preemptible": 0.68851,
+          "sud": 7.58419
+        },
+        "us-west2": {
+          "cud-1y": 5.74348,
+          "cud-3y": 4.10212,
+          "ondemand": 9.10976,
+          "preemptible": 2.20493,
+          "sud": 9.10976
+        },
+        "us-west3": {
+          "cud-1y": 5.74348,
+          "cud-3y": 4.10212,
+          "ondemand": 9.10976,
+          "preemptible": 2.20493,
+          "sud": 9.10976
+        },
+        "us-west4": {
+          "cud-1y": 5.38132,
+          "cud-3y": 3.84346,
+          "ondemand": 8.54093,
+          "preemptible": 1.96346,
+          "sud": 8.54093
+        }
+      },
+      "specs": {
+        "benchmark": 0,
+        "cores": 176,
+        "cpu": [
+          "Cascade Lake"
+        ],
+        "gpu": 0,
+        "local_ssd": 0,
+        "memory": 352,
+        "nested_virtualization": -1,
+        "network_egress": 100,
+        "regional_disk": 0,
+        "sole_tenant": -1
+      }
+    },
+    "c3-highcpu-22": {
+      "regions": {
+        "asia": {},
+        "asia-east": {},
+        "asia-east1": {
+          "cud-1y": 0.69154,
+          "cud-3y": 0.49391,
+          "ondemand": 1.09769,
+          "preemptible": 0.25232,
+          "sud": 1.09769
+        },
+        "asia-east2": {
+          "cud-1y": 0.83547,
+          "cud-3y": 0.59671,
+          "ondemand": 1.32647,
+          "preemptible": 0.32122,
+          "sud": 1.32647
+        },
+        "asia-northeast": {},
+        "asia-northeast1": {
+          "cud-1y": 0.76697,
+          "cud-3y": 0.54779,
+          "ondemand": 1.21691,
+          "preemptible": 0.12672,
+          "sud": 1.21691
+        },
+        "asia-northeast2": {
+          "cud-1y": 0.76697,
+          "cud-3y": 0.54779,
+          "ondemand": 1.21691,
+          "preemptible": 0.30408,
+          "sud": 1.21691
+        },
+        "asia-northeast3": {
+          "cud-1y": 0.76697,
+          "cud-3y": 0.54779,
+          "ondemand": 1.21691,
+          "preemptible": 0.30408,
+          "sud": 1.21691
+        },
+        "asia-south1": {
+          "cud-1y": 0.71734,
+          "cud-3y": 0.51234,
+          "ondemand": 1.13868,
+          "preemptible": 0.22939,
+          "sud": 1.13868
+        },
+        "asia-south2": {
+          "cud-1y": 0.71734,
+          "cud-3y": 0.51234,
+          "ondemand": 1.13868,
+          "preemptible": 0.27527,
+          "sud": 1.13868
+        },
+        "asia-southeast": {},
+        "asia-southeast1": {
+          "cud-1y": 0.73681,
+          "cud-3y": 0.52624,
+          "ondemand": 1.16952,
+          "preemptible": 0.2691,
+          "sud": 1.16952
+        },
+        "asia-southeast2": {
+          "cud-1y": 0.8031,
+          "cud-3y": 0.57359,
+          "ondemand": 1.27478,
+          "preemptible": 0.30848,
+          "sud": 1.27478
+        },
+        "australia": {},
+        "australia-southeast1": {
+          "cud-1y": 0.84777,
+          "cud-3y": 0.6055,
+          "ondemand": 1.34517,
+          "preemptible": 0.30936,
+          "sud": 1.34517
+        },
+        "australia-southeast2": {
+          "cud-1y": 0.84777,
+          "cud-3y": 0.6055,
+          "ondemand": 1.34517,
+          "preemptible": 0.32574,
+          "sud": 1.34517
+        },
+        "europe": {},
+        "europe-central2": {
+          "cud-1y": 0.76948,
+          "cud-3y": 0.54958,
+          "ondemand": 1.22142,
+          "preemptible": 0.28081,
+          "sud": 1.22142
+        },
+        "europe-north1": {
+          "cud-1y": 0.65761,
+          "cud-3y": 0.46968,
+          "ondemand": 1.04377,
+          "preemptible": 0.25232,
+          "sud": 1.04377
+        },
+        "europe-southwest1": {
+          "cud-1y": 0.70474,
+          "cud-3y": 0.50334,
+          "ondemand": 1.11867,
+          "preemptible": 0.11277,
+          "sud": 1.11867
+        },
+        "europe-west1": {
+          "cud-1y": 0.65761,
+          "cud-3y": 0.46968,
+          "ondemand": 1.04287,
+          "preemptible": 0.25234,
+          "sud": 1.04287
+        },
+        "europe-west12": {
+          "cud-1y": 0.77043,
+          "cud-3y": 0.55026,
+          "ondemand": 1.22295,
+          "preemptible": 0.11102,
+          "sud": 1.22295
+        },
+        "europe-west2": {
+          "cud-1y": 0.76948,
+          "cud-3y": 0.54958,
+          "ondemand": 1.22142,
+          "preemptible": 0.28081,
+          "sud": 1.22142
+        },
+        "europe-west3": {
+          "cud-1y": 0.76948,
+          "cud-3y": 0.54958,
+          "ondemand": 1.22142,
+          "preemptible": 0.28081,
+          "sud": 1.22142
+        },
+        "europe-west4": {
+          "cud-1y": 0.65761,
+          "cud-3y": 0.46968,
+          "ondemand": 1.04368,
+          "preemptible": 0.12118,
+          "sud": 1.04368
+        },
+        "europe-west6": {
+          "cud-1y": 0.83547,
+          "cud-3y": 0.59671,
+          "ondemand": 1.32618,
+          "preemptible": 0.32098,
+          "sud": 1.32618
+        },
+        "europe-west8": {
+          "cud-1y": 0.69279,
+          "cud-3y": 0.49481,
+          "ondemand": 1.09971,
+          "preemptible": 0.11086,
+          "sud": 1.09971
+        },
+        "europe-west9": {
+          "cud-1y": 0.69279,
+          "cud-3y": 0.49481,
+          "ondemand": 1.09971,
+          "preemptible": 0.11086,
+          "sud": 1.09971
+        },
+        "me-central1": {
+          "cud-1y": 0.72564,
+          "cud-3y": 0.51827,
+          "ondemand": 1.15185,
+          "preemptible": 0.10457,
+          "sud": 1.15185
+        },
+        "me-west1": {
+          "cud-1y": 0.65696,
+          "cud-3y": 0.46921,
+          "ondemand": 1.04283,
+          "preemptible": 0.10512,
+          "sud": 1.04283
+        },
+        "northamerica-northeast1": {
+          "cud-1y": 0.65761,
+          "cud-3y": 0.46968,
+          "ondemand": 1.04368,
+          "preemptible": 0.2528,
+          "sud": 1.04368
+        },
+        "northamerica-northeast2": {
+          "cud-1y": 0.65761,
+          "cud-3y": 0.46968,
+          "ondemand": 1.04368,
+          "preemptible": 0.25246,
+          "sud": 1.04368
+        },
+        "southamerica-east1": {
+          "cud-1y": 0.94835,
+          "cud-3y": 0.67733,
+          "ondemand": 1.50484,
+          "preemptible": 0.14419,
+          "sud": 1.50484
+        },
+        "southamerica-west1": {
+          "cud-1y": 0.85404,
+          "cud-3y": 0.60998,
+          "ondemand": 1.35567,
+          "preemptible": 0.32803,
+          "sud": 1.35567
+        },
+        "us": {},
+        "us-central1": {
+          "cud-1y": 0.59723,
+          "cud-3y": 0.42656,
+          "ondemand": 0.94802,
+          "preemptible": 0.08606,
+          "sud": 0.94802
+        },
+        "us-east1": {
+          "cud-1y": 0.59723,
+          "cud-3y": 0.42656,
+          "ondemand": 0.94802,
+          "preemptible": 0.08606,
+          "sud": 0.94802
+        },
+        "us-east4": {
+          "cud-1y": 0.67266,
+          "cud-3y": 0.48043,
+          "ondemand": 1.06762,
+          "preemptible": 0.2823,
+          "sud": 1.06762
+        },
+        "us-east5": {
+          "cud-1y": 0.67266,
+          "cud-3y": 0.48043,
+          "ondemand": 0.94802,
+          "preemptible": 0.09557,
+          "sud": 0.94802
+        },
+        "us-south1": {
+          "cud-1y": 0.70474,
+          "cud-3y": 0.50334,
+          "ondemand": 1.11867,
+          "preemptible": 0.11277,
+          "sud": 1.11867
+        },
+        "us-west1": {
+          "cud-1y": 0.59723,
+          "cud-3y": 0.42656,
+          "ondemand": 0.94802,
+          "preemptible": 0.08606,
+          "sud": 0.94802
+        },
+        "us-west2": {
+          "cud-1y": 0.71794,
+          "cud-3y": 0.51277,
+          "ondemand": 1.13872,
+          "preemptible": 0.27562,
+          "sud": 1.13872
+        },
+        "us-west3": {
+          "cud-1y": 0.71794,
+          "cud-3y": 0.51277,
+          "ondemand": 1.13872,
+          "preemptible": 0.27562,
+          "sud": 1.13872
+        },
+        "us-west4": {
+          "cud-1y": 0.67266,
+          "cud-3y": 0.48043,
+          "ondemand": 1.06762,
+          "preemptible": 0.24543,
+          "sud": 1.06762
+        }
+      },
+      "specs": {
+        "benchmark": 0,
+        "cores": 22,
+        "cpu": [
+          "Cascade Lake"
+        ],
+        "gpu": 0,
+        "local_ssd": 0,
+        "memory": 44,
+        "nested_virtualization": -1,
+        "network_egress": 23,
+        "regional_disk": 0,
+        "sole_tenant": -1
+      }
+    },
+    "c3-highcpu-4": {
+      "regions": {
+        "asia": {},
+        "asia-east": {},
+        "asia-east1": {
+          "cud-1y": 0.12573,
+          "cud-3y": 0.0898,
+          "ondemand": 0.19958,
+          "preemptible": 0.04588,
+          "sud": 0.19958
+        },
+        "asia-east2": {
+          "cud-1y": 0.1519,
+          "cud-3y": 0.10849,
+          "ondemand": 0.24118,
+          "preemptible": 0.0584,
+          "sud": 0.24118
+        },
+        "asia-northeast": {},
+        "asia-northeast1": {
+          "cud-1y": 0.13945,
+          "cud-3y": 0.0996,
+          "ondemand": 0.22126,
+          "preemptible": 0.02304,
+          "sud": 0.22126
+        },
+        "asia-northeast2": {
+          "cud-1y": 0.13945,
+          "cud-3y": 0.0996,
+          "ondemand": 0.22126,
+          "preemptible": 0.05529,
+          "sud": 0.22126
+        },
+        "asia-northeast3": {
+          "cud-1y": 0.13945,
+          "cud-3y": 0.0996,
+          "ondemand": 0.22126,
+          "preemptible": 0.05529,
+          "sud": 0.22126
+        },
+        "asia-south1": {
+          "cud-1y": 0.13043,
+          "cud-3y": 0.09315,
+          "ondemand": 0.20703,
+          "preemptible": 0.04171,
+          "sud": 0.20703
+        },
+        "asia-south2": {
+          "cud-1y": 0.13043,
+          "cud-3y": 0.09315,
+          "ondemand": 0.20703,
+          "preemptible": 0.05005,
+          "sud": 0.20703
+        },
+        "asia-southeast": {},
+        "asia-southeast1": {
+          "cud-1y": 0.13397,
+          "cud-3y": 0.09568,
+          "ondemand": 0.21264,
+          "preemptible": 0.04893,
+          "sud": 0.21264
+        },
+        "asia-southeast2": {
+          "cud-1y": 0.14602,
+          "cud-3y": 0.10429,
+          "ondemand": 0.23178,
+          "preemptible": 0.05609,
+          "sud": 0.23178
+        },
+        "australia": {},
+        "australia-southeast1": {
+          "cud-1y": 0.15414,
+          "cud-3y": 0.11009,
+          "ondemand": 0.24458,
+          "preemptible": 0.05625,
+          "sud": 0.24458
+        },
+        "australia-southeast2": {
+          "cud-1y": 0.15414,
+          "cud-3y": 0.11009,
+          "ondemand": 0.24458,
+          "preemptible": 0.05923,
+          "sud": 0.24458
+        },
+        "europe": {},
+        "europe-central2": {
+          "cud-1y": 0.1399,
+          "cud-3y": 0.09992,
+          "ondemand": 0.22208,
+          "preemptible": 0.05106,
+          "sud": 0.22208
+        },
+        "europe-north1": {
+          "cud-1y": 0.11957,
+          "cud-3y": 0.0854,
+          "ondemand": 0.18978,
+          "preemptible": 0.04588,
+          "sud": 0.18978
+        },
+        "europe-southwest1": {
+          "cud-1y": 0.12813,
+          "cud-3y": 0.09152,
+          "ondemand": 0.20339,
+          "preemptible": 0.0205,
+          "sud": 0.20339
+        },
+        "europe-west1": {
+          "cud-1y": 0.11957,
+          "cud-3y": 0.0854,
+          "ondemand": 0.18961,
+          "preemptible": 0.04588,
+          "sud": 0.18961
+        },
+        "europe-west12": {
+          "cud-1y": 0.14008,
+          "cud-3y": 0.10005,
+          "ondemand": 0.22235,
+          "preemptible": 0.02019,
+          "sud": 0.22235
+        },
+        "europe-west2": {
+          "cud-1y": 0.1399,
+          "cud-3y": 0.09992,
+          "ondemand": 0.22208,
+          "preemptible": 0.05106,
+          "sud": 0.22208
+        },
+        "europe-west3": {
+          "cud-1y": 0.1399,
+          "cud-3y": 0.09992,
+          "ondemand": 0.22208,
+          "preemptible": 0.05106,
+          "sud": 0.22208
+        },
+        "europe-west4": {
+          "cud-1y": 0.11957,
+          "cud-3y": 0.0854,
+          "ondemand": 0.18976,
+          "preemptible": 0.02203,
+          "sud": 0.18976
+        },
+        "europe-west6": {
+          "cud-1y": 0.1519,
+          "cud-3y": 0.10849,
+          "ondemand": 0.24112,
+          "preemptible": 0.05836,
+          "sud": 0.24112
+        },
+        "europe-west8": {
+          "cud-1y": 0.12596,
+          "cud-3y": 0.08996,
+          "ondemand": 0.19995,
+          "preemptible": 0.02016,
+          "sud": 0.19995
+        },
+        "europe-west9": {
+          "cud-1y": 0.12596,
+          "cud-3y": 0.08996,
+          "ondemand": 0.19995,
+          "preemptible": 0.02016,
+          "sud": 0.19995
+        },
+        "me-central1": {
+          "cud-1y": 0.13193,
+          "cud-3y": 0.09423,
+          "ondemand": 0.20943,
+          "preemptible": 0.01901,
+          "sud": 0.20943
+        },
+        "me-west1": {
+          "cud-1y": 0.11945,
+          "cud-3y": 0.08531,
+          "ondemand": 0.1896,
+          "preemptible": 0.01911,
+          "sud": 0.1896
+        },
+        "northamerica-northeast1": {
+          "cud-1y": 0.11957,
+          "cud-3y": 0.0854,
+          "ondemand": 0.18976,
+          "preemptible": 0.04596,
+          "sud": 0.18976
+        },
+        "northamerica-northeast2": {
+          "cud-1y": 0.11957,
+          "cud-3y": 0.0854,
+          "ondemand": 0.18976,
+          "preemptible": 0.0459,
+          "sud": 0.18976
+        },
+        "southamerica-east1": {
+          "cud-1y": 0.17243,
+          "cud-3y": 0.12315,
+          "ondemand": 0.27361,
+          "preemptible": 0.02622,
+          "sud": 0.27361
+        },
+        "southamerica-west1": {
+          "cud-1y": 0.15528,
+          "cud-3y": 0.11091,
+          "ondemand": 0.24649,
+          "preemptible": 0.05964,
+          "sud": 0.24649
+        },
+        "us": {},
+        "us-central1": {
+          "cud-1y": 0.10859,
+          "cud-3y": 0.07756,
+          "ondemand": 0.17237,
+          "preemptible": 0.01565,
+          "sud": 0.17237
+        },
+        "us-east1": {
+          "cud-1y": 0.10859,
+          "cud-3y": 0.07756,
+          "ondemand": 0.17237,
+          "preemptible": 0.01565,
+          "sud": 0.17237
+        },
+        "us-east4": {
+          "cud-1y": 0.1223,
+          "cud-3y": 0.08735,
+          "ondemand": 0.19411,
+          "preemptible": 0.05133,
+          "sud": 0.19411
+        },
+        "us-east5": {
+          "cud-1y": 0.1223,
+          "cud-3y": 0.08735,
+          "ondemand": 0.17237,
+          "preemptible": 0.01738,
+          "sud": 0.17237
+        },
+        "us-south1": {
+          "cud-1y": 0.12813,
+          "cud-3y": 0.09152,
+          "ondemand": 0.20339,
+          "preemptible": 0.0205,
+          "sud": 0.20339
+        },
+        "us-west1": {
+          "cud-1y": 0.10859,
+          "cud-3y": 0.07756,
+          "ondemand": 0.17237,
+          "preemptible": 0.01565,
+          "sud": 0.17237
+        },
+        "us-west2": {
+          "cud-1y": 0.13053,
+          "cud-3y": 0.09323,
+          "ondemand": 0.20704,
+          "preemptible": 0.05011,
+          "sud": 0.20704
+        },
+        "us-west3": {
+          "cud-1y": 0.13053,
+          "cud-3y": 0.09323,
+          "ondemand": 0.20704,
+          "preemptible": 0.05011,
+          "sud": 0.20704
+        },
+        "us-west4": {
+          "cud-1y": 0.1223,
+          "cud-3y": 0.08735,
+          "ondemand": 0.19411,
+          "preemptible": 0.04462,
+          "sud": 0.19411
+        }
+      },
+      "specs": {
+        "benchmark": 0,
+        "cores": 4,
+        "cpu": [
+          "Cascade Lake"
+        ],
+        "gpu": 0,
+        "local_ssd": 0,
+        "memory": 8,
+        "nested_virtualization": -1,
+        "network_egress": 23,
+        "regional_disk": 0,
+        "sole_tenant": -1
+      }
+    },
+    "c3-highcpu-44": {
+      "regions": {
+        "asia": {},
+        "asia-east": {},
+        "asia-east1": {
+          "cud-1y": 1.38307,
+          "cud-3y": 0.98782,
+          "ondemand": 2.19538,
+          "preemptible": 0.50464,
+          "sud": 2.19538
+        },
+        "asia-east2": {
+          "cud-1y": 1.67094,
+          "cud-3y": 1.19342,
+          "ondemand": 2.65294,
+          "preemptible": 0.64244,
+          "sud": 2.65294
+        },
+        "asia-northeast": {},
+        "asia-northeast1": {
+          "cud-1y": 1.53394,
+          "cud-3y": 1.09557,
+          "ondemand": 2.43382,
+          "preemptible": 0.25344,
+          "sud": 2.43382
+        },
+        "asia-northeast2": {
+          "cud-1y": 1.53394,
+          "cud-3y": 1.09557,
+          "ondemand": 2.43382,
+          "preemptible": 0.60817,
+          "sud": 2.43382
+        },
+        "asia-northeast3": {
+          "cud-1y": 1.53394,
+          "cud-3y": 1.09557,
+          "ondemand": 2.43382,
+          "preemptible": 0.60817,
+          "sud": 2.43382
+        },
+        "asia-south1": {
+          "cud-1y": 1.43468,
+          "cud-3y": 1.02468,
+          "ondemand": 2.27735,
+          "preemptible": 0.45879,
+          "sud": 2.27735
+        },
+        "asia-south2": {
+          "cud-1y": 1.43468,
+          "cud-3y": 1.02468,
+          "ondemand": 2.27735,
+          "preemptible": 0.55055,
+          "sud": 2.27735
+        },
+        "asia-southeast": {},
+        "asia-southeast1": {
+          "cud-1y": 1.47362,
+          "cud-3y": 1.05249,
+          "ondemand": 2.33904,
+          "preemptible": 0.53821,
+          "sud": 2.33904
+        },
+        "asia-southeast2": {
+          "cud-1y": 1.6062,
+          "cud-3y": 1.14719,
+          "ondemand": 2.54955,
+          "preemptible": 0.61697,
+          "sud": 2.54955
+        },
+        "australia": {},
+        "australia-southeast1": {
+          "cud-1y": 1.69555,
+          "cud-3y": 1.211,
+          "ondemand": 2.69034,
+          "preemptible": 0.61873,
+          "sud": 2.69034
+        },
+        "australia-southeast2": {
+          "cud-1y": 1.69555,
+          "cud-3y": 1.211,
+          "ondemand": 2.69034,
+          "preemptible": 0.65148,
+          "sud": 2.69034
+        },
+        "europe": {},
+        "europe-central2": {
+          "cud-1y": 1.53895,
+          "cud-3y": 1.09915,
+          "ondemand": 2.44284,
+          "preemptible": 0.56162,
+          "sud": 2.44284
+        },
+        "europe-north1": {
+          "cud-1y": 1.31523,
+          "cud-3y": 0.93937,
+          "ondemand": 2.08754,
+          "preemptible": 0.50464,
+          "sud": 2.08754
+        },
+        "europe-southwest1": {
+          "cud-1y": 1.40947,
+          "cud-3y": 1.00668,
+          "ondemand": 2.23734,
+          "preemptible": 0.22554,
+          "sud": 2.23734
+        },
+        "europe-west1": {
+          "cud-1y": 1.31523,
+          "cud-3y": 0.93937,
+          "ondemand": 2.08573,
+          "preemptible": 0.50468,
+          "sud": 2.08573
+        },
+        "europe-west12": {
+          "cud-1y": 1.54086,
+          "cud-3y": 1.10052,
+          "ondemand": 2.4459,
+          "preemptible": 0.22205,
+          "sud": 2.4459
+        },
+        "europe-west2": {
+          "cud-1y": 1.53895,
+          "cud-3y": 1.09915,
+          "ondemand": 2.44284,
+          "preemptible": 0.56162,
+          "sud": 2.44284
+        },
+        "europe-west3": {
+          "cud-1y": 1.53895,
+          "cud-3y": 1.09915,
+          "ondemand": 2.44284,
+          "preemptible": 0.56162,
+          "sud": 2.44284
+        },
+        "europe-west4": {
+          "cud-1y": 1.31523,
+          "cud-3y": 0.93937,
+          "ondemand": 2.08736,
+          "preemptible": 0.24235,
+          "sud": 2.08736
+        },
+        "europe-west6": {
+          "cud-1y": 1.67094,
+          "cud-3y": 1.19342,
+          "ondemand": 2.65236,
+          "preemptible": 0.64196,
+          "sud": 2.65236
+        },
+        "europe-west8": {
+          "cud-1y": 1.38558,
+          "cud-3y": 0.98961,
+          "ondemand": 2.19942,
+          "preemptible": 0.22172,
+          "sud": 2.19942
+        },
+        "europe-west9": {
+          "cud-1y": 1.38558,
+          "cud-3y": 0.98961,
+          "ondemand": 2.19942,
+          "preemptible": 0.22172,
+          "sud": 2.19942
+        },
+        "me-central1": {
+          "cud-1y": 1.45128,
+          "cud-3y": 1.03654,
+          "ondemand": 2.3037,
+          "preemptible": 0.20914,
+          "sud": 2.3037
+        },
+        "me-west1": {
+          "cud-1y": 1.31391,
+          "cud-3y": 0.93843,
+          "ondemand": 2.08565,
+          "preemptible": 0.21025,
+          "sud": 2.08565
+        },
+        "northamerica-northeast1": {
+          "cud-1y": 1.31523,
+          "cud-3y": 0.93937,
+          "ondemand": 2.08736,
+          "preemptible": 0.5056,
+          "sud": 2.08736
+        },
+        "northamerica-northeast2": {
+          "cud-1y": 1.31523,
+          "cud-3y": 0.93937,
+          "ondemand": 2.08736,
+          "preemptible": 0.50492,
+          "sud": 2.08736
+        },
+        "southamerica-east1": {
+          "cud-1y": 1.8967,
+          "cud-3y": 1.35466,
+          "ondemand": 3.00969,
+          "preemptible": 0.28838,
+          "sud": 3.00969
+        },
+        "southamerica-west1": {
+          "cud-1y": 1.70809,
+          "cud-3y": 1.21996,
+          "ondemand": 2.71135,
+          "preemptible": 0.65607,
+          "sud": 2.71135
+        },
+        "us": {},
+        "us-central1": {
+          "cud-1y": 1.19447,
+          "cud-3y": 0.85312,
+          "ondemand": 1.89605,
+          "preemptible": 0.17213,
+          "sud": 1.89605
+        },
+        "us-east1": {
+          "cud-1y": 1.19447,
+          "cud-3y": 0.85312,
+          "ondemand": 1.89605,
+          "preemptible": 0.17213,
+          "sud": 1.89605
+        },
+        "us-east4": {
+          "cud-1y": 1.34533,
+          "cud-3y": 0.96086,
+          "ondemand": 2.13523,
+          "preemptible": 0.56461,
+          "sud": 2.13523
+        },
+        "us-east5": {
+          "cud-1y": 1.34533,
+          "cud-3y": 0.96086,
+          "ondemand": 1.89605,
+          "preemptible": 0.19114,
+          "sud": 1.89605
+        },
+        "us-south1": {
+          "cud-1y": 1.40947,
+          "cud-3y": 1.00668,
+          "ondemand": 2.23734,
+          "preemptible": 0.22554,
+          "sud": 2.23734
+        },
+        "us-west1": {
+          "cud-1y": 1.19447,
+          "cud-3y": 0.85312,
+          "ondemand": 1.89605,
+          "preemptible": 0.17213,
+          "sud": 1.89605
+        },
+        "us-west2": {
+          "cud-1y": 1.43587,
+          "cud-3y": 1.02553,
+          "ondemand": 2.27744,
+          "preemptible": 0.55123,
+          "sud": 2.27744
+        },
+        "us-west3": {
+          "cud-1y": 1.43587,
+          "cud-3y": 1.02553,
+          "ondemand": 2.27744,
+          "preemptible": 0.55123,
+          "sud": 2.27744
+        },
+        "us-west4": {
+          "cud-1y": 1.34533,
+          "cud-3y": 0.96086,
+          "ondemand": 2.13523,
+          "preemptible": 0.49086,
+          "sud": 2.13523
+        }
+      },
+      "specs": {
+        "benchmark": 0,
+        "cores": 44,
+        "cpu": [
+          "Cascade Lake"
+        ],
+        "gpu": 0,
+        "local_ssd": 0,
+        "memory": 88,
+        "nested_virtualization": -1,
+        "network_egress": 32,
+        "regional_disk": 0,
+        "sole_tenant": -1
+      }
+    },
+    "c3-highcpu-8": {
+      "regions": {
+        "asia": {},
+        "asia-east": {},
+        "asia-east1": {
+          "cud-1y": 0.25147,
+          "cud-3y": 0.1796,
+          "ondemand": 0.39916,
+          "preemptible": 0.09175,
+          "sud": 0.39916
+        },
+        "asia-east2": {
+          "cud-1y": 0.30381,
+          "cud-3y": 0.21699,
+          "ondemand": 0.48235,
+          "preemptible": 0.11681,
+          "sud": 0.48235
+        },
+        "asia-northeast": {},
+        "asia-northeast1": {
+          "cud-1y": 0.2789,
+          "cud-3y": 0.19919,
+          "ondemand": 0.44251,
+          "preemptible": 0.04608,
+          "sud": 0.44251
+        },
+        "asia-northeast2": {
+          "cud-1y": 0.2789,
+          "cud-3y": 0.19919,
+          "ondemand": 0.44251,
+          "preemptible": 0.11058,
+          "sud": 0.44251
+        },
+        "asia-northeast3": {
+          "cud-1y": 0.2789,
+          "cud-3y": 0.19919,
+          "ondemand": 0.44251,
+          "preemptible": 0.11058,
+          "sud": 0.44251
+        },
+        "asia-south1": {
+          "cud-1y": 0.26085,
+          "cud-3y": 0.18631,
+          "ondemand": 0.41406,
+          "preemptible": 0.08342,
+          "sud": 0.41406
+        },
+        "asia-south2": {
+          "cud-1y": 0.26085,
+          "cud-3y": 0.18631,
+          "ondemand": 0.41406,
+          "preemptible": 0.1001,
+          "sud": 0.41406
+        },
+        "asia-southeast": {},
+        "asia-southeast1": {
+          "cud-1y": 0.26793,
+          "cud-3y": 0.19136,
+          "ondemand": 0.42528,
+          "preemptible": 0.09786,
+          "sud": 0.42528
+        },
+        "asia-southeast2": {
+          "cud-1y": 0.29204,
+          "cud-3y": 0.20858,
+          "ondemand": 0.46356,
+          "preemptible": 0.11218,
+          "sud": 0.46356
+        },
+        "australia": {},
+        "australia-southeast1": {
+          "cud-1y": 0.30828,
+          "cud-3y": 0.22018,
+          "ondemand": 0.48915,
+          "preemptible": 0.1125,
+          "sud": 0.48915
+        },
+        "australia-southeast2": {
+          "cud-1y": 0.30828,
+          "cud-3y": 0.22018,
+          "ondemand": 0.48915,
+          "preemptible": 0.11845,
+          "sud": 0.48915
+        },
+        "europe": {},
+        "europe-central2": {
+          "cud-1y": 0.27981,
+          "cud-3y": 0.19985,
+          "ondemand": 0.44415,
+          "preemptible": 0.10211,
+          "sud": 0.44415
+        },
+        "europe-north1": {
+          "cud-1y": 0.23913,
+          "cud-3y": 0.17079,
+          "ondemand": 0.37955,
+          "preemptible": 0.09175,
+          "sud": 0.37955
+        },
+        "europe-southwest1": {
+          "cud-1y": 0.25627,
+          "cud-3y": 0.18303,
+          "ondemand": 0.40679,
+          "preemptible": 0.04101,
+          "sud": 0.40679
+        },
+        "europe-west1": {
+          "cud-1y": 0.23913,
+          "cud-3y": 0.17079,
+          "ondemand": 0.37922,
+          "preemptible": 0.09176,
+          "sud": 0.37922
+        },
+        "europe-west12": {
+          "cud-1y": 0.28016,
+          "cud-3y": 0.20009,
+          "ondemand": 0.44471,
+          "preemptible": 0.04037,
+          "sud": 0.44471
+        },
+        "europe-west2": {
+          "cud-1y": 0.27981,
+          "cud-3y": 0.19985,
+          "ondemand": 0.44415,
+          "preemptible": 0.10211,
+          "sud": 0.44415
+        },
+        "europe-west3": {
+          "cud-1y": 0.27981,
+          "cud-3y": 0.19985,
+          "ondemand": 0.44415,
+          "preemptible": 0.10211,
+          "sud": 0.44415
+        },
+        "europe-west4": {
+          "cud-1y": 0.23913,
+          "cud-3y": 0.17079,
+          "ondemand": 0.37952,
+          "preemptible": 0.04406,
+          "sud": 0.37952
+        },
+        "europe-west6": {
+          "cud-1y": 0.30381,
+          "cud-3y": 0.21699,
+          "ondemand": 0.48225,
+          "preemptible": 0.11672,
+          "sud": 0.48225
+        },
+        "europe-west8": {
+          "cud-1y": 0.25192,
+          "cud-3y": 0.17993,
+          "ondemand": 0.39989,
+          "preemptible": 0.04031,
+          "sud": 0.39989
+        },
+        "europe-west9": {
+          "cud-1y": 0.25192,
+          "cud-3y": 0.17993,
+          "ondemand": 0.39989,
+          "preemptible": 0.04031,
+          "sud": 0.39989
+        },
+        "me-central1": {
+          "cud-1y": 0.26387,
+          "cud-3y": 0.18846,
+          "ondemand": 0.41885,
+          "preemptible": 0.03802,
+          "sud": 0.41885
+        },
+        "me-west1": {
+          "cud-1y": 0.23889,
+          "cud-3y": 0.17062,
+          "ondemand": 0.37921,
+          "preemptible": 0.03823,
+          "sud": 0.37921
+        },
+        "northamerica-northeast1": {
+          "cud-1y": 0.23913,
+          "cud-3y": 0.17079,
+          "ondemand": 0.37952,
+          "preemptible": 0.09193,
+          "sud": 0.37952
+        },
+        "northamerica-northeast2": {
+          "cud-1y": 0.23913,
+          "cud-3y": 0.17079,
+          "ondemand": 0.37952,
+          "preemptible": 0.0918,
+          "sud": 0.37952
+        },
+        "southamerica-east1": {
+          "cud-1y": 0.34485,
+          "cud-3y": 0.2463,
+          "ondemand": 0.54722,
+          "preemptible": 0.05243,
+          "sud": 0.54722
+        },
+        "southamerica-west1": {
+          "cud-1y": 0.31056,
+          "cud-3y": 0.22181,
+          "ondemand": 0.49297,
+          "preemptible": 0.11928,
+          "sud": 0.49297
+        },
+        "us": {},
+        "us-central1": {
+          "cud-1y": 0.21718,
+          "cud-3y": 0.15511,
+          "ondemand": 0.34474,
+          "preemptible": 0.0313,
+          "sud": 0.34474
+        },
+        "us-east1": {
+          "cud-1y": 0.21718,
+          "cud-3y": 0.15511,
+          "ondemand": 0.34474,
+          "preemptible": 0.0313,
+          "sud": 0.34474
+        },
+        "us-east4": {
+          "cud-1y": 0.24461,
+          "cud-3y": 0.1747,
+          "ondemand": 0.38822,
+          "preemptible": 0.10266,
+          "sud": 0.38822
+        },
+        "us-east5": {
+          "cud-1y": 0.24461,
+          "cud-3y": 0.1747,
+          "ondemand": 0.34474,
+          "preemptible": 0.03475,
+          "sud": 0.34474
+        },
+        "us-south1": {
+          "cud-1y": 0.25627,
+          "cud-3y": 0.18303,
+          "ondemand": 0.40679,
+          "preemptible": 0.04101,
+          "sud": 0.40679
+        },
+        "us-west1": {
+          "cud-1y": 0.21718,
+          "cud-3y": 0.15511,
+          "ondemand": 0.34474,
+          "preemptible": 0.0313,
+          "sud": 0.34474
+        },
+        "us-west2": {
+          "cud-1y": 0.26107,
+          "cud-3y": 0.18646,
+          "ondemand": 0.41408,
+          "preemptible": 0.10022,
+          "sud": 0.41408
+        },
+        "us-west3": {
+          "cud-1y": 0.26107,
+          "cud-3y": 0.18646,
+          "ondemand": 0.41408,
+          "preemptible": 0.10022,
+          "sud": 0.41408
+        },
+        "us-west4": {
+          "cud-1y": 0.24461,
+          "cud-3y": 0.1747,
+          "ondemand": 0.38822,
+          "preemptible": 0.08925,
+          "sud": 0.38822
+        }
+      },
+      "specs": {
+        "benchmark": 0,
+        "cores": 8,
+        "cpu": [
+          "Cascade Lake"
+        ],
+        "gpu": 0,
+        "local_ssd": 0,
+        "memory": 16,
+        "nested_virtualization": -1,
+        "network_egress": 23,
+        "regional_disk": 0,
+        "sole_tenant": -1
+      }
+    },
+    "c3-highcpu-88": {
+      "regions": {
+        "asia": {},
+        "asia-east": {},
+        "asia-east1": {
+          "cud-1y": 2.76615,
+          "cud-3y": 1.97565,
+          "ondemand": 4.39076,
+          "preemptible": 1.00927,
+          "sud": 4.39076
+        },
+        "asia-east2": {
+          "cud-1y": 3.34188,
+          "cud-3y": 2.38685,
+          "ondemand": 5.30587,
+          "preemptible": 1.28489,
+          "sud": 5.30587
+        },
+        "asia-northeast": {},
+        "asia-northeast1": {
+          "cud-1y": 3.06787,
+          "cud-3y": 2.19114,
+          "ondemand": 4.86763,
+          "preemptible": 0.50688,
+          "sud": 4.86763
+        },
+        "asia-northeast2": {
+          "cud-1y": 3.06787,
+          "cud-3y": 2.19114,
+          "ondemand": 4.86763,
+          "preemptible": 1.21634,
+          "sud": 4.86763
+        },
+        "asia-northeast3": {
+          "cud-1y": 3.06787,
+          "cud-3y": 2.19114,
+          "ondemand": 4.86763,
+          "preemptible": 1.21634,
+          "sud": 4.86763
+        },
+        "asia-south1": {
+          "cud-1y": 2.86935,
+          "cud-3y": 2.04936,
+          "ondemand": 4.5547,
+          "preemptible": 0.91758,
+          "sud": 4.5547
+        },
+        "asia-south2": {
+          "cud-1y": 2.86935,
+          "cud-3y": 2.04936,
+          "ondemand": 4.5547,
+          "preemptible": 1.10109,
+          "sud": 4.5547
+        },
+        "asia-southeast": {},
+        "asia-southeast1": {
+          "cud-1y": 2.94723,
+          "cud-3y": 2.10498,
+          "ondemand": 4.67808,
+          "preemptible": 1.07642,
+          "sud": 4.67808
+        },
+        "asia-southeast2": {
+          "cud-1y": 3.2124,
+          "cud-3y": 2.29437,
+          "ondemand": 5.09911,
+          "preemptible": 1.23394,
+          "sud": 5.09911
+        },
+        "australia": {},
+        "australia-southeast1": {
+          "cud-1y": 3.3911,
+          "cud-3y": 2.422,
+          "ondemand": 5.38067,
+          "preemptible": 1.23746,
+          "sud": 5.38067
+        },
+        "australia-southeast2": {
+          "cud-1y": 3.3911,
+          "cud-3y": 2.422,
+          "ondemand": 5.38067,
+          "preemptible": 1.30296,
+          "sud": 5.38067
+        },
+        "europe": {},
+        "europe-central2": {
+          "cud-1y": 3.07791,
+          "cud-3y": 2.19831,
+          "ondemand": 4.88567,
+          "preemptible": 1.12323,
+          "sud": 4.88567
+        },
+        "europe-north1": {
+          "cud-1y": 2.63046,
+          "cud-3y": 1.87873,
+          "ondemand": 4.17507,
+          "preemptible": 1.00927,
+          "sud": 4.17507
+        },
+        "europe-southwest1": {
+          "cud-1y": 2.81894,
+          "cud-3y": 2.01335,
+          "ondemand": 4.47467,
+          "preemptible": 0.45108,
+          "sud": 4.47467
+        },
+        "europe-west1": {
+          "cud-1y": 2.63046,
+          "cud-3y": 1.87873,
+          "ondemand": 4.17146,
+          "preemptible": 1.00936,
+          "sud": 4.17146
+        },
+        "europe-west12": {
+          "cud-1y": 3.08173,
+          "cud-3y": 2.20104,
+          "ondemand": 4.8918,
+          "preemptible": 0.44409,
+          "sud": 4.8918
+        },
+        "europe-west2": {
+          "cud-1y": 3.07791,
+          "cud-3y": 2.19831,
+          "ondemand": 4.88567,
+          "preemptible": 1.12323,
+          "sud": 4.88567
+        },
+        "europe-west3": {
+          "cud-1y": 3.07791,
+          "cud-3y": 2.19831,
+          "ondemand": 4.88567,
+          "preemptible": 1.12323,
+          "sud": 4.88567
+        },
+        "europe-west4": {
+          "cud-1y": 2.63046,
+          "cud-3y": 1.87873,
+          "ondemand": 4.17472,
+          "preemptible": 0.4847,
+          "sud": 4.17472
+        },
+        "europe-west6": {
+          "cud-1y": 3.34188,
+          "cud-3y": 2.38685,
+          "ondemand": 5.30473,
+          "preemptible": 1.28392,
+          "sud": 5.30473
+        },
+        "europe-west8": {
+          "cud-1y": 2.77117,
+          "cud-3y": 1.97923,
+          "ondemand": 4.39883,
+          "preemptible": 0.44344,
+          "sud": 4.39883
+        },
+        "europe-west9": {
+          "cud-1y": 2.77117,
+          "cud-3y": 1.97923,
+          "ondemand": 4.39883,
+          "preemptible": 0.44344,
+          "sud": 4.39883
+        },
+        "me-central1": {
+          "cud-1y": 2.90256,
+          "cud-3y": 2.07307,
+          "ondemand": 4.6074,
+          "preemptible": 0.41827,
+          "sud": 4.6074
+        },
+        "me-west1": {
+          "cud-1y": 2.62783,
+          "cud-3y": 1.87686,
+          "ondemand": 4.17131,
+          "preemptible": 0.4205,
+          "sud": 4.17131
+        },
+        "northamerica-northeast1": {
+          "cud-1y": 2.63046,
+          "cud-3y": 1.87873,
+          "ondemand": 4.17472,
+          "preemptible": 1.01121,
+          "sud": 4.17472
+        },
+        "northamerica-northeast2": {
+          "cud-1y": 2.63046,
+          "cud-3y": 1.87873,
+          "ondemand": 4.17472,
+          "preemptible": 1.00984,
+          "sud": 4.17472
+        },
+        "southamerica-east1": {
+          "cud-1y": 3.79339,
+          "cud-3y": 2.70933,
+          "ondemand": 6.01938,
+          "preemptible": 0.57675,
+          "sud": 6.01938
+        },
+        "southamerica-west1": {
+          "cud-1y": 3.41618,
+          "cud-3y": 2.43991,
+          "ondemand": 5.4227,
+          "preemptible": 1.31213,
+          "sud": 5.4227
+        },
+        "us": {},
+        "us-central1": {
+          "cud-1y": 2.38894,
+          "cud-3y": 1.70623,
+          "ondemand": 3.7921,
+          "preemptible": 0.34426,
+          "sud": 3.7921
+        },
+        "us-east1": {
+          "cud-1y": 2.38894,
+          "cud-3y": 1.70623,
+          "ondemand": 3.7921,
+          "preemptible": 0.34426,
+          "sud": 3.7921
+        },
+        "us-east4": {
+          "cud-1y": 2.69066,
+          "cud-3y": 1.92173,
+          "ondemand": 4.27046,
+          "preemptible": 1.12922,
+          "sud": 4.27046
+        },
+        "us-east5": {
+          "cud-1y": 2.69066,
+          "cud-3y": 1.92173,
+          "ondemand": 3.7921,
+          "preemptible": 0.38227,
+          "sud": 3.7921
+        },
+        "us-south1": {
+          "cud-1y": 2.81894,
+          "cud-3y": 2.01335,
+          "ondemand": 4.47467,
+          "preemptible": 0.45108,
+          "sud": 4.47467
+        },
+        "us-west1": {
+          "cud-1y": 2.38894,
+          "cud-3y": 1.70623,
+          "ondemand": 3.7921,
+          "preemptible": 0.34426,
+          "sud": 3.7921
+        },
+        "us-west2": {
+          "cud-1y": 2.87174,
+          "cud-3y": 2.05106,
+          "ondemand": 4.55488,
+          "preemptible": 1.10246,
+          "sud": 4.55488
+        },
+        "us-west3": {
+          "cud-1y": 2.87174,
+          "cud-3y": 2.05106,
+          "ondemand": 4.55488,
+          "preemptible": 1.10246,
+          "sud": 4.55488
+        },
+        "us-west4": {
+          "cud-1y": 2.69066,
+          "cud-3y": 1.92173,
+          "ondemand": 4.27046,
+          "preemptible": 0.98173,
+          "sud": 4.27046
+        }
+      },
+      "specs": {
+        "benchmark": 0,
+        "cores": 88,
+        "cpu": [
+          "Cascade Lake"
+        ],
+        "gpu": 0,
+        "local_ssd": 0,
+        "memory": 176,
+        "nested_virtualization": -1,
+        "network_egress": 62,
+        "regional_disk": 0,
+        "sole_tenant": -1
+      }
+    }
+  },
   "e2": {
     "e2-highcpu-16": {
       "regions": {
