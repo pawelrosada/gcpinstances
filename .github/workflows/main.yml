@@ -49,19 +49,6 @@ jobs:
         run: sed -i 's/id="last_update">.*</id="last_update">${{ steps.time.outputs.DATE }}</g' index.html
         if: steps.data-before.outputs.MD5 != steps.data-after.outputs.MD5
 
-      - name: Prepare to publish
-        run: |
-          mkdir publish
-          cp index.html publish/
-          cp data.json publish/
-
-      - uses: shallwefootball/s3-upload-action@master
-        with:
-          aws_key_id: ${{ secrets.AWS_KEY_ID }}
-          aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY}}
-          aws_bucket: gcpinstances.info
-          source_dir: publish
-
       - uses: EndBug/add-and-commit@v9
         with:
           add: 'index.html data.json'
