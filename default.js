@@ -62,6 +62,8 @@ function init_data_table() {
           "wn1cud",
           "wn3cud",
           "network",
+          "lnpc",
+          "lnondemand",
         ],
         "sType": "cust-sort"
       },
@@ -81,6 +83,7 @@ function init_data_table() {
           "wnpc",
           "wn3cud",
           "wn1cud",
+          "wnsudc",
           "cputype",
         ],
         "bVisible": false
