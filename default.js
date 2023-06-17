@@ -61,9 +61,7 @@ function init_data_table() {
           "wnpc",
           "wn1cud",
           "wn3cud",
-          "network",
-          "lnpc",
-          "lnondemand",
+          "network"
         ],
         "sType": "cust-sort"
       },
@@ -613,7 +611,7 @@ jQuery.extend(jQuery.fn.dataTableExt.oSort, {
       return 1e6;
     }
 
-    var res = parts[0].replace('$', '');
+    var res = parts[0].replace(/^[^0-9]+/, '');
 
     return Number(res);
   },
