@@ -2,6 +2,13 @@
   "a2": {
     "a2-highgpu-1g": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.60933,
+          "cud-3y": 0.33856,
+          "ondemand": 0.96724,
+          "preemptible": 0.29017,
+          "sud": 0.96724
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -113,6 +120,13 @@
           "preemptible": 0.22184,
           "sud": 0.81346
         },
+        "europe-west10": {
+          "cud-1y": 0.7174,
+          "cud-3y": 0.39861,
+          "ondemand": 1.13879,
+          "preemptible": 0.34164,
+          "sud": 1.13879
+        },
         "europe-west12": {
           "cud-1y": 0.60094,
           "cud-3y": 0.3339,
@@ -168,6 +182,13 @@
           "ondemand": 0.89846,
           "preemptible": 0.26954,
           "sud": 0.89846
+        },
+        "me-central2": {
+          "cud-1y": 0.74535,
+          "cud-3y": 0.41414,
+          "ondemand": 1.18316,
+          "preemptible": 0.35495,
+          "sud": 1.18316
         },
         "me-west1": {
           "cud-1y": 0.51243,
@@ -286,6 +307,13 @@
     },
     "a2-highgpu-2g": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 1.21865,
+          "cud-3y": 0.67713,
+          "ondemand": 1.93447,
+          "preemptible": 0.58034,
+          "sud": 1.93447
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -397,6 +425,13 @@
           "preemptible": 0.44369,
           "sud": 1.62692
         },
+        "europe-west10": {
+          "cud-1y": 1.4348,
+          "cud-3y": 0.79723,
+          "ondemand": 2.27759,
+          "preemptible": 0.68328,
+          "sud": 2.27759
+        },
         "europe-west12": {
           "cud-1y": 1.20188,
           "cud-3y": 0.66781,
@@ -452,6 +487,13 @@
           "ondemand": 1.79693,
           "preemptible": 0.53908,
           "sud": 1.79693
+        },
+        "me-central2": {
+          "cud-1y": 1.4907,
+          "cud-3y": 0.82829,
+          "ondemand": 2.36633,
+          "preemptible": 0.7099,
+          "sud": 2.36633
         },
         "me-west1": {
           "cud-1y": 1.02486,
@@ -570,6 +612,13 @@
     },
     "a2-highgpu-4g": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 2.4373,
+          "cud-3y": 1.35425,
+          "ondemand": 3.86894,
+          "preemptible": 1.16068,
+          "sud": 3.86894
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -681,6 +730,13 @@
           "preemptible": 0.88737,
           "sud": 3.25384
         },
+        "europe-west10": {
+          "cud-1y": 2.86961,
+          "cud-3y": 1.59446,
+          "ondemand": 4.55518,
+          "preemptible": 1.36655,
+          "sud": 4.55518
+        },
         "europe-west12": {
           "cud-1y": 2.40376,
           "cud-3y": 1.33562,
@@ -736,6 +792,13 @@
           "ondemand": 3.59386,
           "preemptible": 1.07816,
           "sud": 3.59386
+        },
+        "me-central2": {
+          "cud-1y": 2.98141,
+          "cud-3y": 1.65658,
+          "ondemand": 4.73265,
+          "preemptible": 1.4198,
+          "sud": 4.73265
         },
         "me-west1": {
           "cud-1y": 2.04972,
@@ -854,6 +917,13 @@
     },
     "a2-highgpu-8g": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 4.8746,
+          "cud-3y": 2.70851,
+          "ondemand": 7.73789,
+          "preemptible": 2.32137,
+          "sud": 7.73789
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -965,6 +1035,13 @@
           "preemptible": 1.77474,
           "sud": 6.50769
         },
+        "europe-west10": {
+          "cud-1y": 5.73921,
+          "cud-3y": 3.18892,
+          "ondemand": 9.11036,
+          "preemptible": 2.73311,
+          "sud": 9.11036
+        },
         "europe-west12": {
           "cud-1y": 4.80752,
           "cud-3y": 2.67124,
@@ -1020,6 +1097,13 @@
           "ondemand": 7.18772,
           "preemptible": 2.15632,
           "sud": 7.18772
+        },
+        "me-central2": {
+          "cud-1y": 5.96282,
+          "cud-3y": 3.31316,
+          "ondemand": 9.46531,
+          "preemptible": 2.83959,
+          "sud": 9.46531
         },
         "me-west1": {
           "cud-1y": 4.09944,
@@ -1138,6 +1222,13 @@
     },
     "a2-megagpu-16g": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 7.24852,
+          "cud-3y": 4.02775,
+          "ondemand": 11.50644,
+          "preemptible": 3.45193,
+          "sud": 11.50644
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -1249,6 +1340,13 @@
           "preemptible": 2.63909,
           "sud": 9.67717
         },
+        "europe-west10": {
+          "cud-1y": 8.53419,
+          "cud-3y": 4.74215,
+          "ondemand": 13.54734,
+          "preemptible": 4.0642,
+          "sud": 13.54734
+        },
         "europe-west12": {
           "cud-1y": 7.14877,
           "cud-3y": 3.97232,
@@ -1304,6 +1402,13 @@
           "ondemand": 10.68833,
           "preemptible": 3.2065,
           "sud": 10.68833
+        },
+        "me-central2": {
+          "cud-1y": 8.86669,
+          "cud-3y": 4.92691,
+          "ondemand": 14.07516,
+          "preemptible": 4.22255,
+          "sud": 14.07516
         },
         "me-west1": {
           "cud-1y": 6.09585,
@@ -1424,6 +1529,13 @@
   "c2": {
     "c2-standard-16": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.68822,
+          "cud-3y": 0.437,
+          "ondemand": 1.09248,
+          "preemptible": 0.09916,
+          "sud": 0.87399
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -1535,6 +1647,13 @@
           "preemptible": 0.2223,
           "sud": 0.73504
         },
+        "europe-west10": {
+          "cud-1y": 0.81029,
+          "cud-3y": 0.51451,
+          "ondemand": 1.28626,
+          "preemptible": 0.11674,
+          "sud": 1.02901
+        },
         "europe-west12": {
           "cud-1y": 0.67875,
           "cud-3y": 0.43098,
@@ -1590,6 +1709,13 @@
           "ondemand": 1.01481,
           "preemptible": 0.09211,
           "sud": 0.81185
+        },
+        "me-central2": {
+          "cud-1y": 0.84186,
+          "cud-3y": 0.53455,
+          "ondemand": 1.33637,
+          "preemptible": 0.12129,
+          "sud": 1.0691
         },
         "me-west1": {
           "cud-1y": 0.57878,
@@ -1708,6 +1834,13 @@
     },
     "c2-standard-30": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 1.29041,
+          "cud-3y": 0.81937,
+          "ondemand": 2.04841,
+          "preemptible": 0.18592,
+          "sud": 1.63873
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -1819,6 +1952,13 @@
           "preemptible": 0.41682,
           "sud": 1.3782
         },
+        "europe-west10": {
+          "cud-1y": 1.51929,
+          "cud-3y": 0.9647,
+          "ondemand": 2.41173,
+          "preemptible": 0.2189,
+          "sud": 1.92939
+        },
         "europe-west12": {
           "cud-1y": 1.27265,
           "cud-3y": 0.80809,
@@ -1874,6 +2014,13 @@
           "ondemand": 1.90276,
           "preemptible": 0.1727,
           "sud": 1.52221
+        },
+        "me-central2": {
+          "cud-1y": 1.57848,
+          "cud-3y": 1.00229,
+          "ondemand": 2.5057,
+          "preemptible": 0.22742,
+          "sud": 2.00456
         },
         "me-west1": {
           "cud-1y": 1.0852,
@@ -1992,6 +2139,13 @@
     },
     "c2-standard-4": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.17205,
+          "cud-3y": 0.10925,
+          "ondemand": 0.27312,
+          "preemptible": 0.02479,
+          "sud": 0.2185
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -2103,6 +2257,13 @@
           "preemptible": 0.05558,
           "sud": 0.18376
         },
+        "europe-west10": {
+          "cud-1y": 0.20257,
+          "cud-3y": 0.12863,
+          "ondemand": 0.32156,
+          "preemptible": 0.02919,
+          "sud": 0.25725
+        },
         "europe-west12": {
           "cud-1y": 0.16969,
           "cud-3y": 0.10775,
@@ -2158,6 +2319,13 @@
           "ondemand": 0.2537,
           "preemptible": 0.02303,
           "sud": 0.20296
+        },
+        "me-central2": {
+          "cud-1y": 0.21046,
+          "cud-3y": 0.13364,
+          "ondemand": 0.33409,
+          "preemptible": 0.03032,
+          "sud": 0.26727
         },
         "me-west1": {
           "cud-1y": 0.14469,
@@ -2276,6 +2444,13 @@
     },
     "c2-standard-60": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 2.58081,
+          "cud-3y": 1.63874,
+          "ondemand": 4.09681,
+          "preemptible": 0.37184,
+          "sud": 3.27745
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -2387,6 +2562,13 @@
           "preemptible": 0.83364,
           "sud": 2.7564
         },
+        "europe-west10": {
+          "cud-1y": 3.03857,
+          "cud-3y": 1.9294,
+          "ondemand": 4.82346,
+          "preemptible": 0.43779,
+          "sud": 3.85877
+        },
         "europe-west12": {
           "cud-1y": 2.5453,
           "cud-3y": 1.61619,
@@ -2442,6 +2624,13 @@
           "ondemand": 3.80553,
           "preemptible": 0.3454,
           "sud": 3.04442
+        },
+        "me-central2": {
+          "cud-1y": 3.15696,
+          "cud-3y": 2.00458,
+          "ondemand": 5.01139,
+          "preemptible": 0.45485,
+          "sud": 4.00911
         },
         "me-west1": {
           "cud-1y": 2.17041,
@@ -2560,6 +2749,13 @@
     },
     "c2-standard-8": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.34411,
+          "cud-3y": 0.2185,
+          "ondemand": 0.54624,
+          "preemptible": 0.04958,
+          "sud": 0.43699
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -2671,6 +2867,13 @@
           "preemptible": 0.11115,
           "sud": 0.36752
         },
+        "europe-west10": {
+          "cud-1y": 0.40514,
+          "cud-3y": 0.25725,
+          "ondemand": 0.64313,
+          "preemptible": 0.05837,
+          "sud": 0.5145
+        },
         "europe-west12": {
           "cud-1y": 0.33937,
           "cud-3y": 0.21549,
@@ -2726,6 +2929,13 @@
           "ondemand": 0.5074,
           "preemptible": 0.04605,
           "sud": 0.40592
+        },
+        "me-central2": {
+          "cud-1y": 0.42093,
+          "cud-3y": 0.26728,
+          "ondemand": 0.66819,
+          "preemptible": 0.06065,
+          "sud": 0.53455
         },
         "me-west1": {
           "cud-1y": 0.28939,
@@ -2846,6 +3056,13 @@
   "c2d": {
     "c2d-highcpu-112": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 3.45906,
+          "cud-3y": 2.47065,
+          "ondemand": 5.49082,
+          "preemptible": 1.16391,
+          "sud": 4.39265
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -2957,6 +3174,13 @@
           "preemptible": 0.92982,
           "sud": 3.6977
         },
+        "europe-west10": {
+          "cud-1y": 4.0726,
+          "cud-3y": 2.90888,
+          "ondemand": 6.46472,
+          "preemptible": 1.37035,
+          "sud": 5.17178
+        },
         "europe-west12": {
           "cud-1y": 3.41146,
           "cud-3y": 2.43666,
@@ -3012,6 +3236,13 @@
           "ondemand": 5.10042,
           "preemptible": 1.08116,
           "sud": 4.08033
+        },
+        "me-central2": {
+          "cud-1y": 4.23127,
+          "cud-3y": 3.02221,
+          "ondemand": 6.7166,
+          "preemptible": 1.42374,
+          "sud": 5.37328
         },
         "me-west1": {
           "cud-1y": 2.909,
@@ -3130,6 +3361,13 @@
     },
     "c2d-highcpu-16": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.49415,
+          "cud-3y": 0.35295,
+          "ondemand": 0.7844,
+          "preemptible": 0.16627,
+          "sud": 0.62752
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -3241,6 +3479,13 @@
           "preemptible": 0.13283,
           "sud": 0.52824
         },
+        "europe-west10": {
+          "cud-1y": 0.5818,
+          "cud-3y": 0.41555,
+          "ondemand": 0.92353,
+          "preemptible": 0.19576,
+          "sud": 0.73883
+        },
         "europe-west12": {
           "cud-1y": 0.48735,
           "cud-3y": 0.34809,
@@ -3296,6 +3541,13 @@
           "ondemand": 0.72863,
           "preemptible": 0.15445,
           "sud": 0.5829
+        },
+        "me-central2": {
+          "cud-1y": 0.60447,
+          "cud-3y": 0.43174,
+          "ondemand": 0.95951,
+          "preemptible": 0.20339,
+          "sud": 0.76761
         },
         "me-west1": {
           "cud-1y": 0.41557,
@@ -3414,6 +3666,13 @@
     },
     "c2d-highcpu-2": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.06177,
+          "cud-3y": 0.04412,
+          "ondemand": 0.09805,
+          "preemptible": 0.02078,
+          "sud": 0.07844
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -3525,6 +3784,13 @@
           "preemptible": 0.0166,
           "sud": 0.06603
         },
+        "europe-west10": {
+          "cud-1y": 0.07272,
+          "cud-3y": 0.05194,
+          "ondemand": 0.11544,
+          "preemptible": 0.02447,
+          "sud": 0.09235
+        },
         "europe-west12": {
           "cud-1y": 0.06092,
           "cud-3y": 0.04351,
@@ -3580,6 +3846,13 @@
           "ondemand": 0.09108,
           "preemptible": 0.01931,
           "sud": 0.07286
+        },
+        "me-central2": {
+          "cud-1y": 0.07556,
+          "cud-3y": 0.05397,
+          "ondemand": 0.11994,
+          "preemptible": 0.02542,
+          "sud": 0.09595
         },
         "me-west1": {
           "cud-1y": 0.05195,
@@ -3698,6 +3971,13 @@
     },
     "c2d-highcpu-32": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.9883,
+          "cud-3y": 0.7059,
+          "ondemand": 1.5688,
+          "preemptible": 0.33255,
+          "sud": 1.25504
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -3809,6 +4089,13 @@
           "preemptible": 0.26566,
           "sud": 1.05649
         },
+        "europe-west10": {
+          "cud-1y": 1.1636,
+          "cud-3y": 0.83111,
+          "ondemand": 1.84706,
+          "preemptible": 0.39153,
+          "sud": 1.47765
+        },
         "europe-west12": {
           "cud-1y": 0.9747,
           "cud-3y": 0.69619,
@@ -3864,6 +4151,13 @@
           "ondemand": 1.45726,
           "preemptible": 0.3089,
           "sud": 1.16581
+        },
+        "me-central2": {
+          "cud-1y": 1.20893,
+          "cud-3y": 0.86349,
+          "ondemand": 1.91903,
+          "preemptible": 0.40678,
+          "sud": 1.53522
         },
         "me-west1": {
           "cud-1y": 0.83114,
@@ -3982,6 +4276,13 @@
     },
     "c2d-highcpu-4": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.12354,
+          "cud-3y": 0.08824,
+          "ondemand": 0.1961,
+          "preemptible": 0.04157,
+          "sud": 0.15688
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -4093,6 +4394,13 @@
           "preemptible": 0.03321,
           "sud": 0.13206
         },
+        "europe-west10": {
+          "cud-1y": 0.14545,
+          "cud-3y": 0.10389,
+          "ondemand": 0.23088,
+          "preemptible": 0.04894,
+          "sud": 0.18471
+        },
         "europe-west12": {
           "cud-1y": 0.12184,
           "cud-3y": 0.08702,
@@ -4148,6 +4456,13 @@
           "ondemand": 0.18216,
           "preemptible": 0.03861,
           "sud": 0.14573
+        },
+        "me-central2": {
+          "cud-1y": 0.15112,
+          "cud-3y": 0.10794,
+          "ondemand": 0.23988,
+          "preemptible": 0.05085,
+          "sud": 0.1919
         },
         "me-west1": {
           "cud-1y": 0.10389,
@@ -4266,6 +4581,13 @@
     },
     "c2d-highcpu-56": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 1.72953,
+          "cud-3y": 1.23533,
+          "ondemand": 2.74541,
+          "preemptible": 0.58196,
+          "sud": 2.19633
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -4377,6 +4699,13 @@
           "preemptible": 0.46491,
           "sud": 1.84885
         },
+        "europe-west10": {
+          "cud-1y": 2.0363,
+          "cud-3y": 1.45444,
+          "ondemand": 3.23236,
+          "preemptible": 0.68518,
+          "sud": 2.58589
+        },
         "europe-west12": {
           "cud-1y": 1.70573,
           "cud-3y": 1.21833,
@@ -4432,6 +4761,13 @@
           "ondemand": 2.55021,
           "preemptible": 0.54058,
           "sud": 2.04017
+        },
+        "me-central2": {
+          "cud-1y": 2.11564,
+          "cud-3y": 1.5111,
+          "ondemand": 3.3583,
+          "preemptible": 0.71187,
+          "sud": 2.68664
         },
         "me-west1": {
           "cud-1y": 1.4545,
@@ -4550,6 +4886,13 @@
     },
     "c2d-highcpu-8": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.24708,
+          "cud-3y": 0.17648,
+          "ondemand": 0.3922,
+          "preemptible": 0.08314,
+          "sud": 0.31376
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -4661,6 +5004,13 @@
           "preemptible": 0.06642,
           "sud": 0.26412
         },
+        "europe-west10": {
+          "cud-1y": 0.2909,
+          "cud-3y": 0.20778,
+          "ondemand": 0.46177,
+          "preemptible": 0.09788,
+          "sud": 0.36941
+        },
         "europe-west12": {
           "cud-1y": 0.24368,
           "cud-3y": 0.17405,
@@ -4716,6 +5066,13 @@
           "ondemand": 0.36432,
           "preemptible": 0.07723,
           "sud": 0.29145
+        },
+        "me-central2": {
+          "cud-1y": 0.30223,
+          "cud-3y": 0.21587,
+          "ondemand": 0.47976,
+          "preemptible": 0.1017,
+          "sud": 0.38381
         },
         "me-west1": {
           "cud-1y": 0.20779,
@@ -4834,6 +5191,13 @@
     },
     "c2d-highmem-112": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 5.65123,
+          "cud-3y": 4.03611,
+          "ondemand": 8.97068,
+          "preemptible": 1.90137,
+          "sud": 7.17655
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -4945,6 +5309,13 @@
           "preemptible": 1.5185,
           "sud": 6.0411
         },
+        "europe-west10": {
+          "cud-1y": 6.65359,
+          "cud-3y": 4.752,
+          "ondemand": 10.56181,
+          "preemptible": 2.23862,
+          "sud": 8.44945
+        },
         "europe-west12": {
           "cud-1y": 5.57346,
           "cud-3y": 3.98057,
@@ -5000,6 +5371,13 @@
           "ondemand": 8.33286,
           "preemptible": 1.76618,
           "sud": 6.66629
+        },
+        "me-central2": {
+          "cud-1y": 6.91282,
+          "cud-3y": 4.93714,
+          "ondemand": 10.97331,
+          "preemptible": 2.32584,
+          "sud": 8.77865
         },
         "me-west1": {
           "cud-1y": 4.75256,
@@ -5118,6 +5496,13 @@
     },
     "c2d-highmem-16": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.80732,
+          "cud-3y": 0.57659,
+          "ondemand": 1.28153,
+          "preemptible": 0.27162,
+          "sud": 1.02522
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -5229,6 +5614,13 @@
           "preemptible": 0.21693,
           "sud": 0.86301
         },
+        "europe-west10": {
+          "cud-1y": 0.95051,
+          "cud-3y": 0.67886,
+          "ondemand": 1.50883,
+          "preemptible": 0.3198,
+          "sud": 1.20706
+        },
         "europe-west12": {
           "cud-1y": 0.79621,
           "cud-3y": 0.56865,
@@ -5284,6 +5676,13 @@
           "ondemand": 1.19041,
           "preemptible": 0.25231,
           "sud": 0.95233
+        },
+        "me-central2": {
+          "cud-1y": 0.98755,
+          "cud-3y": 0.70531,
+          "ondemand": 1.56762,
+          "preemptible": 0.33226,
+          "sud": 1.25409
         },
         "me-west1": {
           "cud-1y": 0.67894,
@@ -5402,6 +5801,13 @@
     },
     "c2d-highmem-2": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.10091,
+          "cud-3y": 0.07207,
+          "ondemand": 0.16019,
+          "preemptible": 0.03395,
+          "sud": 0.12815
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -5513,6 +5919,13 @@
           "preemptible": 0.02712,
           "sud": 0.10788
         },
+        "europe-west10": {
+          "cud-1y": 0.11881,
+          "cud-3y": 0.08486,
+          "ondemand": 0.1886,
+          "preemptible": 0.03998,
+          "sud": 0.15088
+        },
         "europe-west12": {
           "cud-1y": 0.09953,
           "cud-3y": 0.07108,
@@ -5568,6 +5981,13 @@
           "ondemand": 0.1488,
           "preemptible": 0.03154,
           "sud": 0.11904
+        },
+        "me-central2": {
+          "cud-1y": 0.12344,
+          "cud-3y": 0.08816,
+          "ondemand": 0.19595,
+          "preemptible": 0.04153,
+          "sud": 0.15676
         },
         "me-west1": {
           "cud-1y": 0.08487,
@@ -5686,6 +6106,13 @@
     },
     "c2d-highmem-32": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 1.61464,
+          "cud-3y": 1.15317,
+          "ondemand": 2.56305,
+          "preemptible": 0.54325,
+          "sud": 2.05044
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -5797,6 +6224,13 @@
           "preemptible": 0.43386,
           "sud": 1.72603
         },
+        "europe-west10": {
+          "cud-1y": 1.90103,
+          "cud-3y": 1.35771,
+          "ondemand": 3.01766,
+          "preemptible": 0.63961,
+          "sud": 2.41413
+        },
         "europe-west12": {
           "cud-1y": 1.59242,
           "cud-3y": 1.13731,
@@ -5852,6 +6286,13 @@
           "ondemand": 2.38082,
           "preemptible": 0.50462,
           "sud": 1.90465
+        },
+        "me-central2": {
+          "cud-1y": 1.97509,
+          "cud-3y": 1.41061,
+          "ondemand": 3.13523,
+          "preemptible": 0.66452,
+          "sud": 2.50819
         },
         "me-west1": {
           "cud-1y": 1.35788,
@@ -5970,6 +6411,13 @@
     },
     "c2d-highmem-4": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.20183,
+          "cud-3y": 0.14415,
+          "ondemand": 0.32038,
+          "preemptible": 0.06791,
+          "sud": 0.25631
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -6081,6 +6529,13 @@
           "preemptible": 0.05423,
           "sud": 0.21575
         },
+        "europe-west10": {
+          "cud-1y": 0.23763,
+          "cud-3y": 0.16971,
+          "ondemand": 0.37721,
+          "preemptible": 0.07995,
+          "sud": 0.30177
+        },
         "europe-west12": {
           "cud-1y": 0.19905,
           "cud-3y": 0.14216,
@@ -6136,6 +6591,13 @@
           "ondemand": 0.2976,
           "preemptible": 0.06308,
           "sud": 0.23808
+        },
+        "me-central2": {
+          "cud-1y": 0.24689,
+          "cud-3y": 0.17633,
+          "ondemand": 0.3919,
+          "preemptible": 0.08307,
+          "sud": 0.31352
         },
         "me-west1": {
           "cud-1y": 0.16973,
@@ -6254,6 +6716,13 @@
     },
     "c2d-highmem-56": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 2.82561,
+          "cud-3y": 2.01806,
+          "ondemand": 4.48534,
+          "preemptible": 0.95069,
+          "sud": 3.58827
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -6365,6 +6834,13 @@
           "preemptible": 0.75925,
           "sud": 3.02055
         },
+        "europe-west10": {
+          "cud-1y": 3.32679,
+          "cud-3y": 2.376,
+          "ondemand": 5.28091,
+          "preemptible": 1.11931,
+          "sud": 4.22473
+        },
         "europe-west12": {
           "cud-1y": 2.78673,
           "cud-3y": 1.99028,
@@ -6420,6 +6896,13 @@
           "ondemand": 4.16643,
           "preemptible": 0.88309,
           "sud": 3.33314
+        },
+        "me-central2": {
+          "cud-1y": 3.45641,
+          "cud-3y": 2.46857,
+          "ondemand": 5.48666,
+          "preemptible": 1.16292,
+          "sud": 4.38932
         },
         "me-west1": {
           "cud-1y": 2.37628,
@@ -6538,6 +7021,13 @@
     },
     "c2d-highmem-8": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.40366,
+          "cud-3y": 0.28829,
+          "ondemand": 0.64076,
+          "preemptible": 0.13581,
+          "sud": 0.51261
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -6649,6 +7139,13 @@
           "preemptible": 0.10846,
           "sud": 0.43151
         },
+        "europe-west10": {
+          "cud-1y": 0.47526,
+          "cud-3y": 0.33943,
+          "ondemand": 0.75442,
+          "preemptible": 0.1599,
+          "sud": 0.60353
+        },
         "europe-west12": {
           "cud-1y": 0.3981,
           "cud-3y": 0.28433,
@@ -6704,6 +7201,13 @@
           "ondemand": 0.5952,
           "preemptible": 0.12616,
           "sud": 0.47616
+        },
+        "me-central2": {
+          "cud-1y": 0.49377,
+          "cud-3y": 0.35265,
+          "ondemand": 0.78381,
+          "preemptible": 0.16613,
+          "sud": 0.62705
         },
         "me-west1": {
           "cud-1y": 0.33947,
@@ -6822,6 +7326,13 @@
     },
     "c2d-standard-112": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 4.18979,
+          "cud-3y": 2.99247,
+          "ondemand": 6.65077,
+          "preemptible": 1.40973,
+          "sud": 5.32062
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -6933,6 +7444,13 @@
           "preemptible": 1.12605,
           "sud": 4.47884
         },
+        "europe-west10": {
+          "cud-1y": 4.93293,
+          "cud-3y": 3.52325,
+          "ondemand": 7.83042,
+          "preemptible": 1.65978,
+          "sud": 6.26434
+        },
         "europe-west12": {
           "cud-1y": 4.13213,
           "cud-3y": 2.95129,
@@ -6988,6 +7506,13 @@
           "ondemand": 6.1779,
           "preemptible": 1.3095,
           "sud": 4.94232
+        },
+        "me-central2": {
+          "cud-1y": 5.12512,
+          "cud-3y": 3.66052,
+          "ondemand": 8.1355,
+          "preemptible": 1.72444,
+          "sud": 6.5084
         },
         "me-west1": {
           "cud-1y": 3.52352,
@@ -7106,6 +7631,13 @@
     },
     "c2d-standard-16": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.59854,
+          "cud-3y": 0.4275,
+          "ondemand": 0.95011,
+          "preemptible": 0.20139,
+          "sud": 0.76009
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -7217,6 +7749,13 @@
           "preemptible": 0.16086,
           "sud": 0.63983
         },
+        "europe-west10": {
+          "cud-1y": 0.7047,
+          "cud-3y": 0.50332,
+          "ondemand": 1.11863,
+          "preemptible": 0.23711,
+          "sud": 0.89491
+        },
         "europe-west12": {
           "cud-1y": 0.5903,
           "cud-3y": 0.42161,
@@ -7272,6 +7811,13 @@
           "ondemand": 0.88256,
           "preemptible": 0.18707,
           "sud": 0.70605
+        },
+        "me-central2": {
+          "cud-1y": 0.73216,
+          "cud-3y": 0.52293,
+          "ondemand": 1.16221,
+          "preemptible": 0.24635,
+          "sud": 0.92977
         },
         "me-west1": {
           "cud-1y": 0.50336,
@@ -7390,6 +7936,13 @@
     },
     "c2d-standard-2": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.07482,
+          "cud-3y": 0.05344,
+          "ondemand": 0.11876,
+          "preemptible": 0.02517,
+          "sud": 0.09501
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -7501,6 +8054,13 @@
           "preemptible": 0.02011,
           "sud": 0.07998
         },
+        "europe-west10": {
+          "cud-1y": 0.08809,
+          "cud-3y": 0.06292,
+          "ondemand": 0.13983,
+          "preemptible": 0.02964,
+          "sud": 0.11186
+        },
         "europe-west12": {
           "cud-1y": 0.07379,
           "cud-3y": 0.0527,
@@ -7556,6 +8116,13 @@
           "ondemand": 0.11032,
           "preemptible": 0.02338,
           "sud": 0.08826
+        },
+        "me-central2": {
+          "cud-1y": 0.09152,
+          "cud-3y": 0.06537,
+          "ondemand": 0.14528,
+          "preemptible": 0.03079,
+          "sud": 0.11622
         },
         "me-west1": {
           "cud-1y": 0.06292,
@@ -7674,6 +8241,13 @@
     },
     "c2d-standard-32": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 1.19708,
+          "cud-3y": 0.85499,
+          "ondemand": 1.90022,
+          "preemptible": 0.40278,
+          "sud": 1.52018
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -7785,6 +8359,13 @@
           "preemptible": 0.32173,
           "sud": 1.27967
         },
+        "europe-west10": {
+          "cud-1y": 1.40941,
+          "cud-3y": 1.00664,
+          "ondemand": 2.23726,
+          "preemptible": 0.47422,
+          "sud": 1.78981
+        },
         "europe-west12": {
           "cud-1y": 1.18061,
           "cud-3y": 0.84323,
@@ -7840,6 +8421,13 @@
           "ondemand": 1.76511,
           "preemptible": 0.37414,
           "sud": 1.41209
+        },
+        "me-central2": {
+          "cud-1y": 1.46432,
+          "cud-3y": 1.04586,
+          "ondemand": 2.32443,
+          "preemptible": 0.4927,
+          "sud": 1.85954
         },
         "me-west1": {
           "cud-1y": 1.00672,
@@ -7958,6 +8546,13 @@
     },
     "c2d-standard-4": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.14964,
+          "cud-3y": 0.10687,
+          "ondemand": 0.23753,
+          "preemptible": 0.05035,
+          "sud": 0.19002
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -8069,6 +8664,13 @@
           "preemptible": 0.04022,
           "sud": 0.15996
         },
+        "europe-west10": {
+          "cud-1y": 0.17618,
+          "cud-3y": 0.12583,
+          "ondemand": 0.27966,
+          "preemptible": 0.05928,
+          "sud": 0.22373
+        },
         "europe-west12": {
           "cud-1y": 0.14758,
           "cud-3y": 0.1054,
@@ -8124,6 +8726,13 @@
           "ondemand": 0.22064,
           "preemptible": 0.04677,
           "sud": 0.17651
+        },
+        "me-central2": {
+          "cud-1y": 0.18304,
+          "cud-3y": 0.13073,
+          "ondemand": 0.29055,
+          "preemptible": 0.06159,
+          "sud": 0.23244
         },
         "me-west1": {
           "cud-1y": 0.12584,
@@ -8242,6 +8851,13 @@
     },
     "c2d-standard-56": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 2.09489,
+          "cud-3y": 1.49624,
+          "ondemand": 3.32539,
+          "preemptible": 0.70487,
+          "sud": 2.66031
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -8353,6 +8969,13 @@
           "preemptible": 0.56302,
           "sud": 2.23942
         },
+        "europe-west10": {
+          "cud-1y": 2.46646,
+          "cud-3y": 1.76162,
+          "ondemand": 3.91521,
+          "preemptible": 0.82989,
+          "sud": 3.13217
+        },
         "europe-west12": {
           "cud-1y": 2.06606,
           "cud-3y": 1.47565,
@@ -8408,6 +9031,13 @@
           "ondemand": 3.08895,
           "preemptible": 0.65475,
           "sud": 2.47116
+        },
+        "me-central2": {
+          "cud-1y": 2.56256,
+          "cud-3y": 1.83026,
+          "ondemand": 4.06775,
+          "preemptible": 0.86222,
+          "sud": 3.2542
         },
         "me-west1": {
           "cud-1y": 1.76176,
@@ -8526,6 +9156,13 @@
     },
     "c2d-standard-8": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.29927,
+          "cud-3y": 0.21375,
+          "ondemand": 0.47506,
+          "preemptible": 0.1007,
+          "sud": 0.38004
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -8637,6 +9274,13 @@
           "preemptible": 0.08043,
           "sud": 0.31992
         },
+        "europe-west10": {
+          "cud-1y": 0.35235,
+          "cud-3y": 0.25166,
+          "ondemand": 0.55932,
+          "preemptible": 0.11856,
+          "sud": 0.44745
+        },
         "europe-west12": {
           "cud-1y": 0.29515,
           "cud-3y": 0.21081,
@@ -8692,6 +9336,13 @@
           "ondemand": 0.44128,
           "preemptible": 0.09354,
           "sud": 0.35302
+        },
+        "me-central2": {
+          "cud-1y": 0.36608,
+          "cud-3y": 0.26147,
+          "ondemand": 0.58111,
+          "preemptible": 0.12317,
+          "sud": 0.46489
         },
         "me-west1": {
           "cud-1y": 0.25168,
@@ -8812,6 +9463,13 @@
   "c3": {
     "c3-highcpu-176": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 6.24946,
+          "cud-3y": 4.4635,
+          "ondemand": 9.92012,
+          "preemptible": 0.90057,
+          "sud": 9.92012
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -8923,6 +9581,13 @@
           "preemptible": 3.33661,
           "sud": 8.34293
         },
+        "europe-west10": {
+          "cud-1y": 7.35792,
+          "cud-3y": 5.25519,
+          "ondemand": 11.67966,
+          "preemptible": 1.06031,
+          "sud": 11.67966
+        },
         "europe-west12": {
           "cud-1y": 6.16345,
           "cud-3y": 4.40208,
@@ -8978,6 +9643,13 @@
           "ondemand": 9.21479,
           "preemptible": 0.83654,
           "sud": 9.21479
+        },
+        "me-central2": {
+          "cud-1y": 7.6446,
+          "cud-3y": 4.85394,
+          "ondemand": 12.13471,
+          "preemptible": 1.10162,
+          "sud": 12.13471
         },
         "me-west1": {
           "cud-1y": 5.25566,
@@ -9096,6 +9768,13 @@
     },
     "c3-highcpu-22": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.78118,
+          "cud-3y": 0.55794,
+          "ondemand": 1.24002,
+          "preemptible": 0.11257,
+          "sud": 1.24002
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -9207,6 +9886,13 @@
           "preemptible": 0.41708,
           "sud": 1.04287
         },
+        "europe-west10": {
+          "cud-1y": 0.91974,
+          "cud-3y": 0.6569,
+          "ondemand": 1.45996,
+          "preemptible": 0.13254,
+          "sud": 1.45996
+        },
         "europe-west12": {
           "cud-1y": 0.77043,
           "cud-3y": 0.55026,
@@ -9262,6 +9948,13 @@
           "ondemand": 1.15185,
           "preemptible": 0.10457,
           "sud": 1.15185
+        },
+        "me-central2": {
+          "cud-1y": 0.95557,
+          "cud-3y": 0.60674,
+          "ondemand": 1.51684,
+          "preemptible": 0.1377,
+          "sud": 1.51684
         },
         "me-west1": {
           "cud-1y": 0.65696,
@@ -9380,6 +10073,13 @@
     },
     "c3-highcpu-4": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.14203,
+          "cud-3y": 0.10144,
+          "ondemand": 0.22546,
+          "preemptible": 0.02047,
+          "sud": 0.22546
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -9491,6 +10191,13 @@
           "preemptible": 0.07583,
           "sud": 0.18961
         },
+        "europe-west10": {
+          "cud-1y": 0.16723,
+          "cud-3y": 0.11944,
+          "ondemand": 0.26545,
+          "preemptible": 0.0241,
+          "sud": 0.26545
+        },
         "europe-west12": {
           "cud-1y": 0.14008,
           "cud-3y": 0.10005,
@@ -9546,6 +10253,13 @@
           "ondemand": 0.20943,
           "preemptible": 0.01901,
           "sud": 0.20943
+        },
+        "me-central2": {
+          "cud-1y": 0.17374,
+          "cud-3y": 0.11032,
+          "ondemand": 0.27579,
+          "preemptible": 0.02504,
+          "sud": 0.27579
         },
         "me-west1": {
           "cud-1y": 0.11945,
@@ -9664,6 +10378,13 @@
     },
     "c3-highcpu-44": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 1.56236,
+          "cud-3y": 1.11588,
+          "ondemand": 2.48003,
+          "preemptible": 0.22514,
+          "sud": 2.48003
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -9775,6 +10496,13 @@
           "preemptible": 0.83415,
           "sud": 2.08573
         },
+        "europe-west10": {
+          "cud-1y": 1.83948,
+          "cud-3y": 1.3138,
+          "ondemand": 2.91991,
+          "preemptible": 0.26508,
+          "sud": 2.91991
+        },
         "europe-west12": {
           "cud-1y": 1.54086,
           "cud-3y": 1.10052,
@@ -9830,6 +10558,13 @@
           "ondemand": 2.3037,
           "preemptible": 0.20914,
           "sud": 2.3037
+        },
+        "me-central2": {
+          "cud-1y": 1.91115,
+          "cud-3y": 1.21348,
+          "ondemand": 3.03368,
+          "preemptible": 0.2754,
+          "sud": 3.03368
         },
         "me-west1": {
           "cud-1y": 1.31391,
@@ -9948,6 +10683,13 @@
     },
     "c3-highcpu-8": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.28407,
+          "cud-3y": 0.20289,
+          "ondemand": 0.45091,
+          "preemptible": 0.04094,
+          "sud": 0.45091
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -10059,6 +10801,13 @@
           "preemptible": 0.15166,
           "sud": 0.37922
         },
+        "europe-west10": {
+          "cud-1y": 0.33445,
+          "cud-3y": 0.23887,
+          "ondemand": 0.53089,
+          "preemptible": 0.0482,
+          "sud": 0.53089
+        },
         "europe-west12": {
           "cud-1y": 0.28016,
           "cud-3y": 0.20009,
@@ -10114,6 +10863,13 @@
           "ondemand": 0.41885,
           "preemptible": 0.03802,
           "sud": 0.41885
+        },
+        "me-central2": {
+          "cud-1y": 0.34748,
+          "cud-3y": 0.22063,
+          "ondemand": 0.55158,
+          "preemptible": 0.05007,
+          "sud": 0.55158
         },
         "me-west1": {
           "cud-1y": 0.23889,
@@ -10232,6 +10988,13 @@
     },
     "c3-highcpu-88": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 3.12473,
+          "cud-3y": 2.23175,
+          "ondemand": 4.96006,
+          "preemptible": 0.45029,
+          "sud": 4.96006
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -10343,6 +11106,13 @@
           "preemptible": 1.6683,
           "sud": 4.17146
         },
+        "europe-west10": {
+          "cud-1y": 3.67896,
+          "cud-3y": 2.6276,
+          "ondemand": 5.83983,
+          "preemptible": 0.53015,
+          "sud": 5.83983
+        },
         "europe-west12": {
           "cud-1y": 3.08173,
           "cud-3y": 2.20104,
@@ -10398,6 +11168,13 @@
           "ondemand": 4.6074,
           "preemptible": 0.41827,
           "sud": 4.6074
+        },
+        "me-central2": {
+          "cud-1y": 3.8223,
+          "cud-3y": 2.42697,
+          "ondemand": 6.06735,
+          "preemptible": 0.55081,
+          "sud": 6.06735
         },
         "me-west1": {
           "cud-1y": 2.62783,
@@ -10518,6 +11295,13 @@
   "e2": {
     "e2-highcpu-16": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.32612,
+          "cud-3y": 0.23295,
+          "ondemand": 0.51766,
+          "preemptible": 0.1553,
+          "sud": 0.51766
+        },
         "asia": {
           "ondemand": 0.45825,
           "preemptible": 0.13747
@@ -10647,6 +11431,13 @@
           "preemptible": 0.13061,
           "sud": 0.43535
         },
+        "europe-west10": {
+          "cud-1y": 0.38397,
+          "cud-3y": 0.27426,
+          "ondemand": 0.60947,
+          "preemptible": 0.18284,
+          "sud": 0.60947
+        },
         "europe-west12": {
           "cud-1y": 0.32164,
           "cud-3y": 0.22974,
@@ -10702,6 +11493,13 @@
           "ondemand": 0.48085,
           "preemptible": 0.12266,
           "sud": 0.48085
+        },
+        "me-central2": {
+          "cud-1y": 0.39893,
+          "cud-3y": 0.28495,
+          "ondemand": 0.63322,
+          "preemptible": 0.18997,
+          "sud": 0.63322
         },
         "me-west1": {
           "cud-1y": 0.27426,
@@ -10826,6 +11624,13 @@
     },
     "e2-highcpu-2": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.04077,
+          "cud-3y": 0.02912,
+          "ondemand": 0.06471,
+          "preemptible": 0.01941,
+          "sud": 0.06471
+        },
         "asia": {
           "ondemand": 0.05728,
           "preemptible": 0.01718
@@ -10955,6 +11760,13 @@
           "preemptible": 0.01633,
           "sud": 0.05442
         },
+        "europe-west10": {
+          "cud-1y": 0.048,
+          "cud-3y": 0.03428,
+          "ondemand": 0.07618,
+          "preemptible": 0.02286,
+          "sud": 0.07618
+        },
         "europe-west12": {
           "cud-1y": 0.0402,
           "cud-3y": 0.02872,
@@ -11010,6 +11822,13 @@
           "ondemand": 0.06011,
           "preemptible": 0.01533,
           "sud": 0.06011
+        },
+        "me-central2": {
+          "cud-1y": 0.04987,
+          "cud-3y": 0.03562,
+          "ondemand": 0.07915,
+          "preemptible": 0.02375,
+          "sud": 0.07915
         },
         "me-west1": {
           "cud-1y": 0.03428,
@@ -11134,6 +11953,13 @@
     },
     "e2-highcpu-32": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.65225,
+          "cud-3y": 0.46589,
+          "ondemand": 1.03531,
+          "preemptible": 0.31059,
+          "sud": 1.03531
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -11245,6 +12071,13 @@
           "preemptible": 0.26121,
           "sud": 0.8707
         },
+        "europe-west10": {
+          "cud-1y": 0.76794,
+          "cud-3y": 0.54853,
+          "ondemand": 1.21895,
+          "preemptible": 0.36568,
+          "sud": 1.21895
+        },
         "europe-west12": {
           "cud-1y": 0.64327,
           "cud-3y": 0.45948,
@@ -11300,6 +12133,13 @@
           "ondemand": 0.9617,
           "preemptible": 0.24531,
           "sud": 0.9617
+        },
+        "me-central2": {
+          "cud-1y": 0.79786,
+          "cud-3y": 0.5699,
+          "ondemand": 1.26644,
+          "preemptible": 0.37993,
+          "sud": 1.26644
         },
         "me-west1": {
           "cud-1y": 0.54853,
@@ -11421,6 +12261,13 @@
     },
     "e2-highcpu-4": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.08153,
+          "cud-3y": 0.05824,
+          "ondemand": 0.12941,
+          "preemptible": 0.03882,
+          "sud": 0.12941
+        },
         "asia": {
           "ondemand": 0.11456,
           "preemptible": 0.03437
@@ -11550,6 +12397,13 @@
           "preemptible": 0.03265,
           "sud": 0.10884
         },
+        "europe-west10": {
+          "cud-1y": 0.09599,
+          "cud-3y": 0.06857,
+          "ondemand": 0.15237,
+          "preemptible": 0.04571,
+          "sud": 0.15237
+        },
         "europe-west12": {
           "cud-1y": 0.08041,
           "cud-3y": 0.05743,
@@ -11605,6 +12459,13 @@
           "ondemand": 0.12021,
           "preemptible": 0.03066,
           "sud": 0.12021
+        },
+        "me-central2": {
+          "cud-1y": 0.09973,
+          "cud-3y": 0.07124,
+          "ondemand": 0.1583,
+          "preemptible": 0.04749,
+          "sud": 0.1583
         },
         "me-west1": {
           "cud-1y": 0.06857,
@@ -11729,6 +12590,13 @@
     },
     "e2-highcpu-8": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.16306,
+          "cud-3y": 0.11647,
+          "ondemand": 0.25883,
+          "preemptible": 0.07765,
+          "sud": 0.25883
+        },
         "asia": {
           "ondemand": 0.22912,
           "preemptible": 0.06874
@@ -11858,6 +12726,13 @@
           "preemptible": 0.0653,
           "sud": 0.21768
         },
+        "europe-west10": {
+          "cud-1y": 0.19198,
+          "cud-3y": 0.13713,
+          "ondemand": 0.30474,
+          "preemptible": 0.09142,
+          "sud": 0.30474
+        },
         "europe-west12": {
           "cud-1y": 0.16082,
           "cud-3y": 0.11487,
@@ -11913,6 +12788,13 @@
           "ondemand": 0.24043,
           "preemptible": 0.06133,
           "sud": 0.24043
+        },
+        "me-central2": {
+          "cud-1y": 0.19946,
+          "cud-3y": 0.14247,
+          "ondemand": 0.31661,
+          "preemptible": 0.09498,
+          "sud": 0.31661
         },
         "me-west1": {
           "cud-1y": 0.13713,
@@ -12037,6 +12919,13 @@
     },
     "e2-highmem-16": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.59594,
+          "cud-3y": 0.42567,
+          "ondemand": 0.94594,
+          "preemptible": 0.28378,
+          "sud": 0.94594
+        },
         "asia": {
           "ondemand": 0.83738,
           "preemptible": 0.25122
@@ -12166,6 +13055,13 @@
           "preemptible": 0.23867,
           "sud": 0.79555
         },
+        "europe-west10": {
+          "cud-1y": 0.70165,
+          "cud-3y": 0.50118,
+          "ondemand": 1.11372,
+          "preemptible": 0.33412,
+          "sud": 1.11372
+        },
         "europe-west12": {
           "cud-1y": 0.58774,
           "cud-3y": 0.41982,
@@ -12221,6 +13117,13 @@
           "ondemand": 0.87868,
           "preemptible": 0.22413,
           "sud": 0.87868
+        },
+        "me-central2": {
+          "cud-1y": 0.72898,
+          "cud-3y": 0.5207,
+          "ondemand": 1.15712,
+          "preemptible": 0.34713,
+          "sud": 1.15712
         },
         "me-west1": {
           "cud-1y": 0.50118,
@@ -12345,6 +13248,13 @@
     },
     "e2-highmem-2": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.07449,
+          "cud-3y": 0.05321,
+          "ondemand": 0.11824,
+          "preemptible": 0.03547,
+          "sud": 0.11824
+        },
         "asia": {
           "ondemand": 0.10467,
           "preemptible": 0.0314
@@ -12474,6 +13384,13 @@
           "preemptible": 0.02983,
           "sud": 0.09944
         },
+        "europe-west10": {
+          "cud-1y": 0.08771,
+          "cud-3y": 0.06265,
+          "ondemand": 0.13922,
+          "preemptible": 0.04176,
+          "sud": 0.13922
+        },
         "europe-west12": {
           "cud-1y": 0.07347,
           "cud-3y": 0.05248,
@@ -12529,6 +13446,13 @@
           "ondemand": 0.10984,
           "preemptible": 0.02802,
           "sud": 0.10984
+        },
+        "me-central2": {
+          "cud-1y": 0.09112,
+          "cud-3y": 0.06509,
+          "ondemand": 0.14464,
+          "preemptible": 0.04339,
+          "sud": 0.14464
         },
         "me-west1": {
           "cud-1y": 0.06265,
@@ -12653,6 +13577,13 @@
     },
     "e2-highmem-4": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.14899,
+          "cud-3y": 0.10642,
+          "ondemand": 0.23649,
+          "preemptible": 0.07095,
+          "sud": 0.23649
+        },
         "asia": {
           "ondemand": 0.20935,
           "preemptible": 0.0628
@@ -12782,6 +13713,13 @@
           "preemptible": 0.05967,
           "sud": 0.19889
         },
+        "europe-west10": {
+          "cud-1y": 0.17541,
+          "cud-3y": 0.12529,
+          "ondemand": 0.27843,
+          "preemptible": 0.08353,
+          "sud": 0.27843
+        },
         "europe-west12": {
           "cud-1y": 0.14694,
           "cud-3y": 0.10495,
@@ -12837,6 +13775,13 @@
           "ondemand": 0.21967,
           "preemptible": 0.05603,
           "sud": 0.21967
+        },
+        "me-central2": {
+          "cud-1y": 0.18225,
+          "cud-3y": 0.13018,
+          "ondemand": 0.28928,
+          "preemptible": 0.08678,
+          "sud": 0.28928
         },
         "me-west1": {
           "cud-1y": 0.12529,
@@ -12961,6 +13906,13 @@
     },
     "e2-highmem-8": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.29797,
+          "cud-3y": 0.21284,
+          "ondemand": 0.47297,
+          "preemptible": 0.14189,
+          "sud": 0.47297
+        },
         "asia": {
           "ondemand": 0.41869,
           "preemptible": 0.12561
@@ -13090,6 +14042,13 @@
           "preemptible": 0.11933,
           "sud": 0.39778
         },
+        "europe-west10": {
+          "cud-1y": 0.35082,
+          "cud-3y": 0.25059,
+          "ondemand": 0.55686,
+          "preemptible": 0.16706,
+          "sud": 0.55686
+        },
         "europe-west12": {
           "cud-1y": 0.29387,
           "cud-3y": 0.20991,
@@ -13145,6 +14104,13 @@
           "ondemand": 0.43934,
           "preemptible": 0.11206,
           "sud": 0.43934
+        },
+        "me-central2": {
+          "cud-1y": 0.36449,
+          "cud-3y": 0.26035,
+          "ondemand": 0.57856,
+          "preemptible": 0.17357,
+          "sud": 0.57856
         },
         "me-west1": {
           "cud-1y": 0.25059,
@@ -13269,6 +14235,7 @@
     },
     "e2-medium": {
       "regions": {
+        "africa-south1": {},
         "asia": {
           "ondemand": 0.0388,
           "preemptible": 0.01164
@@ -13350,6 +14317,7 @@
           "ondemand": 0.03686,
           "preemptible": 0.01106
         },
+        "europe-west10": {},
         "europe-west12": {},
         "europe-west2": {
           "ondemand": 0.04317,
@@ -13373,6 +14341,7 @@
         },
         "europe-west9": {},
         "me-central1": {},
+        "me-central2": {},
         "me-west1": {
           "ondemand": 0.03686,
           "preemptible": 0.01106
@@ -13447,6 +14416,7 @@
     },
     "e2-micro": {
       "regions": {
+        "africa-south1": {},
         "asia": {
           "ondemand": 0.0097,
           "preemptible": 0.00291
@@ -13528,6 +14498,7 @@
           "ondemand": 0.00921,
           "preemptible": 0.00276
         },
+        "europe-west10": {},
         "europe-west12": {},
         "europe-west2": {
           "ondemand": 0.01079,
@@ -13551,6 +14522,7 @@
         },
         "europe-west9": {},
         "me-central1": {},
+        "me-central2": {},
         "me-west1": {
           "ondemand": 0.00921,
           "preemptible": 0.00276
@@ -13625,6 +14597,7 @@
     },
     "e2-small": {
       "regions": {
+        "africa-south1": {},
         "asia": {
           "ondemand": 0.0194,
           "preemptible": 0.00582
@@ -13706,6 +14679,7 @@
           "ondemand": 0.01843,
           "preemptible": 0.00553
         },
+        "europe-west10": {},
         "europe-west12": {},
         "europe-west2": {
           "ondemand": 0.02158,
@@ -13729,6 +14703,7 @@
         },
         "europe-west9": {},
         "me-central1": {},
+        "me-central2": {},
         "me-west1": {
           "ondemand": 0.01843,
           "preemptible": 0.00553
@@ -13800,6 +14775,13 @@
     },
     "e2-standard-16": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.44176,
+          "cud-3y": 0.31554,
+          "ondemand": 0.70121,
+          "preemptible": 0.21036,
+          "sud": 0.70121
+        },
         "asia": {
           "ondemand": 0.62074,
           "preemptible": 0.18622
@@ -13929,6 +14911,13 @@
           "preemptible": 0.17692,
           "sud": 0.58972
         },
+        "europe-west10": {
+          "cud-1y": 0.52012,
+          "cud-3y": 0.37151,
+          "ondemand": 0.82558,
+          "preemptible": 0.24767,
+          "sud": 0.82558
+        },
         "europe-west12": {
           "cud-1y": 0.43568,
           "cud-3y": 0.3112,
@@ -13984,6 +14973,13 @@
           "ondemand": 0.65135,
           "preemptible": 0.16614,
           "sud": 0.65135
+        },
+        "me-central2": {
+          "cud-1y": 0.54038,
+          "cud-3y": 0.38599,
+          "ondemand": 0.85775,
+          "preemptible": 0.25732,
+          "sud": 0.85775
         },
         "me-west1": {
           "cud-1y": 0.37151,
@@ -14108,6 +15104,13 @@
     },
     "e2-standard-2": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.05522,
+          "cud-3y": 0.03944,
+          "ondemand": 0.08765,
+          "preemptible": 0.0263,
+          "sud": 0.08765
+        },
         "asia": {
           "ondemand": 0.07759,
           "preemptible": 0.02328
@@ -14237,6 +15240,13 @@
           "preemptible": 0.02211,
           "sud": 0.07372
         },
+        "europe-west10": {
+          "cud-1y": 0.06501,
+          "cud-3y": 0.04644,
+          "ondemand": 0.1032,
+          "preemptible": 0.03096,
+          "sud": 0.1032
+        },
         "europe-west12": {
           "cud-1y": 0.05446,
           "cud-3y": 0.0389,
@@ -14292,6 +15302,13 @@
           "ondemand": 0.08142,
           "preemptible": 0.02077,
           "sud": 0.08142
+        },
+        "me-central2": {
+          "cud-1y": 0.06755,
+          "cud-3y": 0.04825,
+          "ondemand": 0.10722,
+          "preemptible": 0.03217,
+          "sud": 0.10722
         },
         "me-west1": {
           "cud-1y": 0.04644,
@@ -14416,6 +15433,13 @@
     },
     "e2-standard-32": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.88352,
+          "cud-3y": 0.63109,
+          "ondemand": 1.40241,
+          "preemptible": 0.42072,
+          "sud": 1.40241
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -14527,6 +15551,13 @@
           "preemptible": 0.35383,
           "sud": 1.17945
         },
+        "europe-west10": {
+          "cud-1y": 1.04023,
+          "cud-3y": 0.74302,
+          "ondemand": 1.65116,
+          "preemptible": 0.49535,
+          "sud": 1.65116
+        },
         "europe-west12": {
           "cud-1y": 0.87136,
           "cud-3y": 0.6224,
@@ -14582,6 +15613,13 @@
           "ondemand": 1.3027,
           "preemptible": 0.33229,
           "sud": 1.3027
+        },
+        "me-central2": {
+          "cud-1y": 1.08076,
+          "cud-3y": 0.77197,
+          "ondemand": 1.71549,
+          "preemptible": 0.51465,
+          "sud": 1.71549
         },
         "me-west1": {
           "cud-1y": 0.74302,
@@ -14703,6 +15741,13 @@
     },
     "e2-standard-4": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.11044,
+          "cud-3y": 0.07889,
+          "ondemand": 0.1753,
+          "preemptible": 0.05259,
+          "sud": 0.1753
+        },
         "asia": {
           "ondemand": 0.15518,
           "preemptible": 0.04656
@@ -14832,6 +15877,13 @@
           "preemptible": 0.04423,
           "sud": 0.14743
         },
+        "europe-west10": {
+          "cud-1y": 0.13003,
+          "cud-3y": 0.09288,
+          "ondemand": 0.2064,
+          "preemptible": 0.06192,
+          "sud": 0.2064
+        },
         "europe-west12": {
           "cud-1y": 0.10892,
           "cud-3y": 0.0778,
@@ -14887,6 +15939,13 @@
           "ondemand": 0.16284,
           "preemptible": 0.04154,
           "sud": 0.16284
+        },
+        "me-central2": {
+          "cud-1y": 0.1351,
+          "cud-3y": 0.0965,
+          "ondemand": 0.21444,
+          "preemptible": 0.06433,
+          "sud": 0.21444
         },
         "me-west1": {
           "cud-1y": 0.09288,
@@ -15011,6 +16070,13 @@
     },
     "e2-standard-8": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.22088,
+          "cud-3y": 0.15777,
+          "ondemand": 0.3506,
+          "preemptible": 0.10518,
+          "sud": 0.3506
+        },
         "asia": {
           "ondemand": 0.31037,
           "preemptible": 0.09311
@@ -15140,6 +16206,13 @@
           "preemptible": 0.08846,
           "sud": 0.29486
         },
+        "europe-west10": {
+          "cud-1y": 0.26006,
+          "cud-3y": 0.18576,
+          "ondemand": 0.41279,
+          "preemptible": 0.12384,
+          "sud": 0.41279
+        },
         "europe-west12": {
           "cud-1y": 0.21784,
           "cud-3y": 0.1556,
@@ -15195,6 +16268,13 @@
           "ondemand": 0.32568,
           "preemptible": 0.08307,
           "sud": 0.32568
+        },
+        "me-central2": {
+          "cud-1y": 0.27019,
+          "cud-3y": 0.19299,
+          "ondemand": 0.42887,
+          "preemptible": 0.12866,
+          "sud": 0.42887
         },
         "me-west1": {
           "cud-1y": 0.18576,
@@ -15321,6 +16401,7 @@
   "f1": {
     "f1-micro": {
       "regions": {
+        "africa-south1": {},
         "asia": {
           "ondemand": 0.009,
           "preemptible": 0.0039
@@ -15402,6 +16483,7 @@
           "ondemand": 0.0086,
           "preemptible": 0.0039
         },
+        "europe-west10": {},
         "europe-west12": {},
         "europe-west2": {
           "ondemand": 0.0096,
@@ -15425,6 +16507,7 @@
         },
         "europe-west9": {},
         "me-central1": {},
+        "me-central2": {},
         "me-west1": {
           "ondemand": 0.0086,
           "preemptible": 0.0039
@@ -15497,6 +16580,7 @@
   "g1": {
     "g1-small": {
       "regions": {
+        "africa-south1": {},
         "asia": {
           "ondemand": 0.03,
           "preemptible": 0.0077
@@ -15578,6 +16662,7 @@
           "ondemand": 0.0285,
           "preemptible": 0.0077
         },
+        "europe-west10": {},
         "europe-west12": {},
         "europe-west2": {
           "ondemand": 0.0324,
@@ -15601,6 +16686,7 @@
         },
         "europe-west9": {},
         "me-central1": {},
+        "me-central2": {},
         "me-west1": {
           "ondemand": 0.0285,
           "preemptible": 0.0077
@@ -15831,6 +16917,13 @@
   "m1": {
     "m1-megamem-96": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 8.24337,
+          "cud-3y": 4.18116,
+          "ondemand": 13.93303,
+          "preemptible": 2.94557,
+          "sud": 9.75312
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -15942,6 +17035,13 @@
           "preemptible": 2.46541,
           "sud": 8.22027
         },
+        "europe-west10": {
+          "cud-1y": 9.7055,
+          "cud-3y": 4.92278,
+          "ondemand": 16.40433,
+          "preemptible": 3.46803,
+          "sud": 11.48303
+        },
         "europe-west12": {
           "cud-1y": 7.72448,
           "cud-3y": 3.92589,
@@ -15997,6 +17097,13 @@
           "ondemand": 12.94237,
           "preemptible": 2.73614,
           "sud": 9.05966
+        },
+        "me-central2": {
+          "cud-1y": 10.08364,
+          "cud-3y": 5.11457,
+          "ondemand": 17.04346,
+          "preemptible": 3.60315,
+          "sud": 11.93042
         },
         "me-west1": {
           "cud-1y": 6.9325,
@@ -16116,6 +17223,13 @@
     },
     "m1-ultramem-160": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 19.48512,
+          "cud-3y": 9.87974,
+          "ondemand": 32.9255,
+          "preemptible": 6.96421,
+          "sud": 23.04785
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -16227,6 +17341,13 @@
           "preemptible": 5.82552,
           "sud": 19.42901
         },
+        "europe-west10": {
+          "cud-1y": 22.9412,
+          "cud-3y": 11.63211,
+          "ondemand": 38.7655,
+          "preemptible": 8.19945,
+          "sud": 27.13585
+        },
         "europe-west12": {
           "cud-1y": 18.2564,
           "cud-3y": 9.27792,
@@ -16282,6 +17403,13 @@
           "ondemand": 30.58447,
           "preemptible": 6.46905,
           "sud": 21.40913
+        },
+        "me-central2": {
+          "cud-1y": 23.83501,
+          "cud-3y": 12.08531,
+          "ondemand": 40.27584,
+          "preemptible": 8.51891,
+          "sud": 28.19309
         },
         "me-west1": {
           "cud-1y": 16.38657,
@@ -16400,6 +17528,13 @@
     },
     "m1-ultramem-40": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 4.87128,
+          "cud-3y": 2.46994,
+          "ondemand": 8.23137,
+          "preemptible": 1.74105,
+          "sud": 5.76196
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -16511,6 +17646,13 @@
           "preemptible": 1.45638,
           "sud": 4.85725
         },
+        "europe-west10": {
+          "cud-1y": 5.7353,
+          "cud-3y": 2.90803,
+          "ondemand": 9.69137,
+          "preemptible": 2.04986,
+          "sud": 6.78396
+        },
         "europe-west12": {
           "cud-1y": 4.5641,
           "cud-3y": 2.31948,
@@ -16566,6 +17708,13 @@
           "ondemand": 7.64612,
           "preemptible": 1.61726,
           "sud": 5.35228
+        },
+        "me-central2": {
+          "cud-1y": 5.95875,
+          "cud-3y": 3.02133,
+          "ondemand": 10.06896,
+          "preemptible": 2.12973,
+          "sud": 7.04827
         },
         "me-west1": {
           "cud-1y": 4.09664,
@@ -16684,6 +17833,13 @@
     },
     "m1-ultramem-80": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 9.74256,
+          "cud-3y": 4.93987,
+          "ondemand": 16.46275,
+          "preemptible": 3.48211,
+          "sud": 11.52392
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -16795,6 +17951,13 @@
           "preemptible": 2.91276,
           "sud": 9.7145
         },
+        "europe-west10": {
+          "cud-1y": 11.4706,
+          "cud-3y": 5.81606,
+          "ondemand": 19.38275,
+          "preemptible": 4.09973,
+          "sud": 13.56792
+        },
         "europe-west12": {
           "cud-1y": 9.1282,
           "cud-3y": 4.63896,
@@ -16850,6 +18013,13 @@
           "ondemand": 15.29223,
           "preemptible": 3.23452,
           "sud": 10.70456
+        },
+        "me-central2": {
+          "cud-1y": 11.9175,
+          "cud-3y": 6.04266,
+          "ondemand": 20.13792,
+          "preemptible": 4.25946,
+          "sud": 14.09654
         },
         "me-west1": {
           "cud-1y": 8.19328,
@@ -16970,6 +18140,12 @@
   "m2": {
     "m2-megamem-416": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 34.44037,
+          "cud-3y": 17.46944,
+          "ondemand": 58.21332,
+          "sud": 40.74933
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -17066,6 +18242,12 @@
           "ondemand": 49.06311,
           "sud": 34.34417
         },
+        "europe-west10": {
+          "cud-1y": 40.54906,
+          "cud-3y": 20.56799,
+          "ondemand": 68.53862,
+          "sud": 47.97704
+        },
         "europe-west12": {
           "cud-1y": 32.27296,
           "cud-3y": 16.40256,
@@ -17113,6 +18295,12 @@
           "cud-3y": 16.22735,
           "ondemand": 54.0743,
           "sud": 37.85201
+        },
+        "me-central2": {
+          "cud-1y": 42.1289,
+          "cud-3y": 21.36934,
+          "ondemand": 71.20896,
+          "sud": 49.84627
         },
         "me-west1": {
           "cud-1y": 28.96362,
@@ -17217,6 +18405,12 @@
     },
     "m2-ultramem-208": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 28.84946,
+          "cud-3y": 14.62637,
+          "ondemand": 48.7455,
+          "sud": 34.12185
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -17313,6 +18507,12 @@
           "ondemand": 41.09391,
           "sud": 28.76574
         },
+        "europe-west10": {
+          "cud-1y": 33.96649,
+          "cud-3y": 17.22065,
+          "ondemand": 57.39149,
+          "sud": 40.17404
+        },
         "europe-west12": {
           "cud-1y": 27.02928,
           "cud-3y": 13.736,
@@ -17360,6 +18560,12 @@
           "cud-3y": 13.58642,
           "ondemand": 45.27965,
           "sud": 31.69575
+        },
+        "me-central2": {
+          "cud-1y": 35.28986,
+          "cud-3y": 17.89158,
+          "ondemand": 59.62752,
+          "sud": 41.73926
         },
         "me-west1": {
           "cud-1y": 24.26178,
@@ -17464,6 +18670,12 @@
     },
     "m2-ultramem-416": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 57.69891,
+          "cud-3y": 29.25274,
+          "ondemand": 97.491,
+          "sud": 68.2437
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -17560,6 +18772,12 @@
           "ondemand": 82.18782,
           "sud": 57.53147
         },
+        "europe-west10": {
+          "cud-1y": 67.93297,
+          "cud-3y": 34.4413,
+          "ondemand": 114.78298,
+          "sud": 80.34808
+        },
         "europe-west12": {
           "cud-1y": 54.05856,
           "cud-3y": 27.472,
@@ -17607,6 +18825,12 @@
           "cud-3y": 27.17284,
           "ondemand": 90.5593,
           "sud": 63.39151
+        },
+        "me-central2": {
+          "cud-1y": 70.57971,
+          "cud-3y": 35.78317,
+          "ondemand": 119.25504,
+          "sud": 83.47853
         },
         "me-west1": {
           "cud-1y": 48.52355,
@@ -17713,6 +18937,12 @@
   "m3": {
     "m3-megamem-128": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 11.15128,
+          "cud-3y": 5.656,
+          "ondemand": 18.84776,
+          "sud": 18.84776
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -17809,6 +19039,12 @@
           "ondemand": 15.86641,
           "sud": 15.86641
         },
+        "europe-west10": {
+          "cud-1y": 13.12918,
+          "cud-3y": 6.65921,
+          "ondemand": 22.19078,
+          "sud": 22.19078
+        },
         "europe-west12": {
           "cud-1y": 10.99782,
           "cud-3y": 5.57817,
@@ -17856,6 +19092,12 @@
           "cud-3y": 5.25385,
           "ondemand": 17.50766,
           "sud": 17.50766
+        },
+        "me-central2": {
+          "cud-1y": 13.6407,
+          "cud-3y": 6.91866,
+          "ondemand": 23.05536,
+          "sud": 23.05536
         },
         "me-west1": {
           "cud-1y": 9.37798,
@@ -17960,6 +19202,12 @@
     },
     "m3-megamem-64": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 5.57564,
+          "cud-3y": 2.828,
+          "ondemand": 9.42388,
+          "sud": 9.42388
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -18056,6 +19304,12 @@
           "ondemand": 7.93321,
           "sud": 7.93321
         },
+        "europe-west10": {
+          "cud-1y": 6.56459,
+          "cud-3y": 3.3296,
+          "ondemand": 11.09539,
+          "sud": 11.09539
+        },
         "europe-west12": {
           "cud-1y": 5.49891,
           "cud-3y": 2.78908,
@@ -18103,6 +19357,12 @@
           "cud-3y": 2.62693,
           "ondemand": 8.75383,
           "sud": 8.75383
+        },
+        "me-central2": {
+          "cud-1y": 6.82035,
+          "cud-3y": 3.45933,
+          "ondemand": 11.52768,
+          "sud": 11.52768
         },
         "me-west1": {
           "cud-1y": 4.68899,
@@ -18207,6 +19467,12 @@
     },
     "m3-ultramem-128": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 18.86199,
+          "cud-3y": 9.56242,
+          "ondemand": 31.86916,
+          "sud": 31.86916
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -18303,6 +19569,12 @@
           "ondemand": 26.82808,
           "sud": 26.82808
         },
+        "europe-west10": {
+          "cud-1y": 22.20754,
+          "cud-3y": 11.25851,
+          "ondemand": 37.52179,
+          "sud": 37.52179
+        },
         "europe-west12": {
           "cud-1y": 18.60242,
           "cud-3y": 9.43083,
@@ -18350,6 +19622,12 @@
           "cud-3y": 8.88252,
           "ondemand": 29.60323,
           "sud": 29.60323
+        },
+        "me-central2": {
+          "cud-1y": 23.07277,
+          "cud-3y": 11.69715,
+          "ondemand": 38.98368,
+          "sud": 38.98368
         },
         "me-west1": {
           "cud-1y": 15.86253,
@@ -18454,6 +19732,12 @@
     },
     "m3-ultramem-32": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 4.7155,
+          "cud-3y": 2.39061,
+          "ondemand": 7.96729,
+          "sud": 7.96729
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -18550,6 +19834,12 @@
           "ondemand": 6.70702,
           "sud": 6.70702
         },
+        "europe-west10": {
+          "cud-1y": 5.55188,
+          "cud-3y": 2.81463,
+          "ondemand": 9.38045,
+          "sud": 9.38045
+        },
         "europe-west12": {
           "cud-1y": 4.6506,
           "cud-3y": 2.35771,
@@ -18597,6 +19887,12 @@
           "cud-3y": 2.22063,
           "ondemand": 7.40081,
           "sud": 7.40081
+        },
+        "me-central2": {
+          "cud-1y": 5.76819,
+          "cud-3y": 2.92429,
+          "ondemand": 9.74592,
+          "sud": 9.74592
         },
         "me-west1": {
           "cud-1y": 3.96563,
@@ -18701,6 +19997,12 @@
     },
     "m3-ultramem-64": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 9.43099,
+          "cud-3y": 4.78121,
+          "ondemand": 15.93458,
+          "sud": 15.93458
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -18797,6 +20099,12 @@
           "ondemand": 13.41404,
           "sud": 13.41404
         },
+        "europe-west10": {
+          "cud-1y": 11.10377,
+          "cud-3y": 5.62925,
+          "ondemand": 18.7609,
+          "sud": 18.7609
+        },
         "europe-west12": {
           "cud-1y": 9.30121,
           "cud-3y": 4.71541,
@@ -18844,6 +20152,12 @@
           "cud-3y": 4.44126,
           "ondemand": 14.80162,
           "sud": 14.80162
+        },
+        "me-central2": {
+          "cud-1y": 11.53638,
+          "cud-3y": 5.84858,
+          "ondemand": 19.49184,
+          "sud": 19.49184
         },
         "me-west1": {
           "cud-1y": 7.93126,
@@ -18950,6 +20264,10 @@
   "n1": {
     "n1-highcpu-16": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.46705,
+          "cud-3y": 0.33362
+        },
         "asia": {
           "ondemand": 0.6568,
           "preemptible": 0.132,
@@ -19082,6 +20400,10 @@
           "preemptible": 0.132,
           "sud": 0.4368
         },
+        "europe-west10": {
+          "cud-1y": 0.54989,
+          "cud-3y": 0.39279
+        },
         "europe-west12": {
           "cud-1y": 0.46062,
           "cud-3y": 0.32903
@@ -19125,6 +20447,10 @@
         "me-central1": {
           "cud-1y": 0.43384,
           "cud-3y": 0.3099
+        },
+        "me-central2": {
+          "cud-1y": 0.57132,
+          "cud-3y": 0.4081
         },
         "me-west1": {
           "cud-1y": 0.39278,
@@ -19242,6 +20568,10 @@
     },
     "n1-highcpu-2": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.05838,
+          "cud-3y": 0.0417
+        },
         "asia": {
           "ondemand": 0.0821,
           "preemptible": 0.0165,
@@ -19374,6 +20704,10 @@
           "preemptible": 0.0165,
           "sud": 0.0546
         },
+        "europe-west10": {
+          "cud-1y": 0.06874,
+          "cud-3y": 0.0491
+        },
         "europe-west12": {
           "cud-1y": 0.05758,
           "cud-3y": 0.04113
@@ -19417,6 +20751,10 @@
         "me-central1": {
           "cud-1y": 0.05423,
           "cud-3y": 0.03874
+        },
+        "me-central2": {
+          "cud-1y": 0.07141,
+          "cud-3y": 0.05101
         },
         "me-west1": {
           "cud-1y": 0.0491,
@@ -19534,6 +20872,10 @@
     },
     "n1-highcpu-32": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.9341,
+          "cud-3y": 0.66724
+        },
         "asia": {
           "ondemand": 1.3136,
           "preemptible": 0.264,
@@ -19666,6 +21008,10 @@
           "preemptible": 0.264,
           "sud": 0.8736
         },
+        "europe-west10": {
+          "cud-1y": 1.09979,
+          "cud-3y": 0.78559
+        },
         "europe-west12": {
           "cud-1y": 0.92125,
           "cud-3y": 0.65806
@@ -19709,6 +21055,10 @@
         "me-central1": {
           "cud-1y": 0.86769,
           "cud-3y": 0.6198
+        },
+        "me-central2": {
+          "cud-1y": 1.14264,
+          "cud-3y": 0.81619
         },
         "me-west1": {
           "cud-1y": 0.78556,
@@ -19826,6 +21176,10 @@
     },
     "n1-highcpu-4": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.11676,
+          "cud-3y": 0.0834
+        },
         "asia": {
           "ondemand": 0.1642,
           "preemptible": 0.033,
@@ -19958,6 +21312,10 @@
           "preemptible": 0.033,
           "sud": 0.1092
         },
+        "europe-west10": {
+          "cud-1y": 0.13747,
+          "cud-3y": 0.0982
+        },
         "europe-west12": {
           "cud-1y": 0.11516,
           "cud-3y": 0.08226
@@ -20001,6 +21359,10 @@
         "me-central1": {
           "cud-1y": 0.10846,
           "cud-3y": 0.07747
+        },
+        "me-central2": {
+          "cud-1y": 0.14283,
+          "cud-3y": 0.10202
         },
         "me-west1": {
           "cud-1y": 0.0982,
@@ -20118,6 +21480,10 @@
     },
     "n1-highcpu-64": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 1.86821,
+          "cud-3y": 1.33448
+        },
         "asia": {
           "ondemand": 2.6272,
           "preemptible": 0.528,
@@ -20250,6 +21616,10 @@
           "preemptible": 0.528,
           "sud": 1.7472
         },
+        "europe-west10": {
+          "cud-1y": 2.19957,
+          "cud-3y": 1.57117
+        },
         "europe-west12": {
           "cud-1y": 1.8425,
           "cud-3y": 1.31611
@@ -20293,6 +21663,10 @@
         "me-central1": {
           "cud-1y": 1.73538,
           "cud-3y": 1.2396
+        },
+        "me-central2": {
+          "cud-1y": 2.28527,
+          "cud-3y": 1.63239
         },
         "me-west1": {
           "cud-1y": 1.57112,
@@ -20410,6 +21784,10 @@
     },
     "n1-highcpu-8": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.23353,
+          "cud-3y": 0.16681
+        },
         "asia": {
           "ondemand": 0.3284,
           "preemptible": 0.066,
@@ -20542,6 +21920,10 @@
           "preemptible": 0.066,
           "sud": 0.2184
         },
+        "europe-west10": {
+          "cud-1y": 0.27495,
+          "cud-3y": 0.1964
+        },
         "europe-west12": {
           "cud-1y": 0.23031,
           "cud-3y": 0.16451
@@ -20585,6 +21967,10 @@
         "me-central1": {
           "cud-1y": 0.21692,
           "cud-3y": 0.15495
+        },
+        "me-central2": {
+          "cud-1y": 0.28566,
+          "cud-3y": 0.20405
         },
         "me-west1": {
           "cud-1y": 0.19639,
@@ -20702,6 +22088,10 @@
     },
     "n1-highcpu-96": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 2.80231,
+          "cud-3y": 2.00172
+        },
         "asia": {
           "ondemand": 3.9408,
           "preemptible": 0.792,
@@ -20834,6 +22224,10 @@
           "preemptible": 0.792,
           "sud": 2.6208
         },
+        "europe-west10": {
+          "cud-1y": 3.29936,
+          "cud-3y": 2.35676
+        },
         "europe-west12": {
           "cud-1y": 2.76375,
           "cud-3y": 1.97417
@@ -20877,6 +22271,10 @@
         "me-central1": {
           "cud-1y": 2.60307,
           "cud-3y": 1.85939
+        },
+        "me-central2": {
+          "cud-1y": 3.42791,
+          "cud-3y": 2.44858
         },
         "me-west1": {
           "cud-1y": 2.35669,
@@ -20994,6 +22392,10 @@
     },
     "n1-highmem-16": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.77985,
+          "cud-3y": 0.55711
+        },
         "asia": {
           "ondemand": 1.096,
           "preemptible": 0.22,
@@ -21126,6 +22528,10 @@
           "preemptible": 0.22,
           "sud": 0.72912
         },
+        "europe-west10": {
+          "cud-1y": 0.91817,
+          "cud-3y": 0.65593
+        },
         "europe-west12": {
           "cud-1y": 0.76912,
           "cud-3y": 0.54945
@@ -21169,6 +22575,10 @@
         "me-central1": {
           "cud-1y": 0.7244,
           "cud-3y": 0.5175
+        },
+        "me-central2": {
+          "cud-1y": 0.95395,
+          "cud-3y": 0.68148
         },
         "me-west1": {
           "cud-1y": 0.65584,
@@ -21286,6 +22696,10 @@
     },
     "n1-highmem-2": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.09748,
+          "cud-3y": 0.06964
+        },
         "asia": {
           "ondemand": 0.137,
           "preemptible": 0.0275,
@@ -21418,6 +22832,10 @@
           "preemptible": 0.0275,
           "sud": 0.09114
         },
+        "europe-west10": {
+          "cud-1y": 0.11477,
+          "cud-3y": 0.08199
+        },
         "europe-west12": {
           "cud-1y": 0.09614,
           "cud-3y": 0.06868
@@ -21461,6 +22879,10 @@
         "me-central1": {
           "cud-1y": 0.09055,
           "cud-3y": 0.06469
+        },
+        "me-central2": {
+          "cud-1y": 0.11924,
+          "cud-3y": 0.08519
         },
         "me-west1": {
           "cud-1y": 0.08198,
@@ -21578,6 +23000,10 @@
     },
     "n1-highmem-32": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 1.5597,
+          "cud-3y": 1.11423
+        },
         "asia": {
           "ondemand": 2.192,
           "preemptible": 0.44,
@@ -21710,6 +23136,10 @@
           "preemptible": 0.44,
           "sud": 1.45824
         },
+        "europe-west10": {
+          "cud-1y": 1.83635,
+          "cud-3y": 1.31186
+        },
         "europe-west12": {
           "cud-1y": 1.53824,
           "cud-3y": 1.09889
@@ -21753,6 +23183,10 @@
         "me-central1": {
           "cud-1y": 1.4488,
           "cud-3y": 1.03501
+        },
+        "me-central2": {
+          "cud-1y": 1.90789,
+          "cud-3y": 1.36297
         },
         "me-west1": {
           "cud-1y": 1.31168,
@@ -21870,6 +23304,10 @@
     },
     "n1-highmem-4": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.19496,
+          "cud-3y": 0.13928
+        },
         "asia": {
           "ondemand": 0.274,
           "preemptible": 0.055,
@@ -22002,6 +23440,10 @@
           "preemptible": 0.055,
           "sud": 0.18228
         },
+        "europe-west10": {
+          "cud-1y": 0.22954,
+          "cud-3y": 0.16398
+        },
         "europe-west12": {
           "cud-1y": 0.19228,
           "cud-3y": 0.13736
@@ -22045,6 +23487,10 @@
         "me-central1": {
           "cud-1y": 0.1811,
           "cud-3y": 0.12938
+        },
+        "me-central2": {
+          "cud-1y": 0.23849,
+          "cud-3y": 0.17037
         },
         "me-west1": {
           "cud-1y": 0.16396,
@@ -22162,6 +23608,10 @@
     },
     "n1-highmem-64": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 3.1194,
+          "cud-3y": 2.22846
+        },
         "asia": {
           "ondemand": 4.384,
           "preemptible": 0.88,
@@ -22294,6 +23744,10 @@
           "preemptible": 0.88,
           "sud": 2.91648
         },
+        "europe-west10": {
+          "cud-1y": 3.67269,
+          "cud-3y": 2.62372
+        },
         "europe-west12": {
           "cud-1y": 3.07647,
           "cud-3y": 2.19779
@@ -22337,6 +23791,10 @@
         "me-central1": {
           "cud-1y": 2.89761,
           "cud-3y": 2.07001
+        },
+        "me-central2": {
+          "cud-1y": 3.81578,
+          "cud-3y": 2.72594
         },
         "me-west1": {
           "cud-1y": 2.62335,
@@ -22454,6 +23912,10 @@
     },
     "n1-highmem-8": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.38993,
+          "cud-3y": 0.27856
+        },
         "asia": {
           "ondemand": 0.548,
           "preemptible": 0.11,
@@ -22586,6 +24048,10 @@
           "preemptible": 0.11,
           "sud": 0.36456
         },
+        "europe-west10": {
+          "cud-1y": 0.45909,
+          "cud-3y": 0.32796
+        },
         "europe-west12": {
           "cud-1y": 0.38456,
           "cud-3y": 0.27472
@@ -22629,6 +24095,10 @@
         "me-central1": {
           "cud-1y": 0.3622,
           "cud-3y": 0.25875
+        },
+        "me-central2": {
+          "cud-1y": 0.47697,
+          "cud-3y": 0.34074
         },
         "me-west1": {
           "cud-1y": 0.32792,
@@ -22746,6 +24216,10 @@
     },
     "n1-highmem-96": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 4.6791,
+          "cud-3y": 3.34268
+        },
         "asia": {
           "ondemand": 6.576,
           "preemptible": 1.32,
@@ -22878,6 +24352,10 @@
           "preemptible": 1.32,
           "sud": 4.37472
         },
+        "europe-west10": {
+          "cud-1y": 5.50904,
+          "cud-3y": 3.93557
+        },
         "europe-west12": {
           "cud-1y": 4.61471,
           "cud-3y": 3.29668
@@ -22921,6 +24399,10 @@
         "me-central1": {
           "cud-1y": 4.34641,
           "cud-3y": 3.10502
+        },
+        "me-central2": {
+          "cud-1y": 5.72367,
+          "cud-3y": 4.08891
         },
         "me-west1": {
           "cud-1y": 3.93503,
@@ -23038,6 +24520,10 @@
     },
     "n1-standard-1": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.03914,
+          "cud-3y": 0.02796
+        },
         "asia": {
           "ondemand": 0.055,
           "preemptible": 0.011,
@@ -23170,6 +24656,10 @@
           "preemptible": 0.011,
           "sud": 0.03661
         },
+        "europe-west10": {
+          "cud-1y": 0.04608,
+          "cud-3y": 0.03292
+        },
         "europe-west12": {
           "cud-1y": 0.0386,
           "cud-3y": 0.02758
@@ -23213,6 +24703,10 @@
         "me-central1": {
           "cud-1y": 0.03636,
           "cud-3y": 0.02597
+        },
+        "me-central2": {
+          "cud-1y": 0.04788,
+          "cud-3y": 0.0342
         },
         "me-west1": {
           "cud-1y": 0.03292,
@@ -23330,6 +24824,10 @@
     },
     "n1-standard-16": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.62624,
+          "cud-3y": 0.44736
+        },
         "asia": {
           "ondemand": 0.88,
           "preemptible": 0.176,
@@ -23462,6 +24960,10 @@
           "preemptible": 0.176,
           "sud": 0.58576
         },
+        "europe-west10": {
+          "cud-1y": 0.73732,
+          "cud-3y": 0.52671
+        },
         "europe-west12": {
           "cud-1y": 0.61763,
           "cud-3y": 0.44121
@@ -23505,6 +25007,10 @@
         "me-central1": {
           "cud-1y": 0.58172,
           "cud-3y": 0.41555
+        },
+        "me-central2": {
+          "cud-1y": 0.76605,
+          "cud-3y": 0.54723
         },
         "me-west1": {
           "cud-1y": 0.52666,
@@ -23622,6 +25128,10 @@
     },
     "n1-standard-2": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.07828,
+          "cud-3y": 0.05592
+        },
         "asia": {
           "ondemand": 0.11,
           "preemptible": 0.022,
@@ -23754,6 +25264,10 @@
           "preemptible": 0.022,
           "sud": 0.07322
         },
+        "europe-west10": {
+          "cud-1y": 0.09217,
+          "cud-3y": 0.06584
+        },
         "europe-west12": {
           "cud-1y": 0.0772,
           "cud-3y": 0.05515
@@ -23797,6 +25311,10 @@
         "me-central1": {
           "cud-1y": 0.07271,
           "cud-3y": 0.05194
+        },
+        "me-central2": {
+          "cud-1y": 0.09576,
+          "cud-3y": 0.0684
         },
         "me-west1": {
           "cud-1y": 0.06583,
@@ -23914,6 +25432,10 @@
     },
     "n1-standard-32": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 1.25249,
+          "cud-3y": 0.89472
+        },
         "asia": {
           "ondemand": 1.76,
           "preemptible": 0.352,
@@ -24046,6 +25568,10 @@
           "preemptible": 0.352,
           "sud": 1.17152
         },
+        "europe-west10": {
+          "cud-1y": 1.47464,
+          "cud-3y": 1.05342
+        },
         "europe-west12": {
           "cud-1y": 1.23525,
           "cud-3y": 0.88241
@@ -24089,6 +25615,10 @@
         "me-central1": {
           "cud-1y": 1.16344,
           "cud-3y": 0.83111
+        },
+        "me-central2": {
+          "cud-1y": 1.5321,
+          "cud-3y": 1.09446
         },
         "me-west1": {
           "cud-1y": 1.05332,
@@ -24206,6 +25736,10 @@
     },
     "n1-standard-4": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.15656,
+          "cud-3y": 0.11184
+        },
         "asia": {
           "ondemand": 0.22,
           "preemptible": 0.044,
@@ -24338,6 +25872,10 @@
           "preemptible": 0.044,
           "sud": 0.14644
         },
+        "europe-west10": {
+          "cud-1y": 0.18433,
+          "cud-3y": 0.13168
+        },
         "europe-west12": {
           "cud-1y": 0.15441,
           "cud-3y": 0.1103
@@ -24381,6 +25919,10 @@
         "me-central1": {
           "cud-1y": 0.14543,
           "cud-3y": 0.10389
+        },
+        "me-central2": {
+          "cud-1y": 0.19151,
+          "cud-3y": 0.13681
         },
         "me-west1": {
           "cud-1y": 0.13166,
@@ -24498,6 +26040,10 @@
     },
     "n1-standard-64": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 2.50498,
+          "cud-3y": 1.78945
+        },
         "asia": {
           "ondemand": 3.52,
           "preemptible": 0.704,
@@ -24630,6 +26176,10 @@
           "preemptible": 0.704,
           "sud": 2.34304
         },
+        "europe-west10": {
+          "cud-1y": 2.94928,
+          "cud-3y": 2.10684
+        },
         "europe-west12": {
           "cud-1y": 2.4705,
           "cud-3y": 1.76482
@@ -24673,6 +26223,10 @@
         "me-central1": {
           "cud-1y": 2.32687,
           "cud-3y": 1.66222
+        },
+        "me-central2": {
+          "cud-1y": 3.06419,
+          "cud-3y": 2.18893
         },
         "me-west1": {
           "cud-1y": 2.10663,
@@ -24790,6 +26344,10 @@
     },
     "n1-standard-8": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.31312,
+          "cud-3y": 0.22368
+        },
         "asia": {
           "ondemand": 0.44,
           "preemptible": 0.088,
@@ -24922,6 +26480,10 @@
           "preemptible": 0.088,
           "sud": 0.29288
         },
+        "europe-west10": {
+          "cud-1y": 0.36866,
+          "cud-3y": 0.26336
+        },
         "europe-west12": {
           "cud-1y": 0.30881,
           "cud-3y": 0.2206
@@ -24965,6 +26527,10 @@
         "me-central1": {
           "cud-1y": 0.29086,
           "cud-3y": 0.20778
+        },
+        "me-central2": {
+          "cud-1y": 0.38302,
+          "cud-3y": 0.27362
         },
         "me-west1": {
           "cud-1y": 0.26333,
@@ -25082,6 +26648,10 @@
     },
     "n1-standard-96": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 3.75747,
+          "cud-3y": 2.68417
+        },
         "asia": {
           "ondemand": 5.28,
           "preemptible": 1.056,
@@ -25214,6 +26784,10 @@
           "preemptible": 1.056,
           "sud": 3.51456
         },
+        "europe-west10": {
+          "cud-1y": 4.42393,
+          "cud-3y": 3.16026
+        },
         "europe-west12": {
           "cud-1y": 3.70576,
           "cud-3y": 2.64723
@@ -25257,6 +26831,10 @@
         "me-central1": {
           "cud-1y": 3.49031,
           "cud-3y": 2.49333
+        },
+        "me-central2": {
+          "cud-1y": 4.59629,
+          "cud-3y": 3.28339
         },
         "me-west1": {
           "cud-1y": 3.15995,
@@ -25376,6 +26954,13 @@
   "n2": {
     "n2-highcpu-16": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.47264,
+          "cud-3y": 0.33761,
+          "ondemand": 0.75023,
+          "preemptible": 0.18153,
+          "sud": 0.60018
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -25487,6 +27072,13 @@
           "preemptible": 0.088,
           "sud": 0.50476
         },
+        "europe-west10": {
+          "cud-1y": 0.55647,
+          "cud-3y": 0.39749,
+          "ondemand": 0.88329,
+          "preemptible": 0.21373,
+          "sud": 0.70664
+        },
         "europe-west12": {
           "cud-1y": 0.46613,
           "cud-3y": 0.33296,
@@ -25542,6 +27134,13 @@
           "ondemand": 0.69689,
           "preemptible": 0.14334,
           "sud": 0.55751
+        },
+        "me-central2": {
+          "cud-1y": 0.57815,
+          "cud-3y": 0.41298,
+          "ondemand": 0.91771,
+          "preemptible": 0.22205,
+          "sud": 0.73417
         },
         "me-west1": {
           "cud-1y": 0.39748,
@@ -25661,6 +27260,13 @@
     },
     "n2-highcpu-2": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.05908,
+          "cud-3y": 0.0422,
+          "ondemand": 0.09378,
+          "preemptible": 0.02269,
+          "sud": 0.07502
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -25772,6 +27378,13 @@
           "preemptible": 0.011,
           "sud": 0.06309
         },
+        "europe-west10": {
+          "cud-1y": 0.06956,
+          "cud-3y": 0.04969,
+          "ondemand": 0.11041,
+          "preemptible": 0.02672,
+          "sud": 0.08833
+        },
         "europe-west12": {
           "cud-1y": 0.05827,
           "cud-3y": 0.04162,
@@ -25827,6 +27440,13 @@
           "ondemand": 0.08711,
           "preemptible": 0.01792,
           "sud": 0.06969
+        },
+        "me-central2": {
+          "cud-1y": 0.07227,
+          "cud-3y": 0.05162,
+          "ondemand": 0.11471,
+          "preemptible": 0.02776,
+          "sud": 0.09177
         },
         "me-west1": {
           "cud-1y": 0.04968,
@@ -25946,6 +27566,13 @@
     },
     "n2-highcpu-32": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.94528,
+          "cud-3y": 0.67522,
+          "ondemand": 1.50045,
+          "preemptible": 0.36306,
+          "sud": 1.20036
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -26057,6 +27684,13 @@
           "preemptible": 0.176,
           "sud": 1.00951
         },
+        "europe-west10": {
+          "cud-1y": 1.11294,
+          "cud-3y": 0.79498,
+          "ondemand": 1.76659,
+          "preemptible": 0.42745,
+          "sud": 1.41327
+        },
         "europe-west12": {
           "cud-1y": 0.93227,
           "cud-3y": 0.66593,
@@ -26112,6 +27746,13 @@
           "ondemand": 1.39377,
           "preemptible": 0.28669,
           "sud": 1.11502
+        },
+        "me-central2": {
+          "cud-1y": 1.1563,
+          "cud-3y": 0.82596,
+          "ondemand": 1.83542,
+          "preemptible": 0.44411,
+          "sud": 1.46833
         },
         "me-west1": {
           "cud-1y": 0.79496,
@@ -26231,6 +27872,13 @@
     },
     "n2-highcpu-4": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.11816,
+          "cud-3y": 0.0844,
+          "ondemand": 0.18756,
+          "preemptible": 0.04538,
+          "sud": 0.15005
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -26342,6 +27990,13 @@
           "preemptible": 0.022,
           "sud": 0.12619
         },
+        "europe-west10": {
+          "cud-1y": 0.13912,
+          "cud-3y": 0.09937,
+          "ondemand": 0.22082,
+          "preemptible": 0.05343,
+          "sud": 0.17666
+        },
         "europe-west12": {
           "cud-1y": 0.11653,
           "cud-3y": 0.08324,
@@ -26397,6 +28052,13 @@
           "ondemand": 0.17422,
           "preemptible": 0.03584,
           "sud": 0.13938
+        },
+        "me-central2": {
+          "cud-1y": 0.14454,
+          "cud-3y": 0.10324,
+          "ondemand": 0.22943,
+          "preemptible": 0.05551,
+          "sud": 0.18354
         },
         "me-west1": {
           "cud-1y": 0.09937,
@@ -26516,6 +28178,13 @@
     },
     "n2-highcpu-48": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 1.41791,
+          "cud-3y": 1.01283,
+          "ondemand": 2.25068,
+          "preemptible": 0.54459,
+          "sud": 1.80054
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -26627,6 +28296,13 @@
           "preemptible": 0.264,
           "sud": 1.51427
         },
+        "europe-west10": {
+          "cud-1y": 1.66941,
+          "cud-3y": 1.19248,
+          "ondemand": 2.64988,
+          "preemptible": 0.64118,
+          "sud": 2.11991
+        },
         "europe-west12": {
           "cud-1y": 1.3984,
           "cud-3y": 0.99889,
@@ -26682,6 +28358,13 @@
           "ondemand": 2.09066,
           "preemptible": 0.43003,
           "sud": 1.67252
+        },
+        "me-central2": {
+          "cud-1y": 1.73445,
+          "cud-3y": 1.23894,
+          "ondemand": 2.75313,
+          "preemptible": 0.66616,
+          "sud": 2.2025
         },
         "me-west1": {
           "cud-1y": 1.19244,
@@ -26801,6 +28484,13 @@
     },
     "n2-highcpu-64": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 1.89055,
+          "cud-3y": 1.35044,
+          "ondemand": 3.00091,
+          "preemptible": 0.72612,
+          "sud": 2.40073
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -26912,6 +28602,13 @@
           "preemptible": 0.352,
           "sud": 2.01902
         },
+        "europe-west10": {
+          "cud-1y": 2.22588,
+          "cud-3y": 1.58997,
+          "ondemand": 3.53318,
+          "preemptible": 0.85491,
+          "sud": 2.82654
+        },
         "europe-west12": {
           "cud-1y": 1.86454,
           "cud-3y": 1.33186,
@@ -26967,6 +28664,13 @@
           "ondemand": 2.78754,
           "preemptible": 0.57338,
           "sud": 2.23003
+        },
+        "me-central2": {
+          "cud-1y": 2.3126,
+          "cud-3y": 1.65192,
+          "ondemand": 3.67084,
+          "preemptible": 0.88822,
+          "sud": 2.93667
         },
         "me-west1": {
           "cud-1y": 1.58991,
@@ -27086,6 +28790,13 @@
     },
     "n2-highcpu-8": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.23632,
+          "cud-3y": 0.16881,
+          "ondemand": 0.37511,
+          "preemptible": 0.09076,
+          "sud": 0.30009
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -27197,6 +28908,13 @@
           "preemptible": 0.044,
           "sud": 0.25238
         },
+        "europe-west10": {
+          "cud-1y": 0.27823,
+          "cud-3y": 0.19875,
+          "ondemand": 0.44165,
+          "preemptible": 0.10686,
+          "sud": 0.35332
+        },
         "europe-west12": {
           "cud-1y": 0.23307,
           "cud-3y": 0.16648,
@@ -27252,6 +28970,13 @@
           "ondemand": 0.34844,
           "preemptible": 0.07167,
           "sud": 0.27875
+        },
+        "me-central2": {
+          "cud-1y": 0.28908,
+          "cud-3y": 0.20649,
+          "ondemand": 0.45885,
+          "preemptible": 0.11103,
+          "sud": 0.36708
         },
         "me-west1": {
           "cud-1y": 0.19874,
@@ -27371,6 +29096,13 @@
     },
     "n2-highcpu-80": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 2.36319,
+          "cud-3y": 1.68805,
+          "ondemand": 3.75113,
+          "preemptible": 0.90765,
+          "sud": 3.00091
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -27482,6 +29214,13 @@
           "preemptible": 0.44,
           "sud": 2.52378
         },
+        "europe-west10": {
+          "cud-1y": 2.78235,
+          "cud-3y": 1.98746,
+          "ondemand": 4.41647,
+          "preemptible": 1.06864,
+          "sud": 3.53318
+        },
         "europe-west12": {
           "cud-1y": 2.33067,
           "cud-3y": 1.66482,
@@ -27537,6 +29276,13 @@
           "ondemand": 3.48443,
           "preemptible": 0.71672,
           "sud": 2.78754
+        },
+        "me-central2": {
+          "cud-1y": 2.89075,
+          "cud-3y": 2.0649,
+          "ondemand": 4.58854,
+          "preemptible": 1.11027,
+          "sud": 3.67084
         },
         "me-west1": {
           "cud-1y": 1.98739,
@@ -27656,6 +29402,13 @@
     },
     "n2-highcpu-96": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 2.83583,
+          "cud-3y": 2.02566,
+          "ondemand": 4.50136,
+          "preemptible": 1.08918,
+          "sud": 3.60109
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -27767,6 +29520,13 @@
           "preemptible": 0.528,
           "sud": 3.02853
         },
+        "europe-west10": {
+          "cud-1y": 3.33882,
+          "cud-3y": 2.38495,
+          "ondemand": 5.29977,
+          "preemptible": 1.28236,
+          "sud": 4.23981
+        },
         "europe-west12": {
           "cud-1y": 2.7968,
           "cud-3y": 1.99779,
@@ -27822,6 +29582,13 @@
           "ondemand": 4.18131,
           "preemptible": 0.86006,
           "sud": 3.34505
+        },
+        "me-central2": {
+          "cud-1y": 3.4689,
+          "cud-3y": 2.47788,
+          "ondemand": 5.50625,
+          "preemptible": 1.33233,
+          "sud": 4.405
         },
         "me-west1": {
           "cud-1y": 2.38487,
@@ -27940,6 +29707,13 @@
     },
     "n2-highmem-128": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 6.35052,
+          "cud-3y": 4.53673,
+          "ondemand": 10.08072,
+          "preemptible": 2.43899,
+          "sud": 8.06458
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -28051,6 +29825,13 @@
           "preemptible": 1.1824,
           "sud": 6.78244
         },
+        "europe-west10": {
+          "cud-1y": 7.47691,
+          "cud-3y": 5.34141,
+          "ondemand": 11.86874,
+          "preemptible": 2.87159,
+          "sud": 9.49499
+        },
         "europe-west12": {
           "cud-1y": 6.26313,
           "cud-3y": 4.4743,
@@ -28106,6 +29887,13 @@
           "ondemand": 9.36398,
           "preemptible": 1.92618,
           "sud": 7.49118
+        },
+        "me-central2": {
+          "cud-1y": 7.76822,
+          "cud-3y": 5.54952,
+          "ondemand": 12.33116,
+          "preemptible": 2.98348,
+          "sud": 9.86493
         },
         "me-west1": {
           "cud-1y": 5.34065,
@@ -28224,6 +30012,13 @@
     },
     "n2-highmem-16": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.86364,
+          "cud-3y": 0.61698,
+          "ondemand": 1.37093,
+          "preemptible": 0.33169,
+          "sud": 1.09674
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -28335,6 +30130,13 @@
           "preemptible": 0.1608,
           "sud": 0.92238
         },
+        "europe-west10": {
+          "cud-1y": 1.01682,
+          "cud-3y": 0.72641,
+          "ondemand": 1.61409,
+          "preemptible": 0.39052,
+          "sud": 1.29127
+        },
         "europe-west12": {
           "cud-1y": 0.85175,
           "cud-3y": 0.60849,
@@ -28390,6 +30192,13 @@
           "ondemand": 1.27346,
           "preemptible": 0.26195,
           "sud": 1.01876
+        },
+        "me-central2": {
+          "cud-1y": 1.05644,
+          "cud-3y": 0.75471,
+          "ondemand": 1.67698,
+          "preemptible": 0.40573,
+          "sud": 1.34158
         },
         "me-west1": {
           "cud-1y": 0.7263,
@@ -28509,6 +30318,13 @@
     },
     "n2-highmem-2": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.10795,
+          "cud-3y": 0.07712,
+          "ondemand": 0.17137,
+          "preemptible": 0.04146,
+          "sud": 0.13709
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -28620,6 +30436,13 @@
           "preemptible": 0.0201,
           "sud": 0.1153
         },
+        "europe-west10": {
+          "cud-1y": 0.1271,
+          "cud-3y": 0.0908,
+          "ondemand": 0.20176,
+          "preemptible": 0.04881,
+          "sud": 0.16141
+        },
         "europe-west12": {
           "cud-1y": 0.10647,
           "cud-3y": 0.07606,
@@ -28675,6 +30498,13 @@
           "ondemand": 0.15918,
           "preemptible": 0.03274,
           "sud": 0.12735
+        },
+        "me-central2": {
+          "cud-1y": 0.13205,
+          "cud-3y": 0.09434,
+          "ondemand": 0.20962,
+          "preemptible": 0.05072,
+          "sud": 0.1677
         },
         "me-west1": {
           "cud-1y": 0.09079,
@@ -28794,6 +30624,13 @@
     },
     "n2-highmem-32": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 1.72727,
+          "cud-3y": 1.23396,
+          "ondemand": 2.74186,
+          "preemptible": 0.66338,
+          "sud": 2.19349
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -28905,6 +30742,13 @@
           "preemptible": 0.3216,
           "sud": 1.84476
         },
+        "europe-west10": {
+          "cud-1y": 2.03364,
+          "cud-3y": 1.45282,
+          "ondemand": 3.22818,
+          "preemptible": 0.78104,
+          "sud": 2.58255
+        },
         "europe-west12": {
           "cud-1y": 1.7035,
           "cud-3y": 1.21698,
@@ -28960,6 +30804,13 @@
           "ondemand": 2.54691,
           "preemptible": 0.5239,
           "sud": 2.03753
+        },
+        "me-central2": {
+          "cud-1y": 2.11287,
+          "cud-3y": 1.50943,
+          "ondemand": 3.35396,
+          "preemptible": 0.81147,
+          "sud": 2.68317
         },
         "me-west1": {
           "cud-1y": 1.4526,
@@ -29079,6 +30930,13 @@
     },
     "n2-highmem-4": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.21591,
+          "cud-3y": 0.15424,
+          "ondemand": 0.34273,
+          "preemptible": 0.08292,
+          "sud": 0.27419
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -29190,6 +31048,13 @@
           "preemptible": 0.0402,
           "sud": 0.2306
         },
+        "europe-west10": {
+          "cud-1y": 0.2542,
+          "cud-3y": 0.1816,
+          "ondemand": 0.40352,
+          "preemptible": 0.09763,
+          "sud": 0.32282
+        },
         "europe-west12": {
           "cud-1y": 0.21294,
           "cud-3y": 0.15212,
@@ -29245,6 +31110,13 @@
           "ondemand": 0.31836,
           "preemptible": 0.06549,
           "sud": 0.25469
+        },
+        "me-central2": {
+          "cud-1y": 0.26411,
+          "cud-3y": 0.18868,
+          "ondemand": 0.41924,
+          "preemptible": 0.10143,
+          "sud": 0.3354
         },
         "me-west1": {
           "cud-1y": 0.18157,
@@ -29364,6 +31236,13 @@
     },
     "n2-highmem-48": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 2.59091,
+          "cud-3y": 1.85094,
+          "ondemand": 4.11279,
+          "preemptible": 0.99506,
+          "sud": 3.29023
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -29475,6 +31354,13 @@
           "preemptible": 0.4824,
           "sud": 2.76714
         },
+        "europe-west10": {
+          "cud-1y": 3.05046,
+          "cud-3y": 2.17924,
+          "ondemand": 4.84228,
+          "preemptible": 1.17156,
+          "sud": 3.87382
+        },
         "europe-west12": {
           "cud-1y": 2.55525,
           "cud-3y": 1.82546,
@@ -29530,6 +31416,13 @@
           "ondemand": 3.82037,
           "preemptible": 0.78586,
           "sud": 3.05629
+        },
+        "me-central2": {
+          "cud-1y": 3.16931,
+          "cud-3y": 2.26414,
+          "ondemand": 5.03094,
+          "preemptible": 1.2172,
+          "sud": 4.02475
         },
         "me-west1": {
           "cud-1y": 2.1789,
@@ -29649,6 +31542,13 @@
     },
     "n2-highmem-64": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 3.45454,
+          "cud-3y": 2.46791,
+          "ondemand": 5.48372,
+          "preemptible": 1.32675,
+          "sud": 4.38698
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -29760,6 +31660,13 @@
           "preemptible": 0.6432,
           "sud": 3.68952
         },
+        "europe-west10": {
+          "cud-1y": 4.06728,
+          "cud-3y": 2.90565,
+          "ondemand": 6.45637,
+          "preemptible": 1.56208,
+          "sud": 5.1651
+        },
         "europe-west12": {
           "cud-1y": 3.407,
           "cud-3y": 2.43395,
@@ -29815,6 +31722,13 @@
           "ondemand": 5.09382,
           "preemptible": 1.04781,
           "sud": 4.07506
+        },
+        "me-central2": {
+          "cud-1y": 4.22574,
+          "cud-3y": 3.01885,
+          "ondemand": 6.70792,
+          "preemptible": 1.62294,
+          "sud": 5.36633
         },
         "me-west1": {
           "cud-1y": 2.9052,
@@ -29934,6 +31848,13 @@
     },
     "n2-highmem-8": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.43182,
+          "cud-3y": 0.30849,
+          "ondemand": 0.68547,
+          "preemptible": 0.16584,
+          "sud": 0.54837
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -30045,6 +31966,13 @@
           "preemptible": 0.0804,
           "sud": 0.46119
         },
+        "europe-west10": {
+          "cud-1y": 0.50841,
+          "cud-3y": 0.36321,
+          "ondemand": 0.80705,
+          "preemptible": 0.19526,
+          "sud": 0.64564
+        },
         "europe-west12": {
           "cud-1y": 0.42588,
           "cud-3y": 0.30424,
@@ -30100,6 +32028,13 @@
           "ondemand": 0.63673,
           "preemptible": 0.13098,
           "sud": 0.50938
+        },
+        "me-central2": {
+          "cud-1y": 0.52822,
+          "cud-3y": 0.37736,
+          "ondemand": 0.83849,
+          "preemptible": 0.20287,
+          "sud": 0.67079
         },
         "me-west1": {
           "cud-1y": 0.36315,
@@ -30219,6 +32154,13 @@
     },
     "n2-highmem-80": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 4.31818,
+          "cud-3y": 3.08489,
+          "ondemand": 6.85465,
+          "preemptible": 1.65844,
+          "sud": 5.48372
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -30330,6 +32272,13 @@
           "preemptible": 0.804,
           "sud": 4.6119
         },
+        "europe-west10": {
+          "cud-1y": 5.08409,
+          "cud-3y": 3.63206,
+          "ondemand": 8.07046,
+          "preemptible": 1.9526,
+          "sud": 6.45637
+        },
         "europe-west12": {
           "cud-1y": 4.25875,
           "cud-3y": 3.04244,
@@ -30385,6 +32334,13 @@
           "ondemand": 6.36728,
           "preemptible": 1.30976,
           "sud": 5.09382
+        },
+        "me-central2": {
+          "cud-1y": 5.28218,
+          "cud-3y": 3.77357,
+          "ondemand": 8.3849,
+          "preemptible": 2.02867,
+          "sud": 6.70792
         },
         "me-west1": {
           "cud-1y": 3.6315,
@@ -30504,6 +32460,13 @@
     },
     "n2-highmem-96": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 5.18181,
+          "cud-3y": 3.70187,
+          "ondemand": 8.22558,
+          "preemptible": 1.99013,
+          "sud": 6.58047
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -30615,6 +32578,13 @@
           "preemptible": 0.9648,
           "sud": 5.53428
         },
+        "europe-west10": {
+          "cud-1y": 6.10091,
+          "cud-3y": 4.35847,
+          "ondemand": 9.68455,
+          "preemptible": 2.34312,
+          "sud": 7.74764
+        },
         "europe-west12": {
           "cud-1y": 5.11051,
           "cud-3y": 3.65093,
@@ -30670,6 +32640,13 @@
           "ondemand": 7.64074,
           "preemptible": 1.57171,
           "sud": 6.11259
+        },
+        "me-central2": {
+          "cud-1y": 6.33861,
+          "cud-3y": 4.52828,
+          "ondemand": 10.06188,
+          "preemptible": 2.43441,
+          "sud": 8.0495
         },
         "me-west1": {
           "cud-1y": 4.3578,
@@ -30788,6 +32765,13 @@
     },
     "n2-standard-128": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 5.12167,
+          "cud-3y": 3.65872,
+          "ondemand": 8.12994,
+          "preemptible": 1.96706,
+          "sud": 6.50395
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -30899,6 +32883,13 @@
           "preemptible": 0.9536,
           "sud": 5.4699
         },
+        "europe-west10": {
+          "cud-1y": 6.0301,
+          "cud-3y": 4.30766,
+          "ondemand": 9.57195,
+          "preemptible": 2.31596,
+          "sud": 7.65756
+        },
         "europe-west12": {
           "cud-1y": 5.05119,
           "cud-3y": 3.60837,
@@ -30954,6 +32945,13 @@
           "ondemand": 7.5519,
           "preemptible": 1.55341,
           "sud": 6.04152
+        },
+        "me-central2": {
+          "cud-1y": 6.26504,
+          "cud-3y": 4.47549,
+          "ondemand": 9.94488,
+          "preemptible": 2.4062,
+          "sud": 7.95591
         },
         "me-west1": {
           "cud-1y": 4.30721,
@@ -31072,6 +33070,13 @@
     },
     "n2-standard-16": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.64021,
+          "cud-3y": 0.45734,
+          "ondemand": 1.01624,
+          "preemptible": 0.24588,
+          "sud": 0.81299
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -31183,6 +33188,13 @@
           "preemptible": 0.1192,
           "sud": 0.68374
         },
+        "europe-west10": {
+          "cud-1y": 0.75376,
+          "cud-3y": 0.53846,
+          "ondemand": 1.19649,
+          "preemptible": 0.2895,
+          "sud": 0.9572
+        },
         "europe-west12": {
           "cud-1y": 0.6314,
           "cud-3y": 0.45105,
@@ -31238,6 +33250,13 @@
           "ondemand": 0.94399,
           "preemptible": 0.19418,
           "sud": 0.75519
+        },
+        "me-central2": {
+          "cud-1y": 0.78313,
+          "cud-3y": 0.55944,
+          "ondemand": 1.24311,
+          "preemptible": 0.30077,
+          "sud": 0.99449
         },
         "me-west1": {
           "cud-1y": 0.5384,
@@ -31357,6 +33376,13 @@
     },
     "n2-standard-2": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.08003,
+          "cud-3y": 0.05717,
+          "ondemand": 0.12703,
+          "preemptible": 0.03074,
+          "sud": 0.10162
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -31468,6 +33494,13 @@
           "preemptible": 0.0149,
           "sud": 0.08547
         },
+        "europe-west10": {
+          "cud-1y": 0.09422,
+          "cud-3y": 0.06731,
+          "ondemand": 0.14956,
+          "preemptible": 0.03619,
+          "sud": 0.11965
+        },
         "europe-west12": {
           "cud-1y": 0.07892,
           "cud-3y": 0.05638,
@@ -31523,6 +33556,13 @@
           "ondemand": 0.118,
           "preemptible": 0.02427,
           "sud": 0.0944
+        },
+        "me-central2": {
+          "cud-1y": 0.09789,
+          "cud-3y": 0.06993,
+          "ondemand": 0.15539,
+          "preemptible": 0.0376,
+          "sud": 0.12431
         },
         "me-west1": {
           "cud-1y": 0.0673,
@@ -31642,6 +33682,13 @@
     },
     "n2-standard-32": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 1.28042,
+          "cud-3y": 0.91468,
+          "ondemand": 2.03249,
+          "preemptible": 0.49177,
+          "sud": 1.62599
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -31753,6 +33800,13 @@
           "preemptible": 0.2384,
           "sud": 1.36748
         },
+        "europe-west10": {
+          "cud-1y": 1.50752,
+          "cud-3y": 1.07692,
+          "ondemand": 2.39299,
+          "preemptible": 0.57899,
+          "sud": 1.91439
+        },
         "europe-west12": {
           "cud-1y": 1.2628,
           "cud-3y": 0.90209,
@@ -31808,6 +33862,13 @@
           "ondemand": 1.88797,
           "preemptible": 0.38835,
           "sud": 1.51038
+        },
+        "me-central2": {
+          "cud-1y": 1.56626,
+          "cud-3y": 1.11887,
+          "ondemand": 2.48622,
+          "preemptible": 0.60155,
+          "sud": 1.98898
         },
         "me-west1": {
           "cud-1y": 1.0768,
@@ -31927,6 +33988,13 @@
     },
     "n2-standard-4": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.16005,
+          "cud-3y": 0.11433,
+          "ondemand": 0.25406,
+          "preemptible": 0.06147,
+          "sud": 0.20325
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -32038,6 +34106,13 @@
           "preemptible": 0.0298,
           "sud": 0.17093
         },
+        "europe-west10": {
+          "cud-1y": 0.18844,
+          "cud-3y": 0.13461,
+          "ondemand": 0.29912,
+          "preemptible": 0.07237,
+          "sud": 0.2393
+        },
         "europe-west12": {
           "cud-1y": 0.15785,
           "cud-3y": 0.11276,
@@ -32093,6 +34168,13 @@
           "ondemand": 0.236,
           "preemptible": 0.04854,
           "sud": 0.1888
+        },
+        "me-central2": {
+          "cud-1y": 0.19578,
+          "cud-3y": 0.13986,
+          "ondemand": 0.31078,
+          "preemptible": 0.07519,
+          "sud": 0.24862
         },
         "me-west1": {
           "cud-1y": 0.1346,
@@ -32212,6 +34294,13 @@
     },
     "n2-standard-48": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 1.92063,
+          "cud-3y": 1.37202,
+          "ondemand": 3.04873,
+          "preemptible": 0.73765,
+          "sud": 2.43898
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -32323,6 +34412,13 @@
           "preemptible": 0.3576,
           "sud": 2.05121
         },
+        "europe-west10": {
+          "cud-1y": 2.26129,
+          "cud-3y": 1.61537,
+          "ondemand": 3.58948,
+          "preemptible": 0.86849,
+          "sud": 2.87159
+        },
         "europe-west12": {
           "cud-1y": 1.89419,
           "cud-3y": 1.35314,
@@ -32378,6 +34474,13 @@
           "ondemand": 2.83196,
           "preemptible": 0.58253,
           "sud": 2.26557
+        },
+        "me-central2": {
+          "cud-1y": 2.34939,
+          "cud-3y": 1.67831,
+          "ondemand": 3.72933,
+          "preemptible": 0.90232,
+          "sud": 2.98346
         },
         "me-west1": {
           "cud-1y": 1.6152,
@@ -32497,6 +34600,13 @@
     },
     "n2-standard-64": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 2.56083,
+          "cud-3y": 1.82936,
+          "ondemand": 4.06497,
+          "preemptible": 0.98353,
+          "sud": 3.25198
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -32608,6 +34718,13 @@
           "preemptible": 0.4768,
           "sud": 2.73495
         },
+        "europe-west10": {
+          "cud-1y": 3.01505,
+          "cud-3y": 2.15383,
+          "ondemand": 4.78598,
+          "preemptible": 1.15798,
+          "sud": 3.82878
+        },
         "europe-west12": {
           "cud-1y": 2.52559,
           "cud-3y": 1.80418,
@@ -32663,6 +34780,13 @@
           "ondemand": 3.77595,
           "preemptible": 0.7767,
           "sud": 3.02076
+        },
+        "me-central2": {
+          "cud-1y": 3.13252,
+          "cud-3y": 2.23775,
+          "ondemand": 4.97244,
+          "preemptible": 1.2031,
+          "sud": 3.97795
         },
         "me-west1": {
           "cud-1y": 2.15361,
@@ -32782,6 +34906,13 @@
     },
     "n2-standard-8": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.3201,
+          "cud-3y": 0.22867,
+          "ondemand": 0.50812,
+          "preemptible": 0.12294,
+          "sud": 0.4065
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -32893,6 +35024,13 @@
           "preemptible": 0.0596,
           "sud": 0.34187
         },
+        "europe-west10": {
+          "cud-1y": 0.37688,
+          "cud-3y": 0.26923,
+          "ondemand": 0.59825,
+          "preemptible": 0.14475,
+          "sud": 0.4786
+        },
         "europe-west12": {
           "cud-1y": 0.3157,
           "cud-3y": 0.22552,
@@ -32948,6 +35086,13 @@
           "ondemand": 0.47199,
           "preemptible": 0.09709,
           "sud": 0.37759
+        },
+        "me-central2": {
+          "cud-1y": 0.39156,
+          "cud-3y": 0.27972,
+          "ondemand": 0.62156,
+          "preemptible": 0.15039,
+          "sud": 0.49724
         },
         "me-west1": {
           "cud-1y": 0.2692,
@@ -33067,6 +35212,13 @@
     },
     "n2-standard-80": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 3.20104,
+          "cud-3y": 2.2867,
+          "ondemand": 5.08121,
+          "preemptible": 1.22942,
+          "sud": 4.06497
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -33178,6 +35330,13 @@
           "preemptible": 0.596,
           "sud": 3.41869
         },
+        "europe-west10": {
+          "cud-1y": 3.76881,
+          "cud-3y": 2.69229,
+          "ondemand": 5.98247,
+          "preemptible": 1.44748,
+          "sud": 4.78598
+        },
         "europe-west12": {
           "cud-1y": 3.15699,
           "cud-3y": 2.25523,
@@ -33233,6 +35392,13 @@
           "ondemand": 4.71994,
           "preemptible": 0.97088,
           "sud": 3.77595
+        },
+        "me-central2": {
+          "cud-1y": 3.91565,
+          "cud-3y": 2.79718,
+          "ondemand": 6.21555,
+          "preemptible": 1.50387,
+          "sud": 4.97244
         },
         "me-west1": {
           "cud-1y": 2.69201,
@@ -33352,6 +35518,13 @@
     },
     "n2-standard-96": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 3.84125,
+          "cud-3y": 2.74404,
+          "ondemand": 6.09746,
+          "preemptible": 1.4753,
+          "sud": 4.87797
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -33463,6 +35636,13 @@
           "preemptible": 0.7152,
           "sud": 4.10243
         },
+        "europe-west10": {
+          "cud-1y": 4.52257,
+          "cud-3y": 3.23075,
+          "ondemand": 7.17896,
+          "preemptible": 1.73697,
+          "sud": 5.74317
+        },
         "europe-west12": {
           "cud-1y": 3.78839,
           "cud-3y": 2.70628,
@@ -33518,6 +35698,13 @@
           "ondemand": 5.66392,
           "preemptible": 1.16506,
           "sud": 4.53114
+        },
+        "me-central2": {
+          "cud-1y": 4.69878,
+          "cud-3y": 3.35662,
+          "ondemand": 7.45866,
+          "preemptible": 1.80465,
+          "sud": 5.96693
         },
         "me-west1": {
           "cud-1y": 3.23041,
@@ -33638,6 +35825,13 @@
   "n2d": {
     "n2d-highcpu-128": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 3.28955,
+          "cud-3y": 2.3498,
+          "ondemand": 5.22162,
+          "preemptible": 0.78756,
+          "sud": 4.1773
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -33749,6 +35943,13 @@
           "preemptible": 1.15533,
           "sud": 3.51314
         },
+        "europe-west10": {
+          "cud-1y": 3.87301,
+          "cud-3y": 2.76658,
+          "ondemand": 6.14778,
+          "preemptible": 0.92725,
+          "sud": 4.91822
+        },
         "europe-west12": {
           "cud-1y": 3.24428,
           "cud-3y": 2.31746,
@@ -33804,6 +36005,13 @@
           "ondemand": 4.85036,
           "preemptible": 0.73157,
           "sud": 3.88029
+        },
+        "me-central2": {
+          "cud-1y": 4.02391,
+          "cud-3y": 2.87437,
+          "ondemand": 6.3873,
+          "preemptible": 0.96338,
+          "sud": 5.10984
         },
         "me-west1": {
           "cud-1y": 2.76644,
@@ -33923,6 +36131,13 @@
     },
     "n2d-highcpu-16": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.41119,
+          "cud-3y": 0.29372,
+          "ondemand": 0.6527,
+          "preemptible": 0.09845,
+          "sud": 0.52216
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -34034,6 +36249,13 @@
           "preemptible": 0.14442,
           "sud": 0.43914
         },
+        "europe-west10": {
+          "cud-1y": 0.48413,
+          "cud-3y": 0.34582,
+          "ondemand": 0.76847,
+          "preemptible": 0.11591,
+          "sud": 0.61478
+        },
         "europe-west12": {
           "cud-1y": 0.40553,
           "cud-3y": 0.28968,
@@ -34089,6 +36311,13 @@
           "ondemand": 0.60629,
           "preemptible": 0.09145,
           "sud": 0.48504
+        },
+        "me-central2": {
+          "cud-1y": 0.50299,
+          "cud-3y": 0.3593,
+          "ondemand": 0.79841,
+          "preemptible": 0.12042,
+          "sud": 0.63873
         },
         "me-west1": {
           "cud-1y": 0.3458,
@@ -34208,6 +36437,13 @@
     },
     "n2d-highcpu-2": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.0514,
+          "cud-3y": 0.03672,
+          "ondemand": 0.08159,
+          "preemptible": 0.01231,
+          "sud": 0.06527
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -34319,6 +36555,13 @@
           "preemptible": 0.01805,
           "sud": 0.05489
         },
+        "europe-west10": {
+          "cud-1y": 0.06052,
+          "cud-3y": 0.04323,
+          "ondemand": 0.09606,
+          "preemptible": 0.01449,
+          "sud": 0.07685
+        },
         "europe-west12": {
           "cud-1y": 0.05069,
           "cud-3y": 0.03621,
@@ -34374,6 +36617,13 @@
           "ondemand": 0.07579,
           "preemptible": 0.01143,
           "sud": 0.06063
+        },
+        "me-central2": {
+          "cud-1y": 0.06287,
+          "cud-3y": 0.04491,
+          "ondemand": 0.0998,
+          "preemptible": 0.01505,
+          "sud": 0.07984
         },
         "me-west1": {
           "cud-1y": 0.04323,
@@ -34493,6 +36743,13 @@
     },
     "n2d-highcpu-224": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 5.75671,
+          "cud-3y": 4.11214,
+          "ondemand": 9.13784,
+          "preemptible": 1.37823,
+          "sud": 7.31027
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -34604,6 +36861,13 @@
           "preemptible": 2.02182,
           "sud": 6.14799
         },
+        "europe-west10": {
+          "cud-1y": 6.77777,
+          "cud-3y": 4.84151,
+          "ondemand": 10.75861,
+          "preemptible": 1.62269,
+          "sud": 8.60689
+        },
         "europe-west12": {
           "cud-1y": 5.67749,
           "cud-3y": 4.05555,
@@ -34659,6 +36923,13 @@
           "ondemand": 8.48813,
           "preemptible": 1.28024,
           "sud": 6.7905
+        },
+        "me-central2": {
+          "cud-1y": 7.04184,
+          "cud-3y": 5.03014,
+          "ondemand": 11.17778,
+          "preemptible": 1.68591,
+          "sud": 8.94222
         },
         "me-west1": {
           "cud-1y": 4.84127,
@@ -34778,6 +37049,13 @@
     },
     "n2d-highcpu-32": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.82239,
+          "cud-3y": 0.58745,
+          "ondemand": 1.30541,
+          "preemptible": 0.19689,
+          "sud": 1.04432
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -34889,6 +37167,13 @@
           "preemptible": 0.28883,
           "sud": 0.87828
         },
+        "europe-west10": {
+          "cud-1y": 0.96825,
+          "cud-3y": 0.69164,
+          "ondemand": 1.53694,
+          "preemptible": 0.23181,
+          "sud": 1.22956
+        },
         "europe-west12": {
           "cud-1y": 0.81107,
           "cud-3y": 0.57936,
@@ -34944,6 +37229,13 @@
           "ondemand": 1.21259,
           "preemptible": 0.18289,
           "sud": 0.97007
+        },
+        "me-central2": {
+          "cud-1y": 1.00598,
+          "cud-3y": 0.71859,
+          "ondemand": 1.59683,
+          "preemptible": 0.24084,
+          "sud": 1.27746
         },
         "me-west1": {
           "cud-1y": 0.69161,
@@ -35063,6 +37355,13 @@
     },
     "n2d-highcpu-4": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.1028,
+          "cud-3y": 0.07343,
+          "ondemand": 0.16318,
+          "preemptible": 0.02461,
+          "sud": 0.13054
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -35174,6 +37473,13 @@
           "preemptible": 0.0361,
           "sud": 0.10979
         },
+        "europe-west10": {
+          "cud-1y": 0.12103,
+          "cud-3y": 0.08646,
+          "ondemand": 0.19212,
+          "preemptible": 0.02898,
+          "sud": 0.15369
+        },
         "europe-west12": {
           "cud-1y": 0.10138,
           "cud-3y": 0.07242,
@@ -35229,6 +37535,13 @@
           "ondemand": 0.15157,
           "preemptible": 0.02286,
           "sud": 0.12126
+        },
+        "me-central2": {
+          "cud-1y": 0.12575,
+          "cud-3y": 0.08982,
+          "ondemand": 0.1996,
+          "preemptible": 0.03011,
+          "sud": 0.15968
         },
         "me-west1": {
           "cud-1y": 0.08645,
@@ -35348,6 +37661,13 @@
     },
     "n2d-highcpu-48": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 1.23358,
+          "cud-3y": 0.88117,
+          "ondemand": 1.95811,
+          "preemptible": 0.29534,
+          "sud": 1.56649
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -35459,6 +37779,13 @@
           "preemptible": 0.43325,
           "sud": 1.31743
         },
+        "europe-west10": {
+          "cud-1y": 1.45238,
+          "cud-3y": 1.03747,
+          "ondemand": 2.30542,
+          "preemptible": 0.34772,
+          "sud": 1.84433
+        },
         "europe-west12": {
           "cud-1y": 1.2166,
           "cud-3y": 0.86905,
@@ -35514,6 +37841,13 @@
           "ondemand": 1.81888,
           "preemptible": 0.27434,
           "sud": 1.45511
+        },
+        "me-central2": {
+          "cud-1y": 1.50897,
+          "cud-3y": 1.07789,
+          "ondemand": 2.39524,
+          "preemptible": 0.36127,
+          "sud": 1.91619
         },
         "me-west1": {
           "cud-1y": 1.03741,
@@ -35633,6 +37967,13 @@
     },
     "n2d-highcpu-64": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 1.64477,
+          "cud-3y": 1.1749,
+          "ondemand": 2.61081,
+          "preemptible": 0.39378,
+          "sud": 2.08865
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -35744,6 +38085,13 @@
           "preemptible": 0.57766,
           "sud": 1.75657
         },
+        "europe-west10": {
+          "cud-1y": 1.93651,
+          "cud-3y": 1.38329,
+          "ondemand": 3.07389,
+          "preemptible": 0.46363,
+          "sud": 2.45911
+        },
         "europe-west12": {
           "cud-1y": 1.62214,
           "cud-3y": 1.15873,
@@ -35799,6 +38147,13 @@
           "ondemand": 2.42518,
           "preemptible": 0.36578,
           "sud": 1.94014
+        },
+        "me-central2": {
+          "cud-1y": 2.01196,
+          "cud-3y": 1.43718,
+          "ondemand": 3.19365,
+          "preemptible": 0.48169,
+          "sud": 2.55492
         },
         "me-west1": {
           "cud-1y": 1.38322,
@@ -35918,6 +38273,13 @@
     },
     "n2d-highcpu-8": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.2056,
+          "cud-3y": 0.14686,
+          "ondemand": 0.32635,
+          "preemptible": 0.04922,
+          "sud": 0.26108
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -36029,6 +38391,13 @@
           "preemptible": 0.07221,
           "sud": 0.21957
         },
+        "europe-west10": {
+          "cud-1y": 0.24206,
+          "cud-3y": 0.17291,
+          "ondemand": 0.38424,
+          "preemptible": 0.05795,
+          "sud": 0.30739
+        },
         "europe-west12": {
           "cud-1y": 0.20277,
           "cud-3y": 0.14484,
@@ -36084,6 +38453,13 @@
           "ondemand": 0.30315,
           "preemptible": 0.04572,
           "sud": 0.24252
+        },
+        "me-central2": {
+          "cud-1y": 0.25149,
+          "cud-3y": 0.17965,
+          "ondemand": 0.39921,
+          "preemptible": 0.06021,
+          "sud": 0.31937
         },
         "me-west1": {
           "cud-1y": 0.1729,
@@ -36203,6 +38579,13 @@
     },
     "n2d-highcpu-80": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 2.05597,
+          "cud-3y": 1.46862,
+          "ondemand": 3.26351,
+          "preemptible": 0.49223,
+          "sud": 2.61081
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -36314,6 +38697,13 @@
           "preemptible": 0.72208,
           "sud": 2.19571
         },
+        "europe-west10": {
+          "cud-1y": 2.42063,
+          "cud-3y": 1.72911,
+          "ondemand": 3.84236,
+          "preemptible": 0.57953,
+          "sud": 3.07389
+        },
         "europe-west12": {
           "cud-1y": 2.02767,
           "cud-3y": 1.44841,
@@ -36369,6 +38759,13 @@
           "ondemand": 3.03147,
           "preemptible": 0.45723,
           "sud": 2.42518
+        },
+        "me-central2": {
+          "cud-1y": 2.51494,
+          "cud-3y": 1.79648,
+          "ondemand": 3.99206,
+          "preemptible": 0.60211,
+          "sud": 3.19365
         },
         "me-west1": {
           "cud-1y": 1.72902,
@@ -36488,6 +38885,13 @@
     },
     "n2d-highcpu-96": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 2.46716,
+          "cud-3y": 1.76235,
+          "ondemand": 3.91622,
+          "preemptible": 0.59067,
+          "sud": 3.13297
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -36599,6 +39003,13 @@
           "preemptible": 0.8665,
           "sud": 2.63485
         },
+        "europe-west10": {
+          "cud-1y": 2.90476,
+          "cud-3y": 2.07493,
+          "ondemand": 4.61083,
+          "preemptible": 0.69544,
+          "sud": 3.68867
+        },
         "europe-west12": {
           "cud-1y": 2.43321,
           "cud-3y": 1.73809,
@@ -36654,6 +39065,13 @@
           "ondemand": 3.63777,
           "preemptible": 0.54867,
           "sud": 2.91021
+        },
+        "me-central2": {
+          "cud-1y": 3.01793,
+          "cud-3y": 2.15578,
+          "ondemand": 4.79048,
+          "preemptible": 0.72253,
+          "sud": 3.83238
         },
         "me-west1": {
           "cud-1y": 2.07483,
@@ -36773,6 +39191,13 @@
     },
     "n2d-highmem-16": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.75136,
+          "cud-3y": 0.53676,
+          "ondemand": 1.19269,
+          "preemptible": 0.1799,
+          "sud": 0.95415
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -36884,6 +39309,13 @@
           "preemptible": 0.26381,
           "sud": 0.80247
         },
+        "europe-west10": {
+          "cud-1y": 0.88463,
+          "cud-3y": 0.63197,
+          "ondemand": 1.40423,
+          "preemptible": 0.21181,
+          "sud": 1.12339
+        },
         "europe-west12": {
           "cud-1y": 0.74102,
           "cud-3y": 0.52937,
@@ -36939,6 +39371,13 @@
           "ondemand": 1.10789,
           "preemptible": 0.16711,
           "sud": 0.88631
+        },
+        "me-central2": {
+          "cud-1y": 0.91909,
+          "cud-3y": 0.65659,
+          "ondemand": 1.45894,
+          "preemptible": 0.22006,
+          "sud": 1.16716
         },
         "me-west1": {
           "cud-1y": 0.63188,
@@ -37058,6 +39497,13 @@
     },
     "n2d-highmem-2": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.09392,
+          "cud-3y": 0.0671,
+          "ondemand": 0.14909,
+          "preemptible": 0.02249,
+          "sud": 0.11927
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -37169,6 +39615,13 @@
           "preemptible": 0.03298,
           "sud": 0.10031
         },
+        "europe-west10": {
+          "cud-1y": 0.11058,
+          "cud-3y": 0.079,
+          "ondemand": 0.17553,
+          "preemptible": 0.02648,
+          "sud": 0.14042
+        },
         "europe-west12": {
           "cud-1y": 0.09263,
           "cud-3y": 0.06617,
@@ -37224,6 +39677,13 @@
           "ondemand": 0.13849,
           "preemptible": 0.02089,
           "sud": 0.11079
+        },
+        "me-central2": {
+          "cud-1y": 0.11489,
+          "cud-3y": 0.08207,
+          "ondemand": 0.18237,
+          "preemptible": 0.02751,
+          "sud": 0.14589
         },
         "me-west1": {
           "cud-1y": 0.07898,
@@ -37343,6 +39803,13 @@
     },
     "n2d-highmem-32": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 1.50271,
+          "cud-3y": 1.07352,
+          "ondemand": 2.38537,
+          "preemptible": 0.35979,
+          "sud": 1.9083
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -37454,6 +39921,13 @@
           "preemptible": 0.52762,
           "sud": 1.60494
         },
+        "europe-west10": {
+          "cud-1y": 1.76925,
+          "cud-3y": 1.26393,
+          "ondemand": 2.80847,
+          "preemptible": 0.42361,
+          "sud": 2.24677
+        },
         "europe-west12": {
           "cud-1y": 1.48203,
           "cud-3y": 1.05875,
@@ -37509,6 +39983,13 @@
           "ondemand": 2.21577,
           "preemptible": 0.33421,
           "sud": 1.77262
+        },
+        "me-central2": {
+          "cud-1y": 1.83818,
+          "cud-3y": 1.31318,
+          "ondemand": 2.91789,
+          "preemptible": 0.44012,
+          "sud": 2.33431
         },
         "me-west1": {
           "cud-1y": 1.26375,
@@ -37628,6 +40109,13 @@
     },
     "n2d-highmem-4": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.18784,
+          "cud-3y": 0.13419,
+          "ondemand": 0.29817,
+          "preemptible": 0.04497,
+          "sud": 0.23854
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -37739,6 +40227,13 @@
           "preemptible": 0.06595,
           "sud": 0.20062
         },
+        "europe-west10": {
+          "cud-1y": 0.22116,
+          "cud-3y": 0.15799,
+          "ondemand": 0.35106,
+          "preemptible": 0.05295,
+          "sud": 0.28085
+        },
         "europe-west12": {
           "cud-1y": 0.18525,
           "cud-3y": 0.13234,
@@ -37794,6 +40289,13 @@
           "ondemand": 0.27697,
           "preemptible": 0.04178,
           "sud": 0.22158
+        },
+        "me-central2": {
+          "cud-1y": 0.22977,
+          "cud-3y": 0.16415,
+          "ondemand": 0.36474,
+          "preemptible": 0.05501,
+          "sud": 0.29179
         },
         "me-west1": {
           "cud-1y": 0.15797,
@@ -37913,6 +40415,13 @@
     },
     "n2d-highmem-48": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 2.25407,
+          "cud-3y": 1.61028,
+          "ondemand": 3.57806,
+          "preemptible": 0.53969,
+          "sud": 2.86245
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -38024,6 +40533,13 @@
           "preemptible": 0.79142,
           "sud": 2.40741
         },
+        "europe-west10": {
+          "cud-1y": 2.65388,
+          "cud-3y": 1.8959,
+          "ondemand": 4.2127,
+          "preemptible": 0.63542,
+          "sud": 3.37016
+        },
         "europe-west12": {
           "cud-1y": 2.22305,
           "cud-3y": 1.58812,
@@ -38079,6 +40595,13 @@
           "ondemand": 3.32366,
           "preemptible": 0.50132,
           "sud": 2.65893
+        },
+        "me-central2": {
+          "cud-1y": 2.75727,
+          "cud-3y": 1.96977,
+          "ondemand": 4.37683,
+          "preemptible": 0.66017,
+          "sud": 3.50147
         },
         "me-west1": {
           "cud-1y": 1.89563,
@@ -38198,6 +40721,13 @@
     },
     "n2d-highmem-64": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 3.00543,
+          "cud-3y": 2.14705,
+          "ondemand": 4.77075,
+          "preemptible": 0.71959,
+          "sud": 3.8166
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -38309,6 +40839,13 @@
           "preemptible": 1.05523,
           "sud": 3.20988
         },
+        "europe-west10": {
+          "cud-1y": 3.5385,
+          "cud-3y": 2.52787,
+          "ondemand": 5.61693,
+          "preemptible": 0.84722,
+          "sud": 4.49355
+        },
         "europe-west12": {
           "cud-1y": 2.96407,
           "cud-3y": 2.1175,
@@ -38364,6 +40901,13 @@
           "ondemand": 4.43154,
           "preemptible": 0.66842,
           "sud": 3.54523
+        },
+        "me-central2": {
+          "cud-1y": 3.67636,
+          "cud-3y": 2.62636,
+          "ondemand": 5.83578,
+          "preemptible": 0.88023,
+          "sud": 4.66862
         },
         "me-west1": {
           "cud-1y": 2.5275,
@@ -38483,6 +41027,13 @@
     },
     "n2d-highmem-8": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.37568,
+          "cud-3y": 0.26838,
+          "ondemand": 0.59634,
+          "preemptible": 0.08995,
+          "sud": 0.47707
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -38594,6 +41145,13 @@
           "preemptible": 0.1319,
           "sud": 0.40124
         },
+        "europe-west10": {
+          "cud-1y": 0.44231,
+          "cud-3y": 0.31598,
+          "ondemand": 0.70212,
+          "preemptible": 0.1059,
+          "sud": 0.56169
+        },
         "europe-west12": {
           "cud-1y": 0.37051,
           "cud-3y": 0.26469,
@@ -38649,6 +41207,13 @@
           "ondemand": 0.55394,
           "preemptible": 0.08355,
           "sud": 0.44315
+        },
+        "me-central2": {
+          "cud-1y": 0.45955,
+          "cud-3y": 0.32829,
+          "ondemand": 0.72947,
+          "preemptible": 0.11003,
+          "sud": 0.58358
         },
         "me-west1": {
           "cud-1y": 0.31594,
@@ -38768,6 +41333,13 @@
     },
     "n2d-highmem-80": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 3.75679,
+          "cud-3y": 2.68381,
+          "ondemand": 5.96343,
+          "preemptible": 0.89949,
+          "sud": 4.77075
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -38879,6 +41451,13 @@
           "preemptible": 1.31904,
           "sud": 4.01235
         },
+        "europe-west10": {
+          "cud-1y": 4.42313,
+          "cud-3y": 3.15983,
+          "ondemand": 7.02117,
+          "preemptible": 1.05903,
+          "sud": 5.61693
+        },
         "europe-west12": {
           "cud-1y": 3.70509,
           "cud-3y": 2.64687,
@@ -38934,6 +41513,13 @@
           "ondemand": 5.53943,
           "preemptible": 0.83553,
           "sud": 4.43154
+        },
+        "me-central2": {
+          "cud-1y": 4.59546,
+          "cud-3y": 3.28294,
+          "ondemand": 7.29472,
+          "preemptible": 1.10029,
+          "sud": 5.83578
         },
         "me-west1": {
           "cud-1y": 3.15938,
@@ -39053,6 +41639,13 @@
     },
     "n2d-highmem-96": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 4.50814,
+          "cud-3y": 3.22057,
+          "ondemand": 7.15612,
+          "preemptible": 1.07938,
+          "sud": 5.7249
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -39164,6 +41757,13 @@
           "preemptible": 1.58285,
           "sud": 4.81482
         },
+        "europe-west10": {
+          "cud-1y": 5.30775,
+          "cud-3y": 3.7918,
+          "ondemand": 8.4254,
+          "preemptible": 1.27083,
+          "sud": 6.74032
+        },
         "europe-west12": {
           "cud-1y": 4.4461,
           "cud-3y": 3.17625,
@@ -39219,6 +41819,13 @@
           "ondemand": 6.64731,
           "preemptible": 1.00264,
           "sud": 5.31785
+        },
+        "me-central2": {
+          "cud-1y": 5.51455,
+          "cud-3y": 3.93953,
+          "ondemand": 8.75366,
+          "preemptible": 1.32035,
+          "sud": 7.00293
         },
         "me-west1": {
           "cud-1y": 3.79125,
@@ -39338,6 +41945,13 @@
     },
     "n2d-standard-128": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 4.45582,
+          "cud-3y": 3.18307,
+          "ondemand": 7.07299,
+          "preemptible": 1.06683,
+          "sud": 5.6584
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -39449,6 +42063,13 @@
           "preemptible": 1.56467,
           "sud": 4.75884
         },
+        "europe-west10": {
+          "cud-1y": 5.24615,
+          "cud-3y": 3.74765,
+          "ondemand": 8.32753,
+          "preemptible": 1.25605,
+          "sud": 6.66203
+        },
         "europe-west12": {
           "cud-1y": 4.3945,
           "cud-3y": 3.13926,
@@ -39504,6 +42125,13 @@
           "ondemand": 6.5701,
           "preemptible": 0.99097,
           "sud": 5.25608
+        },
+        "me-central2": {
+          "cud-1y": 5.45055,
+          "cud-3y": 3.89366,
+          "ondemand": 8.65198,
+          "preemptible": 1.30499,
+          "sud": 6.92158
         },
         "me-west1": {
           "cud-1y": 3.74725,
@@ -39623,6 +42251,13 @@
     },
     "n2d-standard-16": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.55698,
+          "cud-3y": 0.39788,
+          "ondemand": 0.88412,
+          "preemptible": 0.13335,
+          "sud": 0.7073
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -39734,6 +42369,13 @@
           "preemptible": 0.19558,
           "sud": 0.59485
         },
+        "europe-west10": {
+          "cud-1y": 0.65577,
+          "cud-3y": 0.46846,
+          "ondemand": 1.04094,
+          "preemptible": 0.15701,
+          "sud": 0.83275
+        },
         "europe-west12": {
           "cud-1y": 0.54931,
           "cud-3y": 0.39241,
@@ -39789,6 +42431,13 @@
           "ondemand": 0.82126,
           "preemptible": 0.12387,
           "sud": 0.65701
+        },
+        "me-central2": {
+          "cud-1y": 0.68132,
+          "cud-3y": 0.48671,
+          "ondemand": 1.0815,
+          "preemptible": 0.16312,
+          "sud": 0.8652
         },
         "me-west1": {
           "cud-1y": 0.46841,
@@ -39908,6 +42557,13 @@
     },
     "n2d-standard-2": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.06962,
+          "cud-3y": 0.04974,
+          "ondemand": 0.11052,
+          "preemptible": 0.01667,
+          "sud": 0.08841
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -40019,6 +42675,13 @@
           "preemptible": 0.02445,
           "sud": 0.07436
         },
+        "europe-west10": {
+          "cud-1y": 0.08197,
+          "cud-3y": 0.05856,
+          "ondemand": 0.13012,
+          "preemptible": 0.01963,
+          "sud": 0.10409
+        },
         "europe-west12": {
           "cud-1y": 0.06866,
           "cud-3y": 0.04905,
@@ -40074,6 +42737,13 @@
           "ondemand": 0.10266,
           "preemptible": 0.01548,
           "sud": 0.08213
+        },
+        "me-central2": {
+          "cud-1y": 0.08516,
+          "cud-3y": 0.06084,
+          "ondemand": 0.13519,
+          "preemptible": 0.02039,
+          "sud": 0.10815
         },
         "me-west1": {
           "cud-1y": 0.05855,
@@ -40193,6 +42863,13 @@
     },
     "n2d-standard-224": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 7.79769,
+          "cud-3y": 5.57036,
+          "ondemand": 12.37774,
+          "preemptible": 1.86695,
+          "sud": 9.90219
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -40304,6 +42981,13 @@
           "preemptible": 2.73818,
           "sud": 8.32796
         },
+        "europe-west10": {
+          "cud-1y": 9.18077,
+          "cud-3y": 6.55838,
+          "ondemand": 14.57318,
+          "preemptible": 2.19809,
+          "sud": 11.65854
+        },
         "europe-west12": {
           "cud-1y": 7.69038,
           "cud-3y": 5.49371,
@@ -40359,6 +43043,13 @@
           "ondemand": 11.49767,
           "preemptible": 1.7342,
           "sud": 9.19814
+        },
+        "me-central2": {
+          "cud-1y": 9.53846,
+          "cud-3y": 6.8139,
+          "ondemand": 15.14097,
+          "preemptible": 2.28372,
+          "sud": 12.11277
         },
         "me-west1": {
           "cud-1y": 6.55769,
@@ -40478,6 +43169,13 @@
     },
     "n2d-standard-32": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 1.11396,
+          "cud-3y": 0.79577,
+          "ondemand": 1.76825,
+          "preemptible": 0.26671,
+          "sud": 1.4146
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -40589,6 +43287,13 @@
           "preemptible": 0.39117,
           "sud": 1.18971
         },
+        "europe-west10": {
+          "cud-1y": 1.31154,
+          "cud-3y": 0.93691,
+          "ondemand": 2.08188,
+          "preemptible": 0.31401,
+          "sud": 1.66551
+        },
         "europe-west12": {
           "cud-1y": 1.09863,
           "cud-3y": 0.78482,
@@ -40644,6 +43349,13 @@
           "ondemand": 1.64252,
           "preemptible": 0.24774,
           "sud": 1.31402
+        },
+        "me-central2": {
+          "cud-1y": 1.36264,
+          "cud-3y": 0.97341,
+          "ondemand": 2.163,
+          "preemptible": 0.32625,
+          "sud": 1.7304
         },
         "me-west1": {
           "cud-1y": 0.93681,
@@ -40763,6 +43475,13 @@
     },
     "n2d-standard-4": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.13924,
+          "cud-3y": 0.09947,
+          "ondemand": 0.22103,
+          "preemptible": 0.03334,
+          "sud": 0.17682
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -40874,6 +43593,13 @@
           "preemptible": 0.0489,
           "sud": 0.14871
         },
+        "europe-west10": {
+          "cud-1y": 0.16394,
+          "cud-3y": 0.11711,
+          "ondemand": 0.26024,
+          "preemptible": 0.03925,
+          "sud": 0.20819
+        },
         "europe-west12": {
           "cud-1y": 0.13733,
           "cud-3y": 0.0981,
@@ -40929,6 +43655,13 @@
           "ondemand": 0.20532,
           "preemptible": 0.03097,
           "sud": 0.16425
+        },
+        "me-central2": {
+          "cud-1y": 0.17033,
+          "cud-3y": 0.12168,
+          "ondemand": 0.27037,
+          "preemptible": 0.04078,
+          "sud": 0.2163
         },
         "me-west1": {
           "cud-1y": 0.1171,
@@ -41048,6 +43781,13 @@
     },
     "n2d-standard-48": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 1.67093,
+          "cud-3y": 1.19365,
+          "ondemand": 2.65237,
+          "preemptible": 0.40006,
+          "sud": 2.1219
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -41159,6 +43899,13 @@
           "preemptible": 0.58675,
           "sud": 1.78456
         },
+        "europe-west10": {
+          "cud-1y": 1.96731,
+          "cud-3y": 1.40537,
+          "ondemand": 3.12282,
+          "preemptible": 0.47102,
+          "sud": 2.49826
+        },
         "europe-west12": {
           "cud-1y": 1.64794,
           "cud-3y": 1.17722,
@@ -41214,6 +43961,13 @@
           "ondemand": 2.46379,
           "preemptible": 0.37162,
           "sud": 1.97103
+        },
+        "me-central2": {
+          "cud-1y": 2.04396,
+          "cud-3y": 1.46012,
+          "ondemand": 3.24449,
+          "preemptible": 0.48937,
+          "sud": 2.59559
         },
         "me-west1": {
           "cud-1y": 1.40522,
@@ -41333,6 +44087,13 @@
     },
     "n2d-standard-64": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 2.22791,
+          "cud-3y": 1.59153,
+          "ondemand": 3.5365,
+          "preemptible": 0.53341,
+          "sud": 2.8292
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -41444,6 +44205,13 @@
           "preemptible": 0.78234,
           "sud": 2.37942
         },
+        "europe-west10": {
+          "cud-1y": 2.62308,
+          "cud-3y": 1.87382,
+          "ondemand": 4.16377,
+          "preemptible": 0.62802,
+          "sud": 3.33101
+        },
         "europe-west12": {
           "cud-1y": 2.19725,
           "cud-3y": 1.56963,
@@ -41499,6 +44267,13 @@
           "ondemand": 3.28505,
           "preemptible": 0.49549,
           "sud": 2.62804
+        },
+        "me-central2": {
+          "cud-1y": 2.72527,
+          "cud-3y": 1.94683,
+          "ondemand": 4.32599,
+          "preemptible": 0.65249,
+          "sud": 3.46079
         },
         "me-west1": {
           "cud-1y": 1.87363,
@@ -41618,6 +44393,13 @@
     },
     "n2d-standard-8": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.27849,
+          "cud-3y": 0.19894,
+          "ondemand": 0.44206,
+          "preemptible": 0.06668,
+          "sud": 0.35365
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -41729,6 +44511,13 @@
           "preemptible": 0.09779,
           "sud": 0.29743
         },
+        "europe-west10": {
+          "cud-1y": 0.32788,
+          "cud-3y": 0.23423,
+          "ondemand": 0.52047,
+          "preemptible": 0.0785,
+          "sud": 0.41638
+        },
         "europe-west12": {
           "cud-1y": 0.27466,
           "cud-3y": 0.1962,
@@ -41784,6 +44573,13 @@
           "ondemand": 0.41063,
           "preemptible": 0.06194,
           "sud": 0.3285
+        },
+        "me-central2": {
+          "cud-1y": 0.34066,
+          "cud-3y": 0.24335,
+          "ondemand": 0.54075,
+          "preemptible": 0.08156,
+          "sud": 0.4326
         },
         "me-west1": {
           "cud-1y": 0.2342,
@@ -41903,6 +44699,13 @@
     },
     "n2d-standard-80": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 2.78489,
+          "cud-3y": 1.98942,
+          "ondemand": 4.42062,
+          "preemptible": 0.66677,
+          "sud": 3.5365
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -42014,6 +44817,13 @@
           "preemptible": 0.97792,
           "sud": 2.97427
         },
+        "europe-west10": {
+          "cud-1y": 3.27884,
+          "cud-3y": 2.34228,
+          "ondemand": 5.20471,
+          "preemptible": 0.78503,
+          "sud": 4.16377
+        },
         "europe-west12": {
           "cud-1y": 2.74656,
           "cud-3y": 1.96204,
@@ -42069,6 +44879,13 @@
           "ondemand": 4.10631,
           "preemptible": 0.61936,
           "sud": 3.28505
+        },
+        "me-central2": {
+          "cud-1y": 3.40659,
+          "cud-3y": 2.43354,
+          "ondemand": 5.40749,
+          "preemptible": 0.81562,
+          "sud": 4.32599
         },
         "me-west1": {
           "cud-1y": 2.34203,
@@ -42188,6 +45005,13 @@
     },
     "n2d-standard-96": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 3.34187,
+          "cud-3y": 2.3873,
+          "ondemand": 5.30475,
+          "preemptible": 0.80012,
+          "sud": 4.2438
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -42299,6 +45123,13 @@
           "preemptible": 1.1735,
           "sud": 3.56913
         },
+        "europe-west10": {
+          "cud-1y": 3.93461,
+          "cud-3y": 2.81073,
+          "ondemand": 6.24565,
+          "preemptible": 0.94204,
+          "sud": 4.99652
+        },
         "europe-west12": {
           "cud-1y": 3.29588,
           "cud-3y": 2.35445,
@@ -42354,6 +45185,13 @@
           "ondemand": 4.92757,
           "preemptible": 0.74323,
           "sud": 3.94206
+        },
+        "me-central2": {
+          "cud-1y": 4.08791,
+          "cud-3y": 2.92024,
+          "ondemand": 6.48899,
+          "preemptible": 0.97874,
+          "sud": 5.19119
         },
         "me-west1": {
           "cud-1y": 2.81044,
@@ -42475,6 +45313,7 @@
   "t2a": {
     "t2a-standard-1": {
       "regions": {
+        "africa-south1": {},
         "asia": {},
         "asia-east": {},
         "asia-east1": {},
@@ -42500,6 +45339,7 @@
         "europe-north1": {},
         "europe-southwest1": {},
         "europe-west1": {},
+        "europe-west10": {},
         "europe-west12": {},
         "europe-west2": {},
         "europe-west3": {},
@@ -42512,6 +45352,7 @@
         "europe-west8": {},
         "europe-west9": {},
         "me-central1": {},
+        "me-central2": {},
         "me-west1": {},
         "northamerica-northeast1": {},
         "northamerica-northeast2": {},
@@ -42557,6 +45398,7 @@
     },
     "t2a-standard-16": {
       "regions": {
+        "africa-south1": {},
         "asia": {},
         "asia-east": {},
         "asia-east1": {},
@@ -42582,6 +45424,7 @@
         "europe-north1": {},
         "europe-southwest1": {},
         "europe-west1": {},
+        "europe-west10": {},
         "europe-west12": {},
         "europe-west2": {},
         "europe-west3": {},
@@ -42594,6 +45437,7 @@
         "europe-west8": {},
         "europe-west9": {},
         "me-central1": {},
+        "me-central2": {},
         "me-west1": {},
         "northamerica-northeast1": {},
         "northamerica-northeast2": {},
@@ -42639,6 +45483,7 @@
     },
     "t2a-standard-2": {
       "regions": {
+        "africa-south1": {},
         "asia": {},
         "asia-east": {},
         "asia-east1": {},
@@ -42664,6 +45509,7 @@
         "europe-north1": {},
         "europe-southwest1": {},
         "europe-west1": {},
+        "europe-west10": {},
         "europe-west12": {},
         "europe-west2": {},
         "europe-west3": {},
@@ -42676,6 +45522,7 @@
         "europe-west8": {},
         "europe-west9": {},
         "me-central1": {},
+        "me-central2": {},
         "me-west1": {},
         "northamerica-northeast1": {},
         "northamerica-northeast2": {},
@@ -42721,6 +45568,7 @@
     },
     "t2a-standard-32": {
       "regions": {
+        "africa-south1": {},
         "asia": {},
         "asia-east": {},
         "asia-east1": {},
@@ -42746,6 +45594,7 @@
         "europe-north1": {},
         "europe-southwest1": {},
         "europe-west1": {},
+        "europe-west10": {},
         "europe-west12": {},
         "europe-west2": {},
         "europe-west3": {},
@@ -42758,6 +45607,7 @@
         "europe-west8": {},
         "europe-west9": {},
         "me-central1": {},
+        "me-central2": {},
         "me-west1": {},
         "northamerica-northeast1": {},
         "northamerica-northeast2": {},
@@ -42803,6 +45653,7 @@
     },
     "t2a-standard-4": {
       "regions": {
+        "africa-south1": {},
         "asia": {},
         "asia-east": {},
         "asia-east1": {},
@@ -42828,6 +45679,7 @@
         "europe-north1": {},
         "europe-southwest1": {},
         "europe-west1": {},
+        "europe-west10": {},
         "europe-west12": {},
         "europe-west2": {},
         "europe-west3": {},
@@ -42840,6 +45692,7 @@
         "europe-west8": {},
         "europe-west9": {},
         "me-central1": {},
+        "me-central2": {},
         "me-west1": {},
         "northamerica-northeast1": {},
         "northamerica-northeast2": {},
@@ -42885,6 +45738,7 @@
     },
     "t2a-standard-48": {
       "regions": {
+        "africa-south1": {},
         "asia": {},
         "asia-east": {},
         "asia-east1": {},
@@ -42910,6 +45764,7 @@
         "europe-north1": {},
         "europe-southwest1": {},
         "europe-west1": {},
+        "europe-west10": {},
         "europe-west12": {},
         "europe-west2": {},
         "europe-west3": {},
@@ -42922,6 +45777,7 @@
         "europe-west8": {},
         "europe-west9": {},
         "me-central1": {},
+        "me-central2": {},
         "me-west1": {},
         "northamerica-northeast1": {},
         "northamerica-northeast2": {},
@@ -42967,6 +45823,7 @@
     },
     "t2a-standard-8": {
       "regions": {
+        "africa-south1": {},
         "asia": {},
         "asia-east": {},
         "asia-east1": {},
@@ -42992,6 +45849,7 @@
         "europe-north1": {},
         "europe-southwest1": {},
         "europe-west1": {},
+        "europe-west10": {},
         "europe-west12": {},
         "europe-west2": {},
         "europe-west3": {},
@@ -43004,6 +45862,7 @@
         "europe-west8": {},
         "europe-west9": {},
         "me-central1": {},
+        "me-central2": {},
         "me-west1": {},
         "northamerica-northeast1": {},
         "northamerica-northeast2": {},
@@ -43051,6 +45910,13 @@
   "t2d": {
     "t2d-standard-1": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.03481,
+          "cud-3y": 0.02487,
+          "ondemand": 0.05526,
+          "preemptible": 0.00876,
+          "sud": 0.05526
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -43162,6 +46028,13 @@
           "preemptible": 0.01363,
           "sud": 0.04647
         },
+        "europe-west10": {
+          "cud-1y": 0.04099,
+          "cud-3y": 0.02928,
+          "ondemand": 0.06506,
+          "preemptible": 0.01031,
+          "sud": 0.06506
+        },
         "europe-west12": {
           "cud-1y": 0.03433,
           "cud-3y": 0.02453,
@@ -43217,6 +46090,13 @@
           "ondemand": 0.05133,
           "preemptible": 0.00774,
           "sud": 0.05133
+        },
+        "me-central2": {
+          "cud-1y": 0.04258,
+          "cud-3y": 0.03042,
+          "ondemand": 0.06759,
+          "preemptible": 0.01071,
+          "sud": 0.06759
         },
         "me-west1": {
           "cud-1y": 0.02928,
@@ -43335,6 +46215,13 @@
     },
     "t2d-standard-16": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.55698,
+          "cud-3y": 0.39788,
+          "ondemand": 0.88412,
+          "preemptible": 0.14013,
+          "sud": 0.88412
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -43446,6 +46333,13 @@
           "preemptible": 0.21808,
           "sud": 0.74357
         },
+        "europe-west10": {
+          "cud-1y": 0.65577,
+          "cud-3y": 0.46846,
+          "ondemand": 1.04094,
+          "preemptible": 0.16499,
+          "sud": 1.04094
+        },
         "europe-west12": {
           "cud-1y": 0.54931,
           "cud-3y": 0.39241,
@@ -43501,6 +46395,13 @@
           "ondemand": 0.82126,
           "preemptible": 0.12387,
           "sud": 0.82126
+        },
+        "me-central2": {
+          "cud-1y": 0.68132,
+          "cud-3y": 0.48671,
+          "ondemand": 1.0815,
+          "preemptible": 0.17142,
+          "sud": 1.0815
         },
         "me-west1": {
           "cud-1y": 0.46841,
@@ -43619,6 +46520,13 @@
     },
     "t2d-standard-2": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.06962,
+          "cud-3y": 0.04974,
+          "ondemand": 0.11052,
+          "preemptible": 0.01752,
+          "sud": 0.11052
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -43730,6 +46638,13 @@
           "preemptible": 0.02726,
           "sud": 0.09295
         },
+        "europe-west10": {
+          "cud-1y": 0.08197,
+          "cud-3y": 0.05856,
+          "ondemand": 0.13012,
+          "preemptible": 0.02062,
+          "sud": 0.13012
+        },
         "europe-west12": {
           "cud-1y": 0.06866,
           "cud-3y": 0.04905,
@@ -43785,6 +46700,13 @@
           "ondemand": 0.10266,
           "preemptible": 0.01548,
           "sud": 0.10266
+        },
+        "me-central2": {
+          "cud-1y": 0.08516,
+          "cud-3y": 0.06084,
+          "ondemand": 0.13519,
+          "preemptible": 0.02143,
+          "sud": 0.13519
         },
         "me-west1": {
           "cud-1y": 0.05855,
@@ -43903,6 +46825,13 @@
     },
     "t2d-standard-32": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 1.11396,
+          "cud-3y": 0.79577,
+          "ondemand": 1.76825,
+          "preemptible": 0.28027,
+          "sud": 1.76825
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -44014,6 +46943,13 @@
           "preemptible": 0.43616,
           "sud": 1.48714
         },
+        "europe-west10": {
+          "cud-1y": 1.31154,
+          "cud-3y": 0.93691,
+          "ondemand": 2.08188,
+          "preemptible": 0.32998,
+          "sud": 2.08188
+        },
         "europe-west12": {
           "cud-1y": 1.09863,
           "cud-3y": 0.78482,
@@ -44069,6 +47005,13 @@
           "ondemand": 1.64252,
           "preemptible": 0.24774,
           "sud": 1.64252
+        },
+        "me-central2": {
+          "cud-1y": 1.36264,
+          "cud-3y": 0.97341,
+          "ondemand": 2.163,
+          "preemptible": 0.34284,
+          "sud": 2.163
         },
         "me-west1": {
           "cud-1y": 0.93681,
@@ -44187,6 +47130,13 @@
     },
     "t2d-standard-4": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.13924,
+          "cud-3y": 0.09947,
+          "ondemand": 0.22103,
+          "preemptible": 0.03503,
+          "sud": 0.22103
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -44298,6 +47248,13 @@
           "preemptible": 0.05452,
           "sud": 0.18589
         },
+        "europe-west10": {
+          "cud-1y": 0.16394,
+          "cud-3y": 0.11711,
+          "ondemand": 0.26024,
+          "preemptible": 0.04125,
+          "sud": 0.26024
+        },
         "europe-west12": {
           "cud-1y": 0.13733,
           "cud-3y": 0.0981,
@@ -44353,6 +47310,13 @@
           "ondemand": 0.20532,
           "preemptible": 0.03097,
           "sud": 0.20532
+        },
+        "me-central2": {
+          "cud-1y": 0.17033,
+          "cud-3y": 0.12168,
+          "ondemand": 0.27037,
+          "preemptible": 0.04285,
+          "sud": 0.27037
         },
         "me-west1": {
           "cud-1y": 0.1171,
@@ -44471,6 +47435,13 @@
     },
     "t2d-standard-48": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 1.67093,
+          "cud-3y": 1.19365,
+          "ondemand": 2.65237,
+          "preemptible": 0.4204,
+          "sud": 2.65237
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -44582,6 +47553,13 @@
           "preemptible": 0.65424,
           "sud": 2.2307
         },
+        "europe-west10": {
+          "cud-1y": 1.96731,
+          "cud-3y": 1.40537,
+          "ondemand": 3.12282,
+          "preemptible": 0.49497,
+          "sud": 3.12282
+        },
         "europe-west12": {
           "cud-1y": 1.64794,
           "cud-3y": 1.17722,
@@ -44637,6 +47615,13 @@
           "ondemand": 2.46379,
           "preemptible": 0.37162,
           "sud": 2.46379
+        },
+        "me-central2": {
+          "cud-1y": 2.04396,
+          "cud-3y": 1.46012,
+          "ondemand": 3.24449,
+          "preemptible": 0.51425,
+          "sud": 3.24449
         },
         "me-west1": {
           "cud-1y": 1.40522,
@@ -44755,6 +47740,13 @@
     },
     "t2d-standard-60": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 2.08867,
+          "cud-3y": 1.49206,
+          "ondemand": 3.31547,
+          "preemptible": 0.5255,
+          "sud": 3.31547
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -44866,6 +47858,13 @@
           "preemptible": 0.8178,
           "sud": 2.78838
         },
+        "europe-west10": {
+          "cud-1y": 2.45913,
+          "cud-3y": 1.75671,
+          "ondemand": 3.90353,
+          "preemptible": 0.61871,
+          "sud": 3.90353
+        },
         "europe-west12": {
           "cud-1y": 2.05992,
           "cud-3y": 1.47153,
@@ -44921,6 +47920,13 @@
           "ondemand": 3.07973,
           "preemptible": 0.46452,
           "sud": 3.07973
+        },
+        "me-central2": {
+          "cud-1y": 2.55494,
+          "cud-3y": 1.82515,
+          "ondemand": 4.05562,
+          "preemptible": 0.64282,
+          "sud": 4.05562
         },
         "me-west1": {
           "cud-1y": 1.75652,
@@ -45039,6 +48045,13 @@
     },
     "t2d-standard-8": {
       "regions": {
+        "africa-south1": {
+          "cud-1y": 0.27849,
+          "cud-3y": 0.19894,
+          "ondemand": 0.44206,
+          "preemptible": 0.07007,
+          "sud": 0.44206
+        },
         "asia": {},
         "asia-east": {},
         "asia-east1": {
@@ -45150,6 +48163,13 @@
           "preemptible": 0.10904,
           "sud": 0.37178
         },
+        "europe-west10": {
+          "cud-1y": 0.32788,
+          "cud-3y": 0.23423,
+          "ondemand": 0.52047,
+          "preemptible": 0.08249,
+          "sud": 0.52047
+        },
         "europe-west12": {
           "cud-1y": 0.27466,
           "cud-3y": 0.1962,
@@ -45205,6 +48225,13 @@
           "ondemand": 0.41063,
           "preemptible": 0.06194,
           "sud": 0.41063
+        },
+        "me-central2": {
+          "cud-1y": 0.34066,
+          "cud-3y": 0.24335,
+          "ondemand": 0.54075,
+          "preemptible": 0.08571,
+          "sud": 0.54075
         },
         "me-west1": {
           "cud-1y": 0.2342,
