@@ -31,7 +31,7 @@ if __name__ == '__main__':
                'northamerica-northeast2', 'asia', 'asia-east', 'asia-east1', 'asia-east2',
                'asia-northeast', 'me-west1', 'me-central1', 'asia-northeast1', 'asia-northeast2', 'asia-northeast3',
                'asia-southeast', 'asia-southeast1', 'australia-southeast1', 'australia-southeast2',
-               'australia', 'southamerica-east1', 'asia-south1', 'asia-southeast2', 'asia-south2', 'southamerica-west1']
+               'australia', 'southamerica-east1', 'asia-south1', 'asia-southeast2', 'asia-south2', 'southamerica-west1','africa-south1']
 
     specs_params = ['cores', 'memory', 'local_ssd', 'gpu', 'sole_tenant', 'nested_virtualization', 'cpu', 'benchmark']
     generations = ['f1', 'g1', 'n1', 'n2', 'n2d', 'e2', 'c2', 'c2d', 'm1', 'm2', 'm3', 'a2', 't2d', 't2a', 'c3']
