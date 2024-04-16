@@ -43,11 +43,7 @@ jobs:
         run: echo "MD5=$(md5sum data.json)" >> $GITHUB_OUTPUT
 
       - name: Update checking timestamp
-        run: sed -i 's/id="last_check">.*</id="last_check">${{ steps.time.outputs.DATE }}</g' index.html
-
-      - name: Update update timestamp, if updated
-        run: sed -i 's/id="last_update">.*</id="last_update">${{ steps.time.outputs.DATE }}</g' index.html
-        if: steps.data-before.outputs.MD5 != steps.data-after.outputs.MD5
+        run: sed -i 's/Last Prices Check:.*</strong>/Last Prices Check: <strong>${{ steps.time.outputs.DATE }}</strong>/g' index.html
 
       - uses: EndBug/add-and-commit@v9
         with:
