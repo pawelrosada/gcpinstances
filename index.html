@@ -128,6 +128,12 @@
     </div>
   </div>
 
+  <div class="form-inline" id="filters">
+    <strong> Filter:</strong>
+    <input placeholder="Min Memory (GiB)" data-action="datafilter" data-type="memory" class="form-control" />
+    <input placeholder="Min vCPUs" data-action="datafilter" data-type="vcpus" class="form-control" />
+    <!-- Min Storage (GiB): <input data-action="datafilter" data-type="storage" class="form-control" /> -->
+  </div>
   <div class="row mt-3">
     <div class="col-md-3">
         <div class="mb-3">
@@ -183,7 +189,6 @@
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
-  <script src="https://cdn.datatables.net/fixedheader/3.1.8/js/dataTables.fixedHeader.min.js"></script>
   <script src="default.js"></script>
 
   <script type="text/javascript" charset="utf8"
