@@ -122,10 +122,12 @@
 <!--   </div> -->
   <div class="row mt-3" class="form-inline" id="filters">
     <div class="col-md-3">
-        <input type="number" class="form-control" data-action="datafilter" data-type="memory" placeholder="Min Memory (GiB)">
+	<label for="minMemory" class="form-label">Min Memory (GiB):</label>
+        <input id="minMemory" type="number" class="form-control" data-action="datafilter" data-type="memory" placeholder="Min Memory (GiB)">
     </div>
     <div class="col-md-3">
-	<input type="number" class="form-control" data-action="datafilter" data-type="vcpus" placeholder="Min vCPUs">
+	<label for="minVCPUs" class="form-label">Min vCPUs:</label>
+	<input id="minVCPUs" type="number" class="form-control" data-action="datafilter" data-type="vcpus" placeholder="Min vCPUs">
     </div>
 </div>
 
