@@ -5,7 +5,7 @@ on:
     branches: [ master ]
   schedule:
     # every day after midnight, UTC
-    - cron:  '1 * * * *'
+    - cron:  '00 01,13 * * *'
 
 jobs:
   scrape-and-publish:
